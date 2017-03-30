@@ -11,14 +11,22 @@ namespace Ej.Sobrecarga
         string[] _alumnos;
 
         public Curso(string alumno)
+            : this (new string[]{ alumno, "hola" })
         {
-            this._alumnos = new string[1];
-            this._alumnos[0] = alumno;
+            //this._alumnos = new string[1];
+            //this._alumnos[0] = alumno;
         }
 
         public Curso(string[] alumnos)
         {
             this._alumnos = alumnos;
+        }
+
+        public Curso(string[] alumnos, int a, float b)
+            : this(alumnos)
+        {
+            //a 
+            //b
         }
 
         /// <summary>

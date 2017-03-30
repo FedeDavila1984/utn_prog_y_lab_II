@@ -8,13 +8,13 @@ namespace Ej.Sobrecarga
 {
     public class Curso
     {
+        int _curso;
+        char _division;
         string[] _alumnos;
 
         public Curso(string alumno)
             : this (new string[]{ alumno, "hola" })
         {
-            //this._alumnos = new string[1];
-            //this._alumnos[0] = alumno;
         }
 
         public Curso(string[] alumnos)
@@ -22,11 +22,11 @@ namespace Ej.Sobrecarga
             this._alumnos = alumnos;
         }
 
-        public Curso(string[] alumnos, int a, float b)
+        public Curso(string[] alumnos, int curso, char division)
             : this(alumnos)
         {
-            //a 
-            //b
+            this._curso = curso;
+            this._division = division;
         }
 
         /// <summary>

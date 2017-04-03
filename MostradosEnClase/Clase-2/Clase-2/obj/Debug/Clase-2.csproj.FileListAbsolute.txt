@@ -1,0 +1,12 @@
+D:\VisualStudio\Federico Dávila\Clase-2\Clase-2\bin\Debug\Clase-2.exe.config
+D:\VisualStudio\Federico Dávila\Clase-2\Clase-2\obj\Debug\Clase-2.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\Clase-2\Clase-2\bin\Debug\Clase-2.exe
+D:\VisualStudio\Federico Dávila\Clase-2\Clase-2\bin\Debug\Clase-2.pdb
+D:\VisualStudio\Federico Dávila\Clase-2\Clase-2\obj\Debug\Clase-2.exe
+D:\VisualStudio\Federico Dávila\Clase-2\Clase-2\obj\Debug\Clase-2.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-2\Clase-2\bin\Debug\Clase-2.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-2\Clase-2\bin\Debug\Clase-2.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-2\Clase-2\bin\Debug\Clase-2.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-2\Clase-2\obj\Debug\Clase-2.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-2\Clase-2\obj\Debug\Clase-2.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-2\Clase-2\obj\Debug\Clase-2.pdb

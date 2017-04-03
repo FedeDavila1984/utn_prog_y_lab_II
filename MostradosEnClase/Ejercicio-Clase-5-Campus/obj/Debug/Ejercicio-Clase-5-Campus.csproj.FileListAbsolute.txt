@@ -1,0 +1,10 @@
+D:\VisualStudio\Ejercicio-Clase-5-Campus\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.pdb
+D:\VisualStudio\Ejercicio-Clase-5-Campus\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ejercicio-Clase-5-Campus\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.pdb
+D:\VisualStudio\Ejercicio-Clase-5-Campus\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.exe
+D:\VisualStudio\Ejercicio-Clase-5-Campus\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.pdb

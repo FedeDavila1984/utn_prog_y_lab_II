@@ -16,7 +16,6 @@ namespace ConsoleApplication1
 
             Console.WriteLine(sb.ToString());
 
-
             Console.ReadKey();
         }
     }

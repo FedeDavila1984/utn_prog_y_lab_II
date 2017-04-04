@@ -12,16 +12,31 @@ namespace Ej.Sobrecarga
         char _division;
         string[] _alumnos;
 
+        /// <summary>
+        /// Sobrecarga del Constructor: Recibe un string con el Alumno, lo convierte a array y se lo pasa al Constructor que corresponde.
+        /// </summary>
+        /// <param name="alumno">Cadena de Texto con un alumno</param>
         public Curso(string alumno)
-            : this (new string[]{ alumno, "hola" })
+            : this (new string[]{ alumno })
         {
         }
 
+        /// <summary>
+        /// Sobrecarga del Constructor: Recibe un array de cadenas de texto y lo guarda en _alumnos
+        /// </summary>
+        /// <param name="alumnos">Array de cadenas de texto con los alumnos</param>
         public Curso(string[] alumnos)
         {
             this._alumnos = alumnos;
         }
 
+        /// <summary>
+        /// Sobrecarga del Constructor: recibe un array de cadenas de texto y lo pasa al constructor correspondiente.
+        /// También recibe un entero con el curso y un char con la división.
+        /// </summary>
+        /// <param name="alumnos">Array de cadenas de texto con los alumnos</param>
+        /// <param name="curso">Entero con el número de curso</param>
+        /// <param name="division">Char con la división</param>
         public Curso(string[] alumnos, int curso, char division)
             : this(alumnos)
         {
@@ -32,8 +47,8 @@ namespace Ej.Sobrecarga
         /// <summary>
         /// Comparo la palabra de la clase con un tamaño
         /// </summary>
-        /// <param name="c"></param>
-        /// <param name="tamanio"></param>
+        /// <param name="c">Objeto Curso</param>
+        /// <param name="tamanio">Entero con la cantidad a comparar</param>
         /// <returns></returns>
         public static bool operator >(Curso c, int tamanio)
         {
@@ -44,8 +59,8 @@ namespace Ej.Sobrecarga
         /// <summary>
         /// Comparo la palabra de la clase con un tamaño
         /// </summary>
-        /// <param name="s"></param>
-        /// <param name="tamanio"></param>
+        /// <param name="c">Objeto Curso</param>
+        /// <param name="tamanio">Entero con la cantidad a comparar</param>
         /// <returns></returns>
         public static bool operator <(Curso c, int tamanio)
         {
@@ -57,8 +72,8 @@ namespace Ej.Sobrecarga
         /// <summary>
         /// Compara la cantidad de alumnos de dos cursos
         /// </summary>
-        /// <param name="c1"></param>
-        /// <param name="c2"></param>
+        /// <param name="c1">Objeto Curso</param>
+        /// <param name="c2">Objeto Curso</param>
         /// <returns></returns>
         public static bool operator >(Curso c1, Curso c2)
         {
@@ -69,8 +84,8 @@ namespace Ej.Sobrecarga
         /// <summary>
         /// Compara la cantidad de alumnos de dos cursos
         /// </summary>
-        /// <param name="c1"></param>
-        /// <param name="c2"></param>
+        /// <param name="c1">Objeto Curso</param>
+        /// <param name="c2">Objeto Curso</param>
         /// <returns></returns>
         public static bool operator <(Curso c1, Curso c2)
         {
@@ -82,7 +97,7 @@ namespace Ej.Sobrecarga
         /// <summary>
         /// Retorno la palabra de la clase.
         /// </summary>
-        /// <param name="s"></param>
+        /// <param name="c">Objeto Curso</param>
         /// <returns></returns>
         public static implicit operator string(Curso c)
         {
@@ -95,7 +110,7 @@ namespace Ej.Sobrecarga
         /// <summary>
         /// Retorno el tamaño de la palabra.
         /// </summary>
-        /// <param name="s"></param>
+        /// <param name="c">Objeto Curso</param>
         /// <returns></returns>
         public static explicit operator int(Curso c)
         {

@@ -1,0 +1,6 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-6\bin\Debug\Clase-6.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-6\bin\Debug\Clase-6.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-6\bin\Debug\Clase-6.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-6\obj\Debug\Clase-6.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-6\obj\Debug\Clase-6.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-6\obj\Debug\Clase-6.pdb

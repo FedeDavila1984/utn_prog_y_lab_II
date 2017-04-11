@@ -10,6 +10,12 @@ namespace Clase_7
     {
         List<Pagina> paginas;
 
+        public enum PaginasEspeciales
+        {
+            PrimerPagina = 1,
+            UltimaPagina
+        }
+
         public Libro()
         {
             this.paginas = new List<Pagina>();
@@ -50,6 +56,33 @@ namespace Clase_7
             {
                 if (i > 0 && i <= this.paginas.Count)
                     this.paginas[i - 1] = value;
+            }
+        }
+
+        /// <summary>
+        /// Leo la página deseada.
+        /// El índice deberá ser un valor del tipo PaginasEspeciales.
+        /// </summary>
+        /// <param name="indice">Índice Especial de la página.</param>
+        /// <returns>Página requerida, si existe.</returns>
+        public Pagina this[PaginasEspeciales indice]
+        {
+            get
+            {
+                int i = 1;
+                switch (indice)
+                {
+                    case PaginasEspeciales.PrimerPagina:
+                        i = (int)PaginasEspeciales.PrimerPagina;
+                        break;
+                    case PaginasEspeciales.UltimaPagina:
+                        i = this.paginas.Count;
+                        break;
+                    default:
+                        return new Pagina(i, "Página no encontrada");
+                }
+
+                return this.paginas[i - 1];
             }
         }
     }

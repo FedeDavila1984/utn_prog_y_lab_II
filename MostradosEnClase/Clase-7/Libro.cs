@@ -16,6 +16,7 @@ namespace Clase_7
             UltimaPagina
         }
 
+        #region "Constructores"
         public Libro()
         {
             this.paginas = new List<Pagina>();
@@ -25,6 +26,7 @@ namespace Clase_7
         {
             this.paginas = paginas;
         }
+        #endregion
 
         /// <summary>
         /// Lista de páginas del libro.

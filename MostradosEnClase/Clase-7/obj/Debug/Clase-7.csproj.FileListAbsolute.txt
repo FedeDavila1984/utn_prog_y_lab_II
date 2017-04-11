@@ -4,3 +4,6 @@ D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-7\bin\Debug\Clase-
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-7\obj\Debug\Clase-7.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-7\obj\Debug\Clase-7.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-7\obj\Debug\Clase-7.pdb
+D:\VisualStudio\Federico Dávila\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-7.exe.config
+D:\VisualStudio\Federico Dávila\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-7.exe
+D:\VisualStudio\Federico Dávila\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-7.pdb

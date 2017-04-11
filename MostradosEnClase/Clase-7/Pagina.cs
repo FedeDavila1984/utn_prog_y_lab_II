@@ -17,6 +17,7 @@ namespace Clase_7
             this._contenido = contenido;
         }
 
+        #region "Propiedades"
         public int Numero
         {
             get
@@ -40,6 +41,7 @@ namespace Clase_7
                 this._contenido = value;
             }
         }
+        #endregion
 
         /// <summary>
         /// Convierto un objeto Página en un String.

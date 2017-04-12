@@ -43,6 +43,8 @@ namespace Clase_7
             Console.WriteLine("Primera Página: " + (string)miLibro[Libro.PaginasEspeciales.PrimerPagina]);
             Console.WriteLine("Última Página: " + (string)miLibro[Libro.PaginasEspeciales.UltimaPagina]);
 
+            Console.WriteLine((string)miLibro[10]);
+
             Console.ReadKey();
         }
     }

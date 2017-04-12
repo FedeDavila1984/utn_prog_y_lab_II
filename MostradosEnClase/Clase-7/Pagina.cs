@@ -13,8 +13,8 @@ namespace Clase_7
 
         public Pagina(int numero, string contenido)
         {
-            this._numero = numero;
-            this._contenido = contenido;
+            this.Numero = numero;
+            this.Contenido = contenido;
         }
 
         #region "Propiedades"
@@ -26,10 +26,10 @@ namespace Clase_7
             }
             set
             {
-                this._numero = value;
+                if(value<100)
+                    this._numero = value;
             }
         }
-
         public string Contenido
         {
             get

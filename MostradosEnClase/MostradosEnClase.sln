@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Colecciones", "Ej.Colecc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-6", "Clase-6\Clase-6.csproj", "{CCE6A4C7-73FF-496B-B1D7-444DD5BB7F14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-7", "Clase-7\Clase-7.csproj", "{A6154D3C-0917-4F19-B74F-C73F7C47F0F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-8", "Clase-7\Clase-8.csproj", "{A6154D3C-0917-4F19-B74F-C73F7C47F0F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

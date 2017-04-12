@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase_7
+namespace Clase_8_Libreria
 {
     public class Pagina
     {

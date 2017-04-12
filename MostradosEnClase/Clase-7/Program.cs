@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using Clase_8_Libreria;
+
 namespace Clase_7
 {
     class Program

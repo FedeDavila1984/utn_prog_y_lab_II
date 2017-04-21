@@ -1,0 +1,5 @@
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Herencia\EjemploHerencia\bin\Debug\EjemploHerencia.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Herencia\EjemploHerencia\bin\Debug\EjemploHerencia.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\Ej.Herencia.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\EjemploHerencia.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\EjemploHerencia.pdb

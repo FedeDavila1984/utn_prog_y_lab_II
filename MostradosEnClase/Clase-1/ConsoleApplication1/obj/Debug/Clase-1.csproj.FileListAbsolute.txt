@@ -1,0 +1,5 @@
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

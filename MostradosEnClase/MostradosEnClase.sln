@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Herencia.PPT", "Ej.Heren
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Herencia", "Ej.Herencia\EjemploHerencia\Ej.Herencia.csproj", "{42842CDC-8AEB-4090-8314-9EA80E00C0E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Polimorfismo-Libreria", "Ej.Polimorfismo-Libreria\Ej.Polimorfismo-Libreria.csproj", "{2472EC3A-3045-4FC6-B55E-8A37ED91B42F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Polimorfismo", "Ej.Polimorfismo\Ej.Polimorfismo.csproj", "{52375052-89AC-4E7A-9BD8-1E20F8621A01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +83,14 @@ Global
 		{42842CDC-8AEB-4090-8314-9EA80E00C0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42842CDC-8AEB-4090-8314-9EA80E00C0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42842CDC-8AEB-4090-8314-9EA80E00C0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2472EC3A-3045-4FC6-B55E-8A37ED91B42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2472EC3A-3045-4FC6-B55E-8A37ED91B42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2472EC3A-3045-4FC6-B55E-8A37ED91B42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2472EC3A-3045-4FC6-B55E-8A37ED91B42F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52375052-89AC-4E7A-9BD8-1E20F8621A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52375052-89AC-4E7A-9BD8-1E20F8621A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52375052-89AC-4E7A-9BD8-1E20F8621A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52375052-89AC-4E7A-9BD8-1E20F8621A01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

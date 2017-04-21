@@ -8,3 +8,8 @@ D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ejercicio-Clase-5-Campus
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.pdb
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.pdb

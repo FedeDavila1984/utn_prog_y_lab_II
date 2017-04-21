@@ -1,1 +1,8 @@
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-7\bin\Debug\Clase-7.exe.config
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-7\bin\Debug\Clase-7.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-7\bin\Debug\Clase-7.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-7\bin\Debug\Clase-8-Libreria.dll
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-7\bin\Debug\Clase-8-Libreria.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-7\obj\Debug\Clase-8.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-7\obj\Debug\Clase-7.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-7\obj\Debug\Clase-7.pdb

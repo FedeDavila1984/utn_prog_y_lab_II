@@ -7,3 +7,12 @@ D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Formularios\WindowsFo
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\Ej.WindowsForms.csproj.GenerateResource.Cache
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\Ej.WindowsForms.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.miFormulario.resources
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\Ej.WindowsForms.csproj.GenerateResource.Cache
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

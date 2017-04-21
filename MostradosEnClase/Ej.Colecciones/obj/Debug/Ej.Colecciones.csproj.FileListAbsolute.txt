@@ -4,3 +4,9 @@ D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Colecciones\bin\Debug
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Colecciones\obj\Debug\Ej.Colecciones.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Colecciones\obj\Debug\Ej.Colecciones.pdb
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Colecciones\obj\Debug\Ej.Colecciones.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Colecciones\bin\Debug\Ej.Colecciones.exe.config
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Colecciones\bin\Debug\Ej.Colecciones.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Colecciones\bin\Debug\Ej.Colecciones.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Colecciones\obj\Debug\Ej.Colecciones.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Colecciones\obj\Debug\Ej.Colecciones.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Colecciones\obj\Debug\Ej.Colecciones.pdb

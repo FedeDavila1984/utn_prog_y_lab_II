@@ -4,3 +4,9 @@ D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\StringBuilderEjemplo\Con
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

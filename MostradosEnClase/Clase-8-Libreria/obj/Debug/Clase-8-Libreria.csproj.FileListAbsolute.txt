@@ -1,0 +1,5 @@
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-8-Libreria\bin\Debug\Clase-8-Libreria.dll
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-8-Libreria\bin\Debug\Clase-8-Libreria.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-8-Libreria\obj\Debug\Clase-8-Libreria.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-8-Libreria\obj\Debug\Clase-8-Libreria.dll
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-8-Libreria\obj\Debug\Clase-8-Libreria.pdb

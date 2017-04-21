@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej13", "Guía2015\Ej13.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej16", "Ej16\Ej16.csproj", "{BEF89ADD-DF94-4963-A2EC-E4198E7E6F17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej52-Libreria", "Ej52-Libreria\Ej52-Libreria.csproj", "{E4054A3A-B9CF-4DE1-8483-0C23D128F419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej52", "Ej52\Ej52.csproj", "{42404DD2-E809-42CB-A876-0AE77943F78B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{BEF89ADD-DF94-4963-A2EC-E4198E7E6F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEF89ADD-DF94-4963-A2EC-E4198E7E6F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEF89ADD-DF94-4963-A2EC-E4198E7E6F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4054A3A-B9CF-4DE1-8483-0C23D128F419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4054A3A-B9CF-4DE1-8483-0C23D128F419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4054A3A-B9CF-4DE1-8483-0C23D128F419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4054A3A-B9CF-4DE1-8483-0C23D128F419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42404DD2-E809-42CB-A876-0AE77943F78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42404DD2-E809-42CB-A876-0AE77943F78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42404DD2-E809-42CB-A876-0AE77943F78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42404DD2-E809-42CB-A876-0AE77943F78B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

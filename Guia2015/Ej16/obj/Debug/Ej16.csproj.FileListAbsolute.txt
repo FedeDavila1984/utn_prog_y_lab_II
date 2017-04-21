@@ -4,3 +4,9 @@ D:\Federico\VB .Net\Visual C#\utn\Guía2015\Ej16\bin\Debug\Ej16.pdb
 D:\Federico\VB .Net\Visual C#\utn\Guía2015\Ej16\obj\Debug\Ej16.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\Guía2015\Ej16\obj\Debug\Ej16.exe
 D:\Federico\VB .Net\Visual C#\utn\Guía2015\Ej16\obj\Debug\Ej16.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej16\bin\Debug\Ej16.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej16\obj\Debug\Ej16.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej16\obj\Debug\Ej16.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej16\bin\Debug\Ej16.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej16\bin\Debug\Ej16.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej16\obj\Debug\Ej16.csprojResolveAssemblyReference.cache

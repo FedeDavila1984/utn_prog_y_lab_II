@@ -4,3 +4,9 @@ D:\Federico\VB .Net\Visual C#\utn\Guía2015\Guía2015\bin\Debug\Guía2015.pdb
 D:\Federico\VB .Net\Visual C#\utn\Guía2015\Guía2015\obj\Debug\Ej13.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\Guía2015\Guía2015\obj\Debug\Guía2015.exe
 D:\Federico\VB .Net\Visual C#\utn\Guía2015\Guía2015\obj\Debug\Guía2015.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Guía2015\bin\Debug\Guía2015.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Guía2015\bin\Debug\Guía2015.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Guía2015\bin\Debug\Guía2015.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Guía2015\obj\Debug\Ej13.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Guía2015\obj\Debug\Guía2015.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Guía2015\obj\Debug\Guía2015.pdb

@@ -1,0 +1,5 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej52-Libreria\bin\Debug\Ej52-Libreria.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej52-Libreria\bin\Debug\Ej52-Libreria.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej52-Libreria\obj\Debug\Ej52-Libreria.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej52-Libreria\obj\Debug\Ej52-Libreria.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej52-Libreria\obj\Debug\Ej52-Libreria.pdb

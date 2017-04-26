@@ -1,0 +1,8 @@
+D:\VisualStudio\Federico Dávila\2017\1erP-201705\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\Federico Dávila\2017\1erP-201705\Test\bin\Debug\Test.exe
+D:\VisualStudio\Federico Dávila\2017\1erP-201705\Test\bin\Debug\Test.pdb
+D:\VisualStudio\Federico Dávila\2017\1erP-201705\Test\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\2017\1erP-201705\Test\bin\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\2017\1erP-201705\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\1erP-201705\Test\obj\Debug\Test.exe
+D:\VisualStudio\Federico Dávila\2017\1erP-201705\Test\obj\Debug\Test.pdb

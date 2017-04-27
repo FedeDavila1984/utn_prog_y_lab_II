@@ -1,0 +1,8 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej53\bin\Debug\Ej53.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej53\bin\Debug\Ej53.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej53\bin\Debug\Ej53.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej53\bin\Debug\Ej53-Libreria.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej53\bin\Debug\Ej53-Libreria.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej53\obj\Debug\Ej53.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej53\obj\Debug\Ej53.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej53\obj\Debug\Ej53.pdb

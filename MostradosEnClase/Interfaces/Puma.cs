@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Drawing;
 
 namespace Interfaces
 {
@@ -25,9 +26,15 @@ namespace Interfaces
             }
         }
         
+        /// <summary>
+        /// Un Puma no podrá moverse más de 10 posiciones en x e y al mismo tiempo
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
         public void Moverse(int x, int y)
         {
-            throw new NotImplementedException();
+            if ((x + y) <= (this.GetPosicion.X + this.GetPosicion.Y + 10))
+            base.SetPosicion = new Point(x, y);
         }
 
         public void Atacar(Animal victima)

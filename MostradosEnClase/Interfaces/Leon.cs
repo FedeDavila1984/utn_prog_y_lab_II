@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Drawing;
 
 namespace Interfaces
 {
@@ -25,9 +26,9 @@ namespace Interfaces
             }
         }
 
-        public void Moverse(int x, int y, int z)
+        public void Moverse(int x, int y)
         {
-            throw new NotImplementedException();
+            base.SetPosicion = new Point(x, y);
         }
 
         public void Atacar(Animal victima)

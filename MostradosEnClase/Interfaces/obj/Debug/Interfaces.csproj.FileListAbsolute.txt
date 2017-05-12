@@ -3,3 +3,4 @@ D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Interfaces\bin\Debug\Inte
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Interfaces\bin\Debug\Interfaces.pdb
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Interfaces\obj\Debug\Interfaces.exe
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Interfaces\obj\Debug\Interfaces.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache

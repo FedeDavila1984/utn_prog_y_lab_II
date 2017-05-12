@@ -23,11 +23,19 @@ namespace Interfaces
             this.sexo = sexo;
         }
 
-        public Point Posicion
+        public Point GetPosicion
         {
             get
             {
                 return this.posicion;
+            }
+        }
+
+        protected Point SetPosicion
+        {
+            set
+            {
+                this.posicion = value;
             }
         }
     }

@@ -13,7 +13,7 @@ namespace Interfaces
             Animal a = new Puma(Animal.Sexo.Femenino);
             IComportamientos c = new Leon(Animal.Sexo.Masculino);
 
-            Console.WriteLine(a.Posicion);
+            Console.WriteLine(a.GetPosicion);
             Console.WriteLine(c.Sexo);
 
             Console.ReadKey();

@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoDeErrores", "ManejoDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{A9FDF67A-1A88-4674-B7FC-3A2036E7C446}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-19-ArchivosTexto", "Clase-19-ArchivosTexto\Clase-19-ArchivosTexto.csproj", "{0AC6B571-1768-4F1A-9501-A54683357A0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +105,10 @@ Global
 		{A9FDF67A-1A88-4674-B7FC-3A2036E7C446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9FDF67A-1A88-4674-B7FC-3A2036E7C446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9FDF67A-1A88-4674-B7FC-3A2036E7C446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC6B571-1768-4F1A-9501-A54683357A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC6B571-1768-4F1A-9501-A54683357A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC6B571-1768-4F1A-9501-A54683357A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC6B571-1768-4F1A-9501-A54683357A0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

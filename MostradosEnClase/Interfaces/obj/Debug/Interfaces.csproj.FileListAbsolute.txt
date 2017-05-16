@@ -4,3 +4,9 @@ D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Interfaces\bin\Debug\Inte
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Interfaces\obj\Debug\Interfaces.exe
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Interfaces\obj\Debug\Interfaces.pdb
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Interfaces\obj\Debug\Interfaces.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Interfaces\bin\Debug\Interfaces.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Interfaces\bin\Debug\Interfaces.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Interfaces\bin\Debug\Interfaces.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Interfaces\obj\Debug\Interfaces.pdb

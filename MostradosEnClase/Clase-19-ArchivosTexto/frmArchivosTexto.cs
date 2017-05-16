@@ -20,8 +20,8 @@ namespace Clase_19_ArchivosTexto
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
-            string[] DescripcionesDeArchivos = new string[]{ "Archivos de Texto" };
-            string[] ExtencionesDeArchivos = new string[]{ "txt" };
+            string[] DescripcionesDeArchivos = new string[]{ "Archivos de Texto", "Imagenes" };
+            string[] ExtencionesDeArchivos = new string[]{ "txt", "jpg" };
             string NombreDelArchivo = "";
 
             string Filtro = "";
@@ -55,16 +55,31 @@ namespace Clase_19_ArchivosTexto
 
         private void btnMostrar_Click(object sender, EventArgs e)
         {
-            //Genero el stream
-            FileStream Fs = new FileStream(txtPath.Text, FileMode.Open, FileAccess.Read);
-            StreamReader Sr = new StreamReader(Fs);
-            //Leo todo el archivo
-            string Arch = Sr.ReadToEnd();
-            //Cierro el archivo
-            Sr.Close();
-            Fs.Close();
+            try
+            {
+                //Genero el stream
+                FileStream Fs = new FileStream(txtPath.Text, FileMode.Open, FileAccess.Read);
+                StreamReader Sr = new StreamReader(Fs);
+                //Leo todo el archivo
+                string Arch = Sr.ReadToEnd();
+                //Cierro el archivo
+                Sr.Close();
+                Fs.Close();
 
-            rtxtContenido.Text = Arch;
+                rtxtContenido.Text = Arch;
+            }
+            catch (ArgumentException aex)
+            {
+                MessageBox.Show(aex.Message, "Error en la ruta", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            catch (FileNotFoundException fex)
+            {
+                MessageBox.Show(fex.Message, "Archivo no encontrado", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void btnGuardar_Click(object sender, EventArgs e)

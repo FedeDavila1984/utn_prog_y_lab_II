@@ -1,0 +1,5 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54-CentralitaSerializacion\obj\Debug\Ej54-CentralitaSerializacion.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54-CentralitaSerializacion\bin\Debug\Ej54-CentralitaSerializacion.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54-CentralitaSerializacion\bin\Debug\Ej54-CentralitaSerializacion.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54-CentralitaSerializacion\obj\Debug\Ej54-CentralitaSerializacion.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54-CentralitaSerializacion\obj\Debug\Ej54-CentralitaSerializacion.pdb

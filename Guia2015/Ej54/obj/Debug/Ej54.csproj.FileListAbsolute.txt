@@ -1,0 +1,10 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54\bin\Debug\Ej53.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54\obj\Debug\Ej53.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54\obj\Debug\Ej53.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54\bin\Debug\Ej53.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54\bin\Debug\Ej53.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54\bin\Debug\Ej53-Libreria.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54\bin\Debug\Ej53-Libreria.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54\obj\Debug\Ej54.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54\bin\Debug\Ej54-CentralitaSerializacion.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\Guia2015\Ej54\bin\Debug\Ej54-CentralitaSerializacion.pdb

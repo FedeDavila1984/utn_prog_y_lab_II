@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{30CDD811-276C-4D00-8F6E-64753D5C9132}</ProjectGuid>
+    <ProjectGuid>{03DDA3E3-F57A-4DBB-B099-C518F8163731}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Ej54</RootNamespace>
@@ -48,9 +48,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Ej53-Libreria\Ej53-Libreria.csproj">
-      <Project>{b3004f4f-7c60-40fb-bf3a-fcd1a1d47296}</Project>
-      <Name>Ej53-Libreria</Name>
+    <ProjectReference Include="..\Ej54-CentralitaSerializacion\Ej54-CentralitaSerializacion.csproj">
+      <Project>{dee7b68d-3c99-45fc-856c-e228a0ca0ffc}</Project>
+      <Name>Ej54-CentralitaSerializacion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ej54-Libreria\Ej54-Libreria.csproj">
+      <Project>{d77ec0b4-cf61-4859-9ba2-9e2014a7b86b}</Project>
+      <Name>Ej54-Libreria</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

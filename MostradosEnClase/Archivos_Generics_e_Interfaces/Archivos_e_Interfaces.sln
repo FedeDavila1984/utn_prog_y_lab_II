@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archivos_e_Interfaces", "Archivos_e_Interfaces\Archivos_e_Interfaces.csproj", "{9F585B68-1EDF-48F0-9398-68CD604FAF0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archivos", "Archivos\Archivos.csproj", "{BE9CADB5-7618-4345-A518-032B42EEB34A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F585B68-1EDF-48F0-9398-68CD604FAF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F585B68-1EDF-48F0-9398-68CD604FAF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F585B68-1EDF-48F0-9398-68CD604FAF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F585B68-1EDF-48F0-9398-68CD604FAF0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9CADB5-7618-4345-A518-032B42EEB34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9CADB5-7618-4345-A518-032B42EEB34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9CADB5-7618-4345-A518-032B42EEB34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9CADB5-7618-4345-A518-032B42EEB34A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

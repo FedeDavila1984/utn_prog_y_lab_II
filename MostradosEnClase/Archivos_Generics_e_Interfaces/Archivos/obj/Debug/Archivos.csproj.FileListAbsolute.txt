@@ -1,0 +1,5 @@
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos\bin\Debug\Archivos.dll
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos\bin\Debug\Archivos.pdb
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos\obj\Debug\Archivos.dll
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos\obj\Debug\Archivos.pdb

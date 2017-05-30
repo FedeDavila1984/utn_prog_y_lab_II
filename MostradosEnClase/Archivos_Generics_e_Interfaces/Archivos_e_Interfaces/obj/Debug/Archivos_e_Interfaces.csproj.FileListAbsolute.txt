@@ -1,0 +1,11 @@
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos_e_Interfaces.exe.config
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos_e_Interfaces.exe
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos_e_Interfaces.pdb
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos.dll
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos.pdb
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos_e_Interfaces\obj\Debug\Archivos_e_Interfaces.csprojResolveAssemblyReference.cache
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos_e_Interfaces\obj\Debug\Archivos_e_Interfaces.exe
+c:\users\profesor.lab04profesor\documents\visual studio 2012\Projects\Archivos_e_Interfaces\Archivos_e_Interfaces\obj\Debug\Archivos_e_Interfaces.pdb
+D:\Federico\VB .Net\Visual C#\utn\Archivos_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos_e_Interfaces.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Archivos_e_Interfaces\Archivos_e_Interfaces\obj\Debug\Archivos_e_Interfaces.exe
+D:\Federico\VB .Net\Visual C#\utn\Archivos_e_Interfaces\Archivos_e_Interfaces\obj\Debug\Archivos_e_Interfaces.pdb

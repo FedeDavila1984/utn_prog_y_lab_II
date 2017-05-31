@@ -25,8 +25,8 @@ namespace Archivos_e_Interfaces
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("NOMBRE: " + this._nombre);
-            sb.AppendLine("EDAD: " + this._edad);
+            sb.AppendLine("NOMBRE:   " + this._nombre);
+            sb.AppendLine("EDAD:     " + this._edad);
             sb.AppendLine("PROMEDIO: " + this._promedio);
             return sb.ToString();
         }

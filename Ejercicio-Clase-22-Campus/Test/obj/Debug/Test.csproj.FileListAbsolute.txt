@@ -1,0 +1,16 @@
+D:\VisualStudio\Entidades\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\Entidades\Test\bin\Debug\Test.exe
+D:\VisualStudio\Entidades\Test\bin\Debug\Test.pdb
+D:\VisualStudio\Entidades\Test\bin\Debug\Entidades.dll
+D:\VisualStudio\Entidades\Test\bin\Debug\Entidades.pdb
+D:\VisualStudio\Entidades\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades\Test\obj\Debug\Test.exe
+D:\VisualStudio\Entidades\Test\obj\Debug\Test.pdb
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Test\obj\Debug\Test.exe
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Test\obj\Debug\Test.pdb
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Test\bin\Debug\Test.exe
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Test\bin\Debug\Test.pdb
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Test\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Test\bin\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

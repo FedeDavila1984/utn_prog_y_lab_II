@@ -1,0 +1,14 @@
+D:\VisualStudio\Entidades\TestUnitario\bin\Debug\TestUnitario.dll
+D:\VisualStudio\Entidades\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\VisualStudio\Entidades\TestUnitario\bin\Debug\Entidades.dll
+D:\VisualStudio\Entidades\TestUnitario\bin\Debug\Entidades.pdb
+D:\VisualStudio\Entidades\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades\TestUnitario\obj\Debug\TestUnitario.dll
+D:\VisualStudio\Entidades\TestUnitario\obj\Debug\TestUnitario.pdb
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\TestUnitario\bin\Debug\TestUnitario.dll
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\TestUnitario\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\TestUnitario\bin\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\TestUnitario\obj\Debug\TestUnitario.dll
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\TestUnitario\obj\Debug\TestUnitario.pdb

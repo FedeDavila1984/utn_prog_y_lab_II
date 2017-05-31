@@ -12,6 +12,8 @@ namespace Archivos_e_Interfaces
     {
         static void Main(string[] args)
         {
+            //Xml<Item> archivosXml = new Xml<Item>();
+            //Texto archivosTexto = new Texto();
             IArchivo<Item> archivosXml = new Xml<Item>();
             IArchivo<string> archivosTexto = new Texto();
 

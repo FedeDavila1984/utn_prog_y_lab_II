@@ -8,13 +8,13 @@ using System.Xml.Serialization;
 
 namespace Archivos
 {
-    public class Xml<T> : IArchivo<T>
+    public class Xml<V> : IArchivo<V>
     {
-        public bool guardar(string archivo, T datos)
+        public bool guardar(string archivo, V datos)
         {
             try
             {
-                XmlSerializer serializer = new XmlSerializer(typeof(T));
+                XmlSerializer serializer = new XmlSerializer(typeof(V));
                 TextWriter writer = new StreamWriter(archivo);
                 serializer.Serialize(writer, datos);
                 writer.Close();
@@ -27,20 +27,20 @@ namespace Archivos
                 return false;
             }
         }
-        public bool leer(string archivo, out T datos)
+        public bool leer(string archivo, out V datos)
         {
             try
             {
-                XmlSerializer serializer = new XmlSerializer(typeof(T));
+                XmlSerializer serializer = new XmlSerializer(typeof(V));
                 TextReader writer = new StreamReader(archivo);
-                datos = (T)serializer.Deserialize(writer);
+                datos = (V)serializer.Deserialize(writer);
                 writer.Close();
 
                 return true;
             }
-            catch (Exception e)
+            catch (Exception)
             {
-                datos = default(T);
+                datos = default(V);
                 return false;
             }
         }

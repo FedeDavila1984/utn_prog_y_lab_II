@@ -6,3 +6,11 @@ D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Archivos_Generics_e_Inte
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos.dll
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos.pdb
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos_e_Interfaces\obj\Debug\Clase-20-Archivos_Generics_e_Interfaces.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos_e_Interfaces.exe.config
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos_e_Interfaces\obj\Debug\Archivos_e_Interfaces.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos_e_Interfaces\obj\Debug\Archivos_e_Interfaces.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos_e_Interfaces.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos_e_Interfaces.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos.dll
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos_e_Interfaces\bin\Debug\Archivos.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos_e_Interfaces\obj\Debug\Clase-20-Archivos_Generics_e_Interfaces.csprojResolveAssemblyReference.cache

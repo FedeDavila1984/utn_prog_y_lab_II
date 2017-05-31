@@ -1,0 +1,10 @@
+D:\VisualStudio\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Entidades\obj\Debug\Entidades.pdb

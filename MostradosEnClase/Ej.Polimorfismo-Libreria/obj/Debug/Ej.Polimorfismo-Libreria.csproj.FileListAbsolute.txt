@@ -3,3 +3,8 @@ D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Polimorfismo-Libreria\
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Polimorfismo-Libreria\bin\Debug\Ej.Polimorfismo-Libreria.pdb
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Polimorfismo-Libreria\obj\Debug\Ej.Polimorfismo-Libreria.dll
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Polimorfismo-Libreria\obj\Debug\Ej.Polimorfismo-Libreria.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Polimorfismo-Libreria\bin\Debug\Ej.Polimorfismo-Libreria.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Polimorfismo-Libreria\bin\Debug\Ej.Polimorfismo-Libreria.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Polimorfismo-Libreria\obj\Debug\Ej.Polimorfismo-Libreria.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Polimorfismo-Libreria\obj\Debug\Ej.Polimorfismo-Libreria.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Polimorfismo-Libreria\obj\Debug\Ej.Polimorfismo-Libreria.pdb

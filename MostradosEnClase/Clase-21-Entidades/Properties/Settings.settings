@@ -1,9 +1,9 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EntidadesDao.Properties" GeneratedClassName="Settings">
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Entidades.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
     <Setting Name="CadenaConexion" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Server=localhost:;Database=mibasededatos;Uid=root;Pwd=;</Value>
+      <Value Profile="(Default)">Data Source=LAB1PCPROFESOR\SQLEXPRESS;Initial Catalog=mibasededatos;Integrated Security=True</Value>
     </Setting>
   </Settings>
 </SettingsFile>

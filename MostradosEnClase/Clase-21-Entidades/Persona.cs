@@ -13,12 +13,23 @@ namespace Entidades
         private string apellido;
         private int dni;
 
-        public Persona(int id, string nombre, string apellido, int dni)
+        public Persona()
         {
-            this.id = id;
+            this.id = 0;
+        }
+
+        public Persona(string nombre, string apellido, int dni)
+            : this()
+        {
             this.nombre = nombre;
             this.apellido = apellido;
             this.dni = dni;
+        }
+
+        public Persona(int id, string nombre, string apellido, int dni)
+            : this(nombre, apellido, dni)
+        {
+            this.id = id;
         }
 
         #region Propiedades
@@ -73,9 +84,9 @@ namespace Entidades
         {
             return PersonaDAO.InsertaPersona(this);
         }
-        public bool Leer()
+        public bool Cargar()
         {
-            Persona datos = PersonaDAO.ObtienePersonaPorId(this.ID);
+            Persona datos = PersonaDAO.ObtienePersona();
             if (datos == null)
                 return false;
             else
@@ -96,5 +107,10 @@ namespace Entidades
             return PersonaDAO.EliminaPersona(this);
         }
         #endregion
+
+        public override string ToString()
+        {
+            return String.Format("{0} {1}: {2}", this.nombre, this.apellido, this.dni);
+        }
     }
 }

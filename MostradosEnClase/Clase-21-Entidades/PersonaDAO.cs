@@ -33,7 +33,7 @@ namespace Entidades
         #region Métodos
 
         #region Getters
-        public static Persona ObtienePersonaPorId(int id)
+        public static Persona ObtienePersona()
         {
             bool TodoOk = false;
             Persona persona = null;
@@ -41,7 +41,7 @@ namespace Entidades
             try
             {
                 // LE PASO LA INSTRUCCION SQL
-                PersonaDAO._comando.CommandText = "SELECT TOP 1 id,nombre,apellido,dni FROM Personas WHERE id = " + id;
+                PersonaDAO._comando.CommandText = "SELECT TOP 1 id,nombre,apellido,dni FROM Personas";
 
                 // ABRO LA CONEXION A LA BD
                 PersonaDAO._conexion.Open();
@@ -122,7 +122,7 @@ namespace Entidades
 
                 todoOk = true;
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 todoOk = false;
             }

@@ -6,3 +6,11 @@ D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-21-Test\bin\Debug\
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-21-Test\bin\Debug\Test.pdb
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-21-Test\bin\Debug\Entidades.dll
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-21-Test\bin\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-21-Test\bin\Debug\Test.exe.config
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-21-Test\obj\Debug\Test.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-21-Test\obj\Debug\Test.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-21-Test\bin\Debug\Test.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-21-Test\bin\Debug\Test.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-21-Test\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-21-Test\bin\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-21-Test\obj\Debug\Clase-21-Test.csprojResolveAssemblyReference.cache

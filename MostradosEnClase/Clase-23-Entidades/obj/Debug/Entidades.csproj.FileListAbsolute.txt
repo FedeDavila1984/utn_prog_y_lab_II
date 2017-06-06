@@ -1,0 +1,15 @@
+C:\Users\alumno\Desktop\Carreras\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Carreras\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Carreras\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Carreras\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Carreras\Entidades\obj\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Entidades\obj\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Entidades\obj\Debug\Entidades.pdb

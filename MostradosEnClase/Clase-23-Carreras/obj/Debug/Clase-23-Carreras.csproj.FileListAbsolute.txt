@@ -1,0 +1,13 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\bin\Debug\Carreras.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\obj\Debug\Carreras.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\obj\Debug\Carreras.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\bin\Debug\Carreras.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\bin\Debug\Carreras.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\bin\Debug\Caballitos.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\bin\Debug\Caballitos.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\obj\Debug\Carreras.frmCarrera.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\obj\Debug\Carreras.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csproj.GenerateResource.Cache

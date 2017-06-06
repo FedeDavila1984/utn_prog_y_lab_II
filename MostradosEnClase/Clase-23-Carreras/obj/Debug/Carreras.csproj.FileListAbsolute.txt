@@ -1,0 +1,38 @@
+C:\Users\alumno\Desktop\Carreras\Carreras\bin\Debug\Carreras.exe.config
+C:\Users\alumno\Desktop\Carreras\Carreras\bin\Debug\Carreras.exe
+C:\Users\alumno\Desktop\Carreras\Carreras\bin\Debug\Carreras.pdb
+C:\Users\alumno\Desktop\Carreras\Carreras\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Carreras\Carreras\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Carreras\Carreras\obj\Debug\Carreras.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Carreras\Carreras\obj\Debug\Carreras.Form1.resources
+C:\Users\alumno\Desktop\Carreras\Carreras\obj\Debug\Carreras.Properties.Resources.resources
+C:\Users\alumno\Desktop\Carreras\Carreras\obj\Debug\Carreras.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Carreras\Carreras\obj\Debug\Carreras.exe
+C:\Users\alumno\Desktop\Carreras\Carreras\obj\Debug\Carreras.pdb
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Carreras\bin\Debug\Carreras.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Carreras\obj\Debug\Carreras.exe
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Carreras\obj\Debug\Carreras.pdb
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Carreras\obj\Debug\Carreras.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Carreras\obj\Debug\Carreras.frmCarrera.resources
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Carreras\obj\Debug\Carreras.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Carreras\obj\Debug\Carreras.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Carreras\bin\Debug\Carreras.exe
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Carreras\bin\Debug\Carreras.pdb
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Carreras\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Carreras\Carreras\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Final_Carreras_122016\Carreras\bin\Debug\Carreras.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Final_Carreras_122016\Carreras\obj\Debug\Carreras.exe
+D:\Federico\VB .Net\Visual C#\utn\Final_Carreras_122016\Carreras\obj\Debug\Carreras.pdb
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\bin\Debug\Carreras.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\obj\Debug\Carreras.exe
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\obj\Debug\Carreras.pdb
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\bin\Debug\Carreras.exe
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\bin\Debug\Carreras.pdb
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\bin\Debug\Caballitos.dll
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\bin\Debug\Caballitos.pdb
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\obj\Debug\Carreras.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\obj\Debug\Carreras.frmCarrera.resources
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\obj\Debug\Carreras.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Threads_Carreras_Caballito\Carreras\obj\Debug\Carreras.csproj.GenerateResource.Cache

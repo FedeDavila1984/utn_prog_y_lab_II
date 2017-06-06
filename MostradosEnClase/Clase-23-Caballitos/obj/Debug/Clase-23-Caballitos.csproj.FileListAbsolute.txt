@@ -1,0 +1,9 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Caballitos\bin\Debug\Caballitos.dll.config
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Caballitos\bin\Debug\Caballitos.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Caballitos\bin\Debug\Caballitos.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Clase-23-Caballitos.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.Caballito.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Clase-23-Caballitos.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.pdb

@@ -1,0 +1,11 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-22-Threads\bin\Debug\Clase-22-Threads.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-22-Threads\bin\Debug\Clase-22-Threads.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-22-Threads\bin\Debug\Clase-22-Threads.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-22-Threads\bin\Debug\Caballitos.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-22-Threads\bin\Debug\Caballitos.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-22-Threads\obj\Debug\Clase-22-Threads.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-22-Threads\obj\Debug\Clase_22_Threads.FrmPrueba.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-22-Threads\obj\Debug\Clase_22_Threads.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-22-Threads\obj\Debug\Clase-22-Threads.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-22-Threads\obj\Debug\Clase-22-Threads.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Clase-22-Threads\obj\Debug\Clase-22-Threads.pdb

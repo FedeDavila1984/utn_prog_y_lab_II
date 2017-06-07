@@ -75,11 +75,26 @@ namespace Carreras
         {
             this.FinalizarCarrera();
             MessageBox.Show(String.Format("Ganador carril Nº {0}", carril),"GANADOR!", MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
+            if (carril == nudCarril.Value)
+            {
+                MessageBox.Show("FELICITACIONES!!");
+                lblTengo.Text = (int.Parse(lblTengo.Text) + (int)nudApuesta.Value).ToString();
+            }
+            else
+            {
+                MessageBox.Show("Será la próxima.");
+                lblTengo.Text = (int.Parse(lblTengo.Text) - (int)nudApuesta.Value).ToString();
+                if (int.Parse(lblTengo.Text) <= 0)
+                {
+                    MessageBox.Show("Chau!");
+                    this.Close();
+                }
+            }
         }
 
         private void AnalizarCarrera(Caballitos.Caballito carril, int avance, int carrilNro)
         {
-            int maximum = 1170;
+            int maximum = Screen.AllScreens[0].WorkingArea.Width - 180;
             int valor = 0;
             valor = carril.Location.X + avance;
             carril.MoverCaballito();

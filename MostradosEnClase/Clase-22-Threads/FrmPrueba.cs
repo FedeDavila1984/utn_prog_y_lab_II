@@ -25,7 +25,7 @@ namespace Clase_22_Threads
 
         private void btnIniciar_Click(object sender, EventArgs e)
         {
-            if (miHilo.IsAlive)
+            if (this.miHilo.IsAlive)
             {
                 this.miHilo.Abort();
             }

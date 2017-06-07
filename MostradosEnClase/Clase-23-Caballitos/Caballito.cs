@@ -27,7 +27,7 @@ namespace Caballitos
 
         public void MoverCaballito()
         {
-            player.playSprite(5, 5, 0);
+            player.playSprite(5, 5, 3);
             pb_char.Image = player.curState;
 
             //this.Refresh();

@@ -1,0 +1,7 @@
+D:\VisualStudio\WindowsFormsThreads\BarraDeProgreso\bin\Debug\BarraDeProgreso.dll
+D:\VisualStudio\WindowsFormsThreads\BarraDeProgreso\bin\Debug\BarraDeProgreso.pdb
+D:\VisualStudio\WindowsFormsThreads\BarraDeProgreso\obj\Debug\BarraDeProgreso.Barra.resources
+D:\VisualStudio\WindowsFormsThreads\BarraDeProgreso\obj\Debug\BarraDeProgreso.csproj.GenerateResource.Cache
+D:\VisualStudio\WindowsFormsThreads\BarraDeProgreso\obj\Debug\BarraDeProgreso.dll
+D:\VisualStudio\WindowsFormsThreads\BarraDeProgreso\obj\Debug\BarraDeProgreso.pdb
+D:\VisualStudio\WindowsFormsThreads\BarraDeProgreso\obj\Debug\BarraDeProgreso.csprojResolveAssemblyReference.cache

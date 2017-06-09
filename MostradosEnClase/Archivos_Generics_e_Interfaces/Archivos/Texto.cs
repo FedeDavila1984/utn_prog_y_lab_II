@@ -8,7 +8,7 @@ namespace Archivos
 {
     public class Texto : IArchivo<string>
     {
-        public bool guardar(string archivo, string datos)
+        public bool Guardar(string archivo, string datos)
         {
             try
             {
@@ -24,7 +24,7 @@ namespace Archivos
                 return false;
             }
         }
-        public bool leer(string archivo, out string datos)
+        public bool Leer(string archivo, out string datos)
         {
             try
             {

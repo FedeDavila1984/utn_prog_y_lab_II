@@ -2,3 +2,4 @@ D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-23-Entidades\bin\De
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-23-Entidades\bin\Debug\Entidades.pdb
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-23-Entidades\obj\Debug\Entidades.dll
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-23-Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-23-Entidades\obj\Debug\Clase-23-Entidades.csprojResolveAssemblyReference.cache

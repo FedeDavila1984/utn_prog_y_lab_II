@@ -10,7 +10,7 @@ namespace Archivos
 {
     public class Xml<V> : IArchivo<V>
     {
-        public bool guardar(string archivo, V datos)
+        public bool Guardar(string archivo, V datos)
         {
             try
             {
@@ -27,7 +27,7 @@ namespace Archivos
                 return false;
             }
         }
-        public bool leer(string archivo, out V datos)
+        public bool Leer(string archivo, out V datos)
         {
             try
             {

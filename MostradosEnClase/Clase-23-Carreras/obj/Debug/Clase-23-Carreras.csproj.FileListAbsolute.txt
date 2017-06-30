@@ -24,3 +24,16 @@ D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-23-Carreras\obj\Deb
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-23-Carreras\obj\Debug\Carreras.frmCarrera.resources
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-23-Carreras\obj\Debug\Carreras.Properties.Resources.resources
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csproj.GenerateResource.Cache
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bin\Debug\Carreras.exe.config
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Carreras.exe
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Carreras.pdb
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bin\Debug\Carreras.exe
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bin\Debug\Carreras.pdb
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bin\Debug\Caballitos.dll
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bin\Debug\Entidades.dll
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bin\Debug\Caballitos.pdb
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bin\Debug\Entidades.pdb
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csprojResolveAssemblyReference.cache
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Carreras.frmCarrera.resources
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Carreras.Properties.Resources.resources
+D:\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csproj.GenerateResource.Cache

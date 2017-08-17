@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej54-Libreria", "Ej54-Libre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej54-CentralitaSerializacion", "Ej54-CentralitaSerializacion\Ej54-CentralitaSerializacion.csproj", "{DEE7B68D-3C99-45FC-856C-E228A0CA0FFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej09y10", "Ej09y10\Ej09y10.csproj", "{838D03D3-DB9D-4A01-BCFD-09564442D491}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{DEE7B68D-3C99-45FC-856C-E228A0CA0FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEE7B68D-3C99-45FC-856C-E228A0CA0FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEE7B68D-3C99-45FC-856C-E228A0CA0FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838D03D3-DB9D-4A01-BCFD-09564442D491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838D03D3-DB9D-4A01-BCFD-09564442D491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838D03D3-DB9D-4A01-BCFD-09564442D491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838D03D3-DB9D-4A01-BCFD-09564442D491}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

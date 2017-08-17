@@ -1,0 +1,5 @@
+D:\Federico Dávila 2017\utn_prog_y_lab_II\Guia2015\Ej09y10\bin\Debug\Ej09y10.exe.config
+D:\Federico Dávila 2017\utn_prog_y_lab_II\Guia2015\Ej09y10\bin\Debug\Ej09y10.exe
+D:\Federico Dávila 2017\utn_prog_y_lab_II\Guia2015\Ej09y10\bin\Debug\Ej09y10.pdb
+D:\Federico Dávila 2017\utn_prog_y_lab_II\Guia2015\Ej09y10\obj\Debug\Ej09y10.exe
+D:\Federico Dávila 2017\utn_prog_y_lab_II\Guia2015\Ej09y10\obj\Debug\Ej09y10.pdb

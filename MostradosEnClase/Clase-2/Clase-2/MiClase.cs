@@ -8,8 +8,8 @@ namespace Clase_2
 {
     public class MiClase
     {
-        static int _atributoEstatico;
-        int _atributoNoEstatico;
+        private static int _atributoEstatico;
+        private int _atributoNoEstatico;
 
         /// <summary>
         /// Constructor estático

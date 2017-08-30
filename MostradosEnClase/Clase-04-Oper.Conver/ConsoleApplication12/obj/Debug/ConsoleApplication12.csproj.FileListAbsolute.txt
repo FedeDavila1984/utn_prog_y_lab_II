@@ -1,0 +1,6 @@
+D:\VisualStudio\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+D:\VisualStudio\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+D:\VisualStudio\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+D:\VisualStudio\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+D:\VisualStudio\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb

@@ -25,3 +25,12 @@ D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-19-ArchivosTexto\ob
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-19-ArchivosTexto\obj\Debug\Clase_19_ArchivosTexto.frmArchivosTexto.resources
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-19-ArchivosTexto\obj\Debug\Clase_19_ArchivosTexto.Properties.Resources.resources
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Clase-19-ArchivosTexto\obj\Debug\Clase-19-ArchivosTexto.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-19-ArchivosTexto\bin\Debug\Clase-19-ArchivosTexto.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-19-ArchivosTexto\bin\Debug\Clase-19-ArchivosTexto.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-19-ArchivosTexto\bin\Debug\Clase-19-ArchivosTexto.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-19-ArchivosTexto\obj\Debug\Clase-19-ArchivosTexto.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-19-ArchivosTexto\obj\Debug\Clase_19_ArchivosTexto.frmArchivosTexto.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-19-ArchivosTexto\obj\Debug\Clase_19_ArchivosTexto.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-19-ArchivosTexto\obj\Debug\Clase-19-ArchivosTexto.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-19-ArchivosTexto\obj\Debug\Clase-19-ArchivosTexto.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-19-ArchivosTexto\obj\Debug\Clase-19-ArchivosTexto.pdb

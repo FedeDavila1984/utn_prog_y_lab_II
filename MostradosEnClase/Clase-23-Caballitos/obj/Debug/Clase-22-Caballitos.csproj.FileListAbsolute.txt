@@ -25,3 +25,12 @@ D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballi
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Clase-22-Caballitos.csproj.GenerateResource.Cache
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.dll
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\bin\Debug\Caballitos.dll.config
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\bin\Debug\Caballitos.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\bin\Debug\Caballitos.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Clase-22-Caballitos.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.Caballito.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Clase-22-Caballitos.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.pdb

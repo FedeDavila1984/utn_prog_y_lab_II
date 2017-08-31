@@ -16,3 +16,12 @@ D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFor
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\Ej.WindowsForms.csproj.GenerateResource.Cache
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\Ej.WindowsForms.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.miFormulario.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\Ej.WindowsForms.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -41,5 +41,10 @@ namespace WindowsFormsApplication1
         {
             lblMensajes.Text = string.Format("Estás escribiendo en {0}.\nLlevás {1} caracteres escritos.", t.Name, t.Text.Length);
         }
+
+        private void button1_DockChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -4,3 +4,9 @@ D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Cla
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\obj\Debug\Ej.Clase-05.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\obj\Debug\Ej.Clase-05.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\obj\Debug\Ej.Clase-05.pdb
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\bin\Debug\Ej.Clase-05.exe.config
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\obj\Debug\Ej.Clase-05.exe
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\obj\Debug\Ej.Clase-05.pdb
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\bin\Debug\Ej.Clase-05.exe
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\bin\Debug\Ej.Clase-05.pdb
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\obj\Debug\Ej.Clase-05.csprojResolveAssemblyReference.cache

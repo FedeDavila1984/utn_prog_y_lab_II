@@ -184,12 +184,21 @@ namespace Ej.Colecciones
             clientesPilaGenerica.Push(new Cliente("Alberto"));
             clientesPilaGenerica.Push(new Cliente("Luis"));
             clientesPilaGenerica.Push(new Cliente("María"));
+            clientesPilaGenerica.Push(1);
 
             while (clientesPilaGenerica.Count > 0)
             {
                 // Debo castear el contenido de la pila, ya que es del tipo Object
-                Cliente c = (Cliente)clientesPilaGenerica.Pop();
-                Console.WriteLine("Atender a: {0}. Quedan {1} cliente/s en espera.", c, clientesPilaGenerica.Count);
+                Object obj = clientesPilaGenerica.Pop();
+                if (obj is Cliente)
+                {
+                    Cliente c = (Cliente)obj;
+                    Console.WriteLine("Atender a: {0}. Quedan {1} cliente/s en espera.", c, clientesPilaGenerica.Count);
+                }
+                else
+                {
+                    Console.WriteLine(obj);
+                }
             }
 
             // Freno y luego limpio la pantalla

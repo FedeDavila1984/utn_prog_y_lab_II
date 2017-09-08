@@ -1,0 +1,6 @@
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2017\Ej.026\Ej.026\bin\Debug\Ej.026.exe.config
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2017\Ej.026\Ej.026\bin\Debug\Ej.026.exe
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2017\Ej.026\Ej.026\bin\Debug\Ej.026.pdb
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2017\Ej.026\Ej.026\obj\Debug\Ej.026.csprojResolveAssemblyReference.cache
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2017\Ej.026\Ej.026\obj\Debug\Ej.026.exe
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2017\Ej.026\Ej.026\obj\Debug\Ej.026.pdb

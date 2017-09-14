@@ -18,9 +18,9 @@ namespace EjemploHerencia
             materiasUTN.Add(new Materia(1, "Programación II"));
 
             //CREO UN PAR DE ALUMNOS
-            Alumno alumno = new Alumno(32000444, "Valentín", 
+            Alumno alumno = new Alumno(32000444, "Valentino", 
                                         new DateTime(1986, 6, 25), 123);
-            Alumno alumno2 = new Alumno(32555999, "Federico", 
+            Alumno alumno2 = new Alumno(32555999, "Justina", 
                                         new DateTime(1985, 11, 28), 456);
 
             //CREO UN PROFESOR
@@ -40,6 +40,7 @@ namespace EjemploHerencia
 
             //INVOCO AL MÉTODO COMER, DE LA CLASE PERSONA (CLASE BASE)
             alumno.Comer();
+            profesor.Comer();
 
             //EL PROFESOR CALIFICA A LOS ALUMNOS
             profesor.Calificar(alumno2, materiasUTN[2]);

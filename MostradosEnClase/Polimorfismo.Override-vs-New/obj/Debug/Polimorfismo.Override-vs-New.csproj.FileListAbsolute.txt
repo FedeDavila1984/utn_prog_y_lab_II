@@ -1,0 +1,5 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Polimorfismo.Override-vs-New\bin\Debug\Polimorfismo.Override-vs-New.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Polimorfismo.Override-vs-New\bin\Debug\Polimorfismo.Override-vs-New.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Polimorfismo.Override-vs-New\bin\Debug\Polimorfismo.Override-vs-New.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Polimorfismo.Override-vs-New\obj\Debug\Polimorfismo.Override-vs-New.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Polimorfismo.Override-vs-New\obj\Debug\Polimorfismo.Override-vs-New.pdb

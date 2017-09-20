@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentimetroMetro", "Clase-04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Clase-05", "Ej.Clase-05\Ej.Clase-05.csproj", "{FDE98FA4-26E0-443D-90D2-E840DD6EB0B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo.Override-vs-New", "Polimorfismo.Override-vs-New\Polimorfismo.Override-vs-New.csproj", "{1419BACC-D905-4337-8446-39712A1165C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -193,6 +195,10 @@ Global
 		{FDE98FA4-26E0-443D-90D2-E840DD6EB0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDE98FA4-26E0-443D-90D2-E840DD6EB0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDE98FA4-26E0-443D-90D2-E840DD6EB0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1419BACC-D905-4337-8446-39712A1165C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1419BACC-D905-4337-8446-39712A1165C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1419BACC-D905-4337-8446-39712A1165C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1419BACC-D905-4337-8446-39712A1165C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

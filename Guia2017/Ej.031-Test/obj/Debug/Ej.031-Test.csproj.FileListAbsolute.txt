@@ -1,0 +1,2 @@
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia-2017\Ej.031-Test\bin\Debug\Ej.031-Test.exe.config
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2017\Ej.031-Test\bin\Debug\Ej._031_Test.exe.config

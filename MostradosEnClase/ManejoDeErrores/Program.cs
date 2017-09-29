@@ -49,9 +49,9 @@ namespace ManejoDeErrores
             {
                 double res;
 
-                ArrojarExcepcion(); // Comentar para seguir probando
+                //ArrojarExcepcion(); // Comentar para seguir probando
 
-                res = Dividir(1, 0); // Comentar para seguir probando
+                //res = Dividir(1, 0); // Comentar para seguir probando
 
                 res = Dividir(1, 5); // Comentar para seguir probando
 

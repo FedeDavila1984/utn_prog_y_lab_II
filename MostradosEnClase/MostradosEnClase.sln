@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo.Override-vs-Ne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploDateTime", "EjemploDateTime\EjemploDateTime.csproj", "{35CC6D56-C6FE-49E2-B32E-B641F2E49B2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-17", "Clase-17\Clase-17.csproj", "{F53CDFD4-DE96-49BA-A8E8-00B08EB00FF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -205,6 +207,10 @@ Global
 		{35CC6D56-C6FE-49E2-B32E-B641F2E49B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35CC6D56-C6FE-49E2-B32E-B641F2E49B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35CC6D56-C6FE-49E2-B32E-B641F2E49B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F53CDFD4-DE96-49BA-A8E8-00B08EB00FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53CDFD4-DE96-49BA-A8E8-00B08EB00FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53CDFD4-DE96-49BA-A8E8-00B08EB00FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53CDFD4-DE96-49BA-A8E8-00B08EB00FF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

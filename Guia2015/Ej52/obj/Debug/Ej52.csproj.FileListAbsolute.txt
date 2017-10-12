@@ -14,3 +14,6 @@ D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2015\Ej52\bin\Debug\Ej52.pdb
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2015\Ej52\bin\Debug\Ej52-Libreria.dll
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2015\Ej52\bin\Debug\Ej52-Libreria.pdb
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2015\Ej52\obj\Debug\Ej52.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2015\Ej52\bin\Debug\Ej52.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2015\Ej52\obj\Debug\Ej52.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2015\Ej52\obj\Debug\Ej52.pdb

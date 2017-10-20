@@ -13,12 +13,12 @@ namespace Archivos
     {
         public bool Guardar(string archivo, T datos)
         {
+            Stream stream = null;
             try
             {
                 BinaryFormatter formatter = new BinaryFormatter();
-                Stream stream = new FileStream("MyFile.bin", FileMode.Create, FileAccess.Write, FileShare.None);
+                stream = new FileStream(archivo, FileMode.Create, FileAccess.Write, FileShare.None);
                 formatter.Serialize(stream, datos);
-                stream.Close();
 
                 return true;
             }
@@ -26,13 +26,19 @@ namespace Archivos
             {
                 return false;
             }
+            finally
+            {
+                if(!ReferenceEquals(stream, null))
+                    stream.Close();
+            }
         }
         public bool Leer(string archivo, out T datos)
         {
+            Stream stream = null;
             try
             {
                 BinaryFormatter formatter = new BinaryFormatter();
-                Stream stream = new FileStream("MyFile.bin", FileMode.Open, FileAccess.Read, FileShare.Read);
+                stream = new FileStream(archivo, FileMode.Open, FileAccess.Read, FileShare.Read);
                 datos = (T)formatter.Deserialize(stream);
                 stream.Close();
 
@@ -42,6 +48,11 @@ namespace Archivos
             {
                 datos = default(T);
                 return false;
+            }
+            finally
+            {
+                if (!ReferenceEquals(stream, null))
+                    stream.Close();
             }
         }
     }

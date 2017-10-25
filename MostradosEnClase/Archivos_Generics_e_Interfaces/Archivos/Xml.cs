@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Xml.Serialization;
+using System.Xml;
 
 namespace Archivos
 {
@@ -15,7 +16,8 @@ namespace Archivos
             try
             {
                 XmlSerializer serializer = new XmlSerializer(typeof(V));
-                TextWriter writer = new StreamWriter(archivo);
+                //TextWriter writer = new StreamWriter(archivo);
+                XmlTextWriter writer = new XmlTextWriter(archivo, Encoding.UTF8);
                 serializer.Serialize(writer, datos);
                 writer.Close();
 
@@ -32,7 +34,8 @@ namespace Archivos
             try
             {
                 XmlSerializer serializer = new XmlSerializer(typeof(V));
-                TextReader writer = new StreamReader(archivo);
+                //TextReader writer = new StreamReader(archivo);
+                XmlTextReader writer = new XmlTextReader(archivo);
                 datos = (V)serializer.Deserialize(writer);
                 writer.Close();
 

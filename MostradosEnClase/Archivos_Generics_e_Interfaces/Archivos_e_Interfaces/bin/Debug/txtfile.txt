@@ -2,3 +2,7 @@ NOMBRE:   Olga
 EDAD:     32
 PROMEDIO: 1,5
 
+NOMBRE:   Olga
+EDAD:     32
+PROMEDIO: 1,5
+

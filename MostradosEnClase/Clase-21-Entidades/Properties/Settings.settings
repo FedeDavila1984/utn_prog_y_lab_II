@@ -5,5 +5,8 @@
     <Setting Name="CadenaConexion" Type="System.String" Scope="User">
       <Value Profile="(Default)">Data Source=LAB1PCPROFESOR\SQLEXPRESS;Initial Catalog=mibasededatos;Integrated Security=True</Value>
     </Setting>
+    <Setting Name="CadenaConexionMDE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=I05\SQLEXPRESS2014;Initial Catalog=mibasededatos;Integrated Security=True</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

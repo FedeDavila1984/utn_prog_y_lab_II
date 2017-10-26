@@ -20,7 +20,7 @@ namespace Entidades
         static PersonaDAO()
         {
             // CREO UN OBJETO SQLCONECTION
-            PersonaDAO._conexion = new SqlConnection(Properties.Settings.Default.CadenaConexion);
+            PersonaDAO._conexion = new SqlConnection(Properties.Settings.Default.CadenaConexionMDE);//CadenaConexion);
             // CREO UN OBJETO SQLCOMMAND
             PersonaDAO._comando = new SqlCommand();
             // INDICO EL TIPO DE COMANDO

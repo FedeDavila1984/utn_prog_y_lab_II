@@ -20,7 +20,7 @@ namespace Entidades
         static PersonaDAO()
         {
             // CREO UN OBJETO SQLCONECTION
-            PersonaDAO._conexion = new SqlConnection(Properties.Settings.Default.CadenaConexionMDE);//CadenaConexion);
+            PersonaDAO._conexion = new SqlConnection(Properties.Settings.Default.CadenaConexion);//CadenaConexionMDE);//
             // CREO UN OBJETO SQLCOMMAND
             PersonaDAO._comando = new SqlCommand();
             // INDICO EL TIPO DE COMANDO
@@ -122,7 +122,7 @@ namespace Entidades
 
                 todoOk = true;
             }
-            catch (Exception)
+            catch (Exception e)
             {
                 todoOk = false;
             }

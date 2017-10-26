@@ -9,3 +9,10 @@ D:\Federico\VB .Net\Visual C#\JSon\JSon\obj\Debug\JSon.csprojResolveAssemblyRefe
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\JSon.exe.config
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.pdb
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\JSon.exe.config
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.exe
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.pdb
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\JSon.exe
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\JSon.pdb
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\Newtonsoft.Json.xml
+D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.csprojResolveAssemblyReference.cache

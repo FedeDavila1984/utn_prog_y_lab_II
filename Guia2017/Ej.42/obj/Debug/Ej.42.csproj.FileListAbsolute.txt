@@ -6,3 +6,6 @@ D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2017\Ej.42\obj\Debug\Ej.42.pd
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.42\bin\Debug\Ej.42.exe.config
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.42\obj\Debug\Ej.42.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.42\obj\Debug\Ej.42.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.42\bin\Debug\Ej.42.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.42\bin\Debug\Ej.42.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.42\obj\Debug\Ej.42.csprojResolveAssemblyReference.cache

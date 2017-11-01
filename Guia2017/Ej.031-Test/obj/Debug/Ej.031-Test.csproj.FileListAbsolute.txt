@@ -5,3 +5,9 @@ D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2017\Ej.031-Test\bin\Debug\Ej
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2017\Ej.031-Test\obj\Debug\Ej.031-Test.csprojResolveAssemblyReference.cache
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2017\Ej.031-Test\obj\Debug\Ej._031_Test.exe
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\Guia2017\Ej.031-Test\obj\Debug\Ej._031_Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.031-Test\bin\Debug\Ej._031_Test.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.031-Test\bin\Debug\Ej._031_Test.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.031-Test\bin\Debug\Ej._031_Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.031-Test\obj\Debug\Ej.031-Test.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.031-Test\obj\Debug\Ej._031_Test.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.031-Test\obj\Debug\Ej._031_Test.pdb

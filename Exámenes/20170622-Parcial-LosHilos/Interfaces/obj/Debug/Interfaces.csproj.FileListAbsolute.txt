@@ -1,0 +1,5 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\Parcial-2-20170622\Interfaces\bin\Debug\Interfaces.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\Parcial-2-20170622\Interfaces\bin\Debug\Interfaces.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\Parcial-2-20170622\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\Parcial-2-20170622\Interfaces\obj\Debug\Interfaces.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\Parcial-2-20170622\Interfaces\obj\Debug\Interfaces.pdb

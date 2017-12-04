@@ -101,9 +101,9 @@ namespace EntidadesHechas
             {
                 PaqueteDAO.Insertar(this);
             }
-            catch (Exception e)
+            catch (Exception)
             {
-                throw e;
+                
             }
         }
         #endregion

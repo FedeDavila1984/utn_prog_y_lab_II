@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Quitar
 using EntidadesAlumno;
 using System.Threading;
 

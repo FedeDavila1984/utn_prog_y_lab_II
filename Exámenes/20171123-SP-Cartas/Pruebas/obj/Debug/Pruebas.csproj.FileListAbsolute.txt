@@ -1,0 +1,9 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\Pruebas\bin\Debug\Pruebas.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\Pruebas\bin\Debug\Pruebas.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\Pruebas\obj\Debug\Pruebas.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\Pruebas\obj\Debug\Pruebas.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\Pruebas\bin\Debug\EntidadesAlumno.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\Pruebas\bin\Debug\EntidadesHechas.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\Pruebas\bin\Debug\EntidadesAlumno.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\Pruebas\bin\Debug\EntidadesHechas.pdb

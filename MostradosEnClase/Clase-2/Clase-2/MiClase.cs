@@ -8,15 +8,15 @@ namespace Clase_2
 {
     public class MiClase
     {
-        private static int _atributoEstatico;
-        private int _atributoNoEstatico;
+        private static int atributoEstatico;
+        private int atributoNoEstatico;
 
         /// <summary>
         /// Constructor estático
         /// </summary>
         static MiClase()
         {
-            MiClase._atributoEstatico = 101;
+            MiClase.atributoEstatico = 101;
         }
 
         /// <summary>
@@ -32,7 +32,7 @@ namespace Clase_2
         /// <param name="noEstatico"></param>
         public MiClase(int noEstatico)
         {
-            this._atributoNoEstatico = noEstatico;
+            this.atributoNoEstatico = noEstatico;
         }
 
         /// <summary>
@@ -42,8 +42,8 @@ namespace Clase_2
         /// <param name="noEstatico"></param>
         public MiClase(int estatico, int noEstatico)
         {
-            this._atributoNoEstatico = noEstatico;
-            MiClase._atributoEstatico = estatico;
+            this.atributoNoEstatico = noEstatico;
+            MiClase.atributoEstatico = estatico;
         }
 
         /// <summary>
@@ -52,7 +52,7 @@ namespace Clase_2
         /// <returns>Atributo estático</returns>
         public static int ValorEstatico()
         {
-            return MiClase._atributoEstatico;
+            return MiClase.atributoEstatico;
         }
 
         /// <summary>
@@ -61,7 +61,7 @@ namespace Clase_2
         /// <returns>Atributo del objeto</returns>
         public int ValorNoEstatico()
         {
-            return this._atributoNoEstatico;
+            return this.atributoNoEstatico;
         }
     }
 }

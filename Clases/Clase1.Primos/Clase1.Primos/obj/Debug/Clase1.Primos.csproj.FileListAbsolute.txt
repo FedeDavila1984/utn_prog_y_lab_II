@@ -1,0 +1,6 @@
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Clase1.Primos\Clase1.Primos\bin\Debug\Clase1.Primos.exe.config
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Clase1.Primos\Clase1.Primos\bin\Debug\Clase1.Primos.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Clase1.Primos\Clase1.Primos\bin\Debug\Clase1.Primos.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Clase1.Primos\Clase1.Primos\obj\Debug\Clase1.Primos.csprojResolveAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Clase1.Primos\Clase1.Primos\obj\Debug\Clase1.Primos.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Clase1.Primos\Clase1.Primos\obj\Debug\Clase1.Primos.pdb

@@ -1,6 +1,0 @@
-D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Clase1.Perfectos\Clase1.Perfectos\bin\Debug\Clase1.Perfectos.exe.config
-D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Clase1.Perfectos\Clase1.Perfectos\bin\Debug\Clase1.Perfectos.exe
-D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Clase1.Perfectos\Clase1.Perfectos\bin\Debug\Clase1.Perfectos.pdb
-D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Clase1.Perfectos\Clase1.Perfectos\obj\Debug\Clase1.Perfectos.csprojResolveAssemblyReference.cache
-D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Clase1.Perfectos\Clase1.Perfectos\obj\Debug\Clase1.Perfectos.exe
-D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Clase1.Perfectos\Clase1.Perfectos\obj\Debug\Clase1.Perfectos.pdb

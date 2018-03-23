@@ -18,16 +18,16 @@ namespace Ej._004
             {
                 int sumador = 0;
                 // Busco los divisores del número actual
-                for (int i = 1; i < numero; i++)
-                //for (int i = numero-1; i > 0 ; i--)
+                //for (int i = 1; i < numero; i++)
+                for (int i = numero-1; i > 0 ; i--)
                 {
                     if ((numero % i) == 0)
                     {
                         // Sumo los divisores en busca del número Perfecto
                         sumador += i;
 
-                        //if (sumador > numero)
-                        //    break;
+                        if (sumador > numero)
+                            break;
                     }
                 }
                 // Si la suma de los divisores es igual al número, es PERFECTO

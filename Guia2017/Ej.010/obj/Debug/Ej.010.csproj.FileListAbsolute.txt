@@ -1,0 +1,6 @@
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Guia2017\Ej.010\bin\Debug\Ej.010.exe.config
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Guia2017\Ej.010\bin\Debug\Ej.010.exe
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Guia2017\Ej.010\bin\Debug\Ej.010.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Guia2017\Ej.010\obj\Debug\Ej.010.exe
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Guia2017\Ej.010\obj\Debug\Ej.010.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Guia2017\Ej.010\obj\Debug\Ej.010.csprojResolveAssemblyReference.cache

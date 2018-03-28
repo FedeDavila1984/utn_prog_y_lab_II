@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A3434332-4B8F-4B63-A5FA-C3E643581684}</ProjectGuid>
+    <ProjectGuid>{0651B828-551D-4814-AF34-3AE14C09C50A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Conversiones</RootNamespace>
-    <AssemblyName>ConsoleApplication12</AssemblyName>
+    <RootNamespace>Clase._4.Constructores</RootNamespace>
+    <AssemblyName>Clase.4.Constructores</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,8 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Centimetro.cs" />
-    <Compile Include="Metro.cs" />
+    <Compile Include="MiClase.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

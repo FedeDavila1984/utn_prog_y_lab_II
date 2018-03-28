@@ -1,0 +1,6 @@
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase.4.Constructores\Clase.4.Constructores\bin\Debug\Clase.4.Constructores.exe.config
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase.4.Constructores\Clase.4.Constructores\bin\Debug\Clase.4.Constructores.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase.4.Constructores\Clase.4.Constructores\bin\Debug\Clase.4.Constructores.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase.4.Constructores\Clase.4.Constructores\obj\Debug\Clase.4.Constructores.csprojResolveAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase.4.Constructores\Clase.4.Constructores\obj\Debug\Clase.4.Constructores.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase.4.Constructores\Clase.4.Constructores\obj\Debug\Clase.4.Constructores.pdb

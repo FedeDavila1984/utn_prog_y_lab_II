@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication12", "ConsoleApplication12\ConsoleApplication12.csproj", "{A3434332-4B8F-4B63-A5FA-C3E643581684}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentimetroMetro", "ConsoleApplication12\CentimetroMetro.csproj", "{A3434332-4B8F-4B63-A5FA-C3E643581684}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

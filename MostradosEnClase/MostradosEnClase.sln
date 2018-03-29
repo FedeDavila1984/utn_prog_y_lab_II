@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-3", "Ej.Sobrecarga\Clase-3.csproj", "{B216338F-1702-4376-8B7D-4799D5734EE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-04-Operadores", "Ej.Sobrecarga\Clase-04-Operadores.csproj", "{B216338F-1702-4376-8B7D-4799D5734EE1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderEjemplo", "StringBuilderEjemplo\ConsoleApplication1\StringBuilderEjemplo.csproj", "{1B4F6CC5-F7ED-43F7-BD8C-FDB11BA1D39F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-1", "Clase-1\ConsoleApplication1\Clase-1.csproj", "{730B7C95-AF2A-4B91-9534-FDC1F2B09C95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-01", "Clase-1\ConsoleApplication1\Clase-01.csproj", "{730B7C95-AF2A-4B91-9534-FDC1F2B09C95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-2", "Clase-2\Clase-2\Clase-2.csproj", "{69B293AD-5578-411B-BB11-5FCD03002A2D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-02", "Clase-2\Clase-2\Clase-02.csproj", "{69B293AD-5578-411B-BB11-5FCD03002A2D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio-Clase-5-Campus", "Ejercicio-Clase-5-Campus\Ejercicio-Clase-5-Campus.csproj", "{E20BCD1B-C7F0-4DB6-BECC-748B22940847}"
 EndProject
@@ -15,11 +15,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.WindowsForms", "Ej.Formu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Colecciones", "Ej.Colecciones\Ej.Colecciones.csproj", "{FFDC7605-6513-438D-B7A1-EC1D39CCE27C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-6", "Clase-6\Clase-6.csproj", "{CCE6A4C7-73FF-496B-B1D7-444DD5BB7F14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-06", "Clase-6\Clase-06.csproj", "{CCE6A4C7-73FF-496B-B1D7-444DD5BB7F14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-8", "Clase-7\Clase-8.csproj", "{A6154D3C-0917-4F19-B74F-C73F7C47F0F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-08", "Clase-7\Clase-08.csproj", "{A6154D3C-0917-4F19-B74F-C73F7C47F0F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-8-Libreria", "Clase-8-Libreria\Clase-8-Libreria.csproj", "{CF587F8D-4B7E-4562-A113-C2481EC58A7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-08-Libreria", "Clase-8-Libreria\Clase-08-Libreria.csproj", "{CF587F8D-4B7E-4562-A113-C2481EC58A7F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Herencia.PPT", "Ej.Herencia\Herencia\Ej.Herencia.PPT.csproj", "{506C23BF-87B6-4425-8032-03A32AF4108B}"
 EndProject
@@ -57,9 +57,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-22-BarraDeProgreso", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-25-Extension", "Clase-25-Extension\Clase-25-Extension.csproj", "{4B6558C0-FB70-49AF-94B1-C1A44D5DEA42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-4", "Clase-4\Clase-4\Clase-4.csproj", "{6B32915A-C310-41FB-A76A-4559E3966131}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentimetroMetro", "Clase-04-Oper.Conver\ConsoleApplication12\CentimetroMetro.csproj", "{A3434332-4B8F-4B63-A5FA-C3E643581684}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-04", "Clase-4\Clase-4\Clase-04.csproj", "{6B32915A-C310-41FB-A76A-4559E3966131}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Clase-05", "Ej.Clase-05\Ej.Clase-05.csproj", "{FDE98FA4-26E0-443D-90D2-E840DD6EB0B3}"
 EndProject
@@ -70,6 +68,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-17", "Clase-17\Clase-17.csproj", "{F53CDFD4-DE96-49BA-A8E8-00B08EB00FF2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSon", "JSon\JSon.csproj", "{0263ED1E-84AF-4BE5-ADF2-E8C8A13E391D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-03.Constructores", "Clase-4.Constructores\Clase-03.Constructores.csproj", "{0651B828-551D-4814-AF34-3AE14C09C50A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-04-CentimetroMetro", "Clase-04-Oper.Conver\Clase-04-CentimetroMetro.csproj", "{A3434332-4B8F-4B63-A5FA-C3E643581684}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -193,10 +195,6 @@ Global
 		{6B32915A-C310-41FB-A76A-4559E3966131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B32915A-C310-41FB-A76A-4559E3966131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B32915A-C310-41FB-A76A-4559E3966131}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A3434332-4B8F-4B63-A5FA-C3E643581684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3434332-4B8F-4B63-A5FA-C3E643581684}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3434332-4B8F-4B63-A5FA-C3E643581684}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3434332-4B8F-4B63-A5FA-C3E643581684}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FDE98FA4-26E0-443D-90D2-E840DD6EB0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FDE98FA4-26E0-443D-90D2-E840DD6EB0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDE98FA4-26E0-443D-90D2-E840DD6EB0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -217,6 +215,14 @@ Global
 		{0263ED1E-84AF-4BE5-ADF2-E8C8A13E391D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0263ED1E-84AF-4BE5-ADF2-E8C8A13E391D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0263ED1E-84AF-4BE5-ADF2-E8C8A13E391D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0651B828-551D-4814-AF34-3AE14C09C50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0651B828-551D-4814-AF34-3AE14C09C50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0651B828-551D-4814-AF34-3AE14C09C50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0651B828-551D-4814-AF34-3AE14C09C50A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3434332-4B8F-4B63-A5FA-C3E643581684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3434332-4B8F-4B63-A5FA-C3E643581684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3434332-4B8F-4B63-A5FA-C3E643581684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3434332-4B8F-4B63-A5FA-C3E643581684}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

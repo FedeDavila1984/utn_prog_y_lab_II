@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase._4.Constructores
+namespace Clase3.Constructores
 {
     class Program
     {

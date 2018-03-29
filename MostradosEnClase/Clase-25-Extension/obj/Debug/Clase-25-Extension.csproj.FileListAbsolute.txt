@@ -18,3 +18,6 @@ D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extensi
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\bin\Debug\Clase-25-Extension.exe
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\bin\Debug\Clase-25-Extension.pdb
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\obj\Debug\Clase-25-Extension.csprojResolveAssemblyReference.cache
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\bin\Debug\Clase-25-Extension.exe.config
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\obj\Debug\Clase-25-Extension.exe
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\obj\Debug\Clase-25-Extension.pdb

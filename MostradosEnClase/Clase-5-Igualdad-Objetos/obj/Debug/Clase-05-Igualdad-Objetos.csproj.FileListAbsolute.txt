@@ -1,0 +1,5 @@
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\bin\Debug\Clase-5-Igualdad-Objetos.exe.config
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\bin\Debug\Clase-5-Igualdad-Objetos.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\bin\Debug\Clase-5-Igualdad-Objetos.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\obj\Debug\Clase-5-Igualdad-Objetos.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\obj\Debug\Clase-5-Igualdad-Objetos.pdb

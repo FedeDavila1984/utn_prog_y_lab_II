@@ -8,7 +8,7 @@ namespace Clase_5_Igualdad_Objetos
 {
     public class MiClase
     {
-        int miAlgo;
+        public int miAlgo;
 
         public MiClase(int algo)
         {

@@ -1,8 +1,0 @@
-D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\EntidadesHechas\bin\Debug\EntidadesHechas.dll
-D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\EntidadesHechas\bin\Debug\EntidadesHechas.pdb
-D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\EntidadesHechas\bin\Debug\EntidadesAlumno.dll
-D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\EntidadesHechas\bin\Debug\EntidadesAlumno.pdb
-D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\EntidadesHechas\obj\Debug\EntidadesHechas.csprojResolveAssemblyReference.cache
-D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\EntidadesHechas\obj\Debug\EntidadesHechas.dll
-D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\EntidadesHechas\obj\Debug\EntidadesHechas.pdb
-D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\EntidadesHechas\bin\Debug\EntidadesHechas.dll.config

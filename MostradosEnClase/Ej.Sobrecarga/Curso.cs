@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +12,7 @@ namespace Ej.Sobrecarga
         char _division;
         string[] _alumnos;
 
+        #region Constructores
         /// <summary>
         /// Sobrecarga del Constructor: Recibe un string con el Alumno, lo convierte a array y se lo pasa al Constructor que corresponde.
         /// </summary>
@@ -44,6 +45,9 @@ namespace Ej.Sobrecarga
             this._division = division;
         }
 
+        #endregion
+
+        #region Operadores y Conversiones
         /// <summary>
         /// Comparo la palabra de la clase con un tamaño
         /// </summary>
@@ -116,5 +120,6 @@ namespace Ej.Sobrecarga
         {
             return c._alumnos.Length;
         }
+        #endregion
     }
 }

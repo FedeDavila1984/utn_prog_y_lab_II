@@ -36,10 +36,11 @@ namespace EjemploHerencia
 
         #region Métodos
 
-        public void Comer()        
+        public string Comer()        
         {
-            Console.WriteLine("Estoy comiendo...");
-            Console.ReadLine();
+            return "Estoy comiendo...";
+            //Console.WriteLine("Estoy comiendo...");
+            //Console.ReadLine();
         }
 
         #endregion

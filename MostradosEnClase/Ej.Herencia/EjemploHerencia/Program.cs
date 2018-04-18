@@ -39,12 +39,14 @@ namespace EjemploHerencia
             alumno.Estudiar(materiasUTN[1]);
 
             //INVOCO AL MÉTODO COMER, DE LA CLASE PERSONA (CLASE BASE)
-            alumno.Comer();
-            profesor.Comer();
+            Console.WriteLine(alumno.Comer());
+            Console.WriteLine(profesor.Comer());
 
             //EL PROFESOR CALIFICA A LOS ALUMNOS
-            profesor.Calificar(alumno2, materiasUTN[2]);
-            profesor.Calificar(alumno, materiasUTN[1]);
+            Console.WriteLine(profesor.Calificar(alumno2, materiasUTN[2]));
+            Console.ReadKey();
+            Console.WriteLine(profesor.Calificar(alumno, materiasUTN[1]));
+            Console.ReadKey();
 
             //MUESTRO LAS NOTAS DE CADA ALUMNO
             alumno.MostrarResultados();

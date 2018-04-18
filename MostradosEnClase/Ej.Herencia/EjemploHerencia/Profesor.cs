@@ -29,7 +29,7 @@ namespace EjemploHerencia
 
         #region Métodos
 
-        public void Calificar(Alumno alumno,Materia materia)
+        public string Calificar(Alumno alumno,Materia materia)
         {
             bool existeEnCurso = false;
             bool tieneMateria = false;
@@ -56,16 +56,20 @@ namespace EjemploHerencia
 
                 if (!existeEnCurso)
                 {
-                    Console.WriteLine("El alumno {0} no pertenece al curso",alumno.legajo);
-                    Console.ReadLine();
+                    return string.Format("El alumno {0} no pertenece al curso", alumno.legajo);
+                    //Console.WriteLine("El alumno {0} no pertenece al curso",alumno.legajo);
+                    //Console.ReadLine();
                 }
                 if (!tieneMateria)
                 {
-                    Console.WriteLine("El alumno {0} no estudia la materia",alumno.legajo);
-                    Console.ReadLine();
+                    return string.Format("El alumno {0} no estudia la materia", alumno.legajo);
+                    //Console.WriteLine("El alumno {0} no estudia la materia",alumno.legajo);
+                    //Console.ReadLine();
                 }
 
             }
+
+            return "";
         }
 
         #endregion

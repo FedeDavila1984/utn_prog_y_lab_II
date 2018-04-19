@@ -112,6 +112,8 @@ namespace Ej.Colecciones
 
             // Quito un ítem
             miDiccionario.Remove("3ra");
+            // Modifico un ítem
+            miDiccionario["2da"] = "Newcastle United";
             // Itero y muestro las claves
             foreach (string entrada in miDiccionario.Keys)
             {
@@ -178,7 +180,7 @@ namespace Ej.Colecciones
             Console.ReadKey();
             Console.Clear();
 
-            Console.WriteLine("PILA GENERICA");
+            Console.WriteLine("PILA NO GENÉRICA");
             System.Collections.Stack clientesPilaGenerica = new System.Collections.Stack();
             clientesPilaGenerica.Push(new Cliente("Jorge"));
             clientesPilaGenerica.Push(new Cliente("Alberto"));

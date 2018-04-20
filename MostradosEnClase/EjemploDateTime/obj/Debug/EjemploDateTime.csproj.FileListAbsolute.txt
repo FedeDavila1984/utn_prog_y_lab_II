@@ -10,3 +10,9 @@ D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ejempl
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\obj\Debug\EjemploDateTime.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\obj\Debug\EjemploDateTime.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\obj\Debug\EjemploDateTime.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\bin\Debug\EjemploDateTime.exe.config
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\obj\Debug\EjemploDateTime.exe
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\obj\Debug\EjemploDateTime.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\bin\Debug\EjemploDateTime.exe
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\bin\Debug\EjemploDateTime.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\obj\Debug\EjemploDateTime.csprojResolveAssemblyReference.cache

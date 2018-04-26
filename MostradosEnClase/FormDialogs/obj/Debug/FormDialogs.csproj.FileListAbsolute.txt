@@ -1,0 +1,10 @@
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\bin\Debug\FormDialogs.exe.config
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\bin\Debug\FormDialogs.exe
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\bin\Debug\FormDialogs.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.csprojResolveAssemblyReference.cache
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.frmFormPpal.resources
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.frmFormSecundario.resources
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.Properties.Resources.resources
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.csproj.GenerateResource.Cache
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.exe
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.pdb

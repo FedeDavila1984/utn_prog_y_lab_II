@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-04-CentimetroMetro", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-05-Igualdad-Objetos", "Clase-5-Igualdad-Objetos\Clase-05-Igualdad-Objetos.csproj", "{7441A71C-82BE-4589-8476-5D8B227F0A00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormDialogs", "FormDialogs\FormDialogs.csproj", "{CE1C0A74-82A0-4DA0-B314-619640F74D6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -229,6 +231,10 @@ Global
 		{7441A71C-82BE-4589-8476-5D8B227F0A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7441A71C-82BE-4589-8476-5D8B227F0A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7441A71C-82BE-4589-8476-5D8B227F0A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1C0A74-82A0-4DA0-B314-619640F74D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1C0A74-82A0-4DA0-B314-619640F74D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1C0A74-82A0-4DA0-B314-619640F74D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1C0A74-82A0-4DA0-B314-619640F74D6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

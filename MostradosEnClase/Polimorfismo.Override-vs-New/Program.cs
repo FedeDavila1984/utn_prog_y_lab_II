@@ -16,21 +16,24 @@ namespace Polimorfismo.Override_vs_New
 
             ClaseBase baseClaseA = new ClaseDerivadaA();
             Console.WriteLine(baseClaseA.MetodoVirtual());
+            Console.ReadKey();
 
             ClaseDerivadaA derivadaClaseA = new ClaseDerivadaA();
             Console.WriteLine(derivadaClaseA.MetodoVirtual());
+            Console.ReadKey();
 
             Console.WriteLine("<-------------------------------------------->");
             // Métodos virtuales con ClaseDerivadaB
             Console.WriteLine("Con ClaseDerivadaB:");
 
-            ClaseBase baseClaseB = new ClaseDerivadaB();
+            ClaseBase baseClaseB = new ClaseDerivadaB(1, 1.0f);
             Console.WriteLine(baseClaseB.MetodoVirtual());
-
-            ClaseDerivadaB derivadaClaseB = new ClaseDerivadaB();
-            Console.WriteLine(derivadaClaseB.MetodoVirtual());
-
             Console.ReadKey();
+
+            ClaseDerivadaB derivadaClaseB = new ClaseDerivadaB(1, 1.0f);
+            Console.WriteLine(derivadaClaseB.MetodoVirtual());
+            Console.ReadKey();
+
             Console.Clear();
 
             // Creo una lista
@@ -40,7 +43,7 @@ namespace Polimorfismo.Override_vs_New
             l.Add(baseClaseB);
             l.Add(derivadaClaseB);
 
-            Object obj = new ClaseDerivadaB();
+            Object obj = new ClaseDerivadaB(1, 1.0f);
             l.Add((ClaseBase)obj);
 
             // Itero la lista

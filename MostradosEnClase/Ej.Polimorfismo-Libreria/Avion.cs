@@ -14,7 +14,7 @@ namespace Ej.Polimorfismo_Libreria
 
         }
         public Avion(Vehiculo v)
-            : base(v.ID, v.Modelo)
+            : this(v.ID, v.Modelo)
         {
 
         }

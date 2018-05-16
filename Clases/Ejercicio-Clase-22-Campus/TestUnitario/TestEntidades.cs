@@ -12,22 +12,22 @@ namespace TestUnitario
         public void ValidaCuit()
         {
             Cliente c = new Cliente("A2", "D2", "2-12345678-9");
-            Assert.AreNotEqual(c.Cuit, "2-12345678-9");
+            Assert.AreNotEqual("2-12345678-9", c.Cuit);
 
             c.Cuit = "22-123456789";
-            Assert.AreEqual(c.Cuit, "");
+            Assert.AreEqual("", c.Cuit);
 
             c.Cuit = "2a-12345678-9";
-            Assert.AreEqual(c.Cuit, "");
+            Assert.AreEqual("", c.Cuit);
 
             c.Cuit = "22-1234567j-9";
-            Assert.AreEqual(c.Cuit, "");
+            Assert.AreEqual("", c.Cuit);
 
             c.Cuit = "28-12345678-?";
-            Assert.AreEqual(c.Cuit, "");
+            Assert.AreEqual("", c.Cuit);
 
             c.Cuit = "00-12345678-9";
-            Assert.AreEqual(c.Cuit, "00-12345678-9");
+            Assert.AreEqual("00-12345678-9", c.Cuit);
         }
 
         [TestMethod]
@@ -36,9 +36,11 @@ namespace TestUnitario
             Listado l = new Listado();
             string[] partes = l.Parse("Nombre;Apellido;00-12345678-9");
 
-            Assert.AreEqual(partes[0], "Nombre");
-            Assert.AreEqual(partes[1], "Apellido");
-            Assert.AreEqual(partes[2], "00-12345678-9");
+            Assert.AreEqual("Nombre", partes[0]);
+            Assert.AreEqual("Apellido", partes[1]);
+            Assert.AreEqual("00-12345678-9", partes[2]);
+
+            //Assert.IsTrue(partes[0] == "Nombre");
         }
     }
 }

@@ -14,3 +14,11 @@ D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Test\bin\Debug\T
 D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Test\bin\Debug\Entidades.dll
 D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Test\bin\Debug\Entidades.pdb
 D:\VisualStudio\Federico Dávila\2017\Ejercicio-Clase-22-Campus\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Test\bin\Debug\Test.exe.config
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Test\obj\Debug\Test.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Test\obj\Debug\Test.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Test\bin\Debug\Test.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Test\bin\Debug\Test.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Test\bin\Debug\Entidades.dll
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Test\bin\Debug\Entidades.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

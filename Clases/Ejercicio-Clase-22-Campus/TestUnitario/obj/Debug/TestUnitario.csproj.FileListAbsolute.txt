@@ -19,3 +19,10 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Test
 D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\TestUnitario\obj\Debug\TestUnitario.dll
 D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\TestUnitario\obj\Debug\TestUnitario.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\TestUnitario\bin\Debug\Entidades.dll
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\TestUnitario\bin\Debug\Entidades.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\TestUnitario\obj\Debug\TestUnitario.pdb

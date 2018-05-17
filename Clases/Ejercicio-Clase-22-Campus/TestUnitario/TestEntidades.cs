@@ -41,6 +41,8 @@ namespace TestUnitario
             Assert.AreEqual("00-12345678-9", partes[2]);
 
             //Assert.IsTrue(partes[0] == "Nombre");
+
+            //Assert.IsInstanceOfType(l, typeof(Listado));
         }
     }
 }

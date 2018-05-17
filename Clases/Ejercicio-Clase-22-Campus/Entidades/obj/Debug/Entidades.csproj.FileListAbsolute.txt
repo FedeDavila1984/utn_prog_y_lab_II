@@ -13,3 +13,7 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Enti
 D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Entidades\obj\Debug\Entidades.dll
 D:\Federico Dávila 2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Entidades\obj\Debug\Entidades.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Entidades\bin\Debug\Entidades.dll
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Entidades\bin\Debug\Entidades.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Entidades\obj\Debug\Entidades.dll
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Clases\Ejercicio-Clase-22-Campus\Entidades\obj\Debug\Entidades.pdb

@@ -28,7 +28,7 @@ namespace Interfaces
 
         public void Moverse(int x, int y)
         {
-            base.SetPosicion = new Point(x, y);
+            base.SetUbicacion = new Point(x, y);
         }
 
         public void Atacar(Animal victima)

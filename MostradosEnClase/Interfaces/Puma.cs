@@ -33,8 +33,8 @@ namespace Interfaces
         /// <param name="y"></param>
         public void Moverse(int x, int y)
         {
-            if ((x + y) <= (this.GetPosicion.X + this.GetPosicion.Y + 10))
-            base.SetPosicion = new Point(x, y);
+            if ((x + y) <= (this.GetUbicacion.X + this.GetUbicacion.Y + 10))
+            base.SetUbicacion = new Point(x, y);
         }
 
         public void Atacar(Animal victima)

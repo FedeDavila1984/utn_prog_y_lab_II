@@ -15,27 +15,27 @@ namespace Interfaces
             Masculino
         }
         protected Sexo sexo;
-        private Point posicion;
+        private Point ubicacion;
 
         public Animal(Sexo sexo)
         {
-            posicion = new Point(0, 0);
+            ubicacion = new Point(0, 0);
             this.sexo = sexo;
         }
 
-        public Point GetPosicion
+        public Point GetUbicacion
         {
             get
             {
-                return this.posicion;
+                return this.ubicacion;
             }
         }
 
-        protected Point SetPosicion
+        protected Point SetUbicacion
         {
             set
             {
-                this.posicion = value;
+                this.ubicacion = value;
             }
         }
     }

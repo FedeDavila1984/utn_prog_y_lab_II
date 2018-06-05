@@ -38,6 +38,7 @@ namespace Clase_22_Threads
 
         private void AnimarCaballito()
         {
+            
             do
             {
                 caballito1.MoverCaballito();
@@ -50,5 +51,6 @@ namespace Clase_22_Threads
             if (miHilo.IsAlive)
                 miHilo.Abort();
         }
+
     }
 }

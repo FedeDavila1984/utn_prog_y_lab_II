@@ -106,12 +106,12 @@ namespace Carreras
                 this.HayGanador(carrilNro);
             }
         }
-        delegate void CorrenCallback(int avance, int carril);
+        //delegate void CorrenCallback(int avance, int carril);
         private void Corren(int avance, int carril)
         {
             if (carril1.InvokeRequired)
             {
-                CorrenCallback d = new CorrenCallback(Corren);
+                AvisoAvanceCallback d = new AvisoAvanceCallback(Corren);
                 this.Invoke(d, new object[] { avance, carril });
             }
             else

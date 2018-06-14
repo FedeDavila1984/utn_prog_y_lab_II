@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
+    public delegate void AvisoAvanceCallback(int avance, int carril);
+
     public abstract class Animal
     {
         private int _cantidadPatas;
@@ -14,7 +16,6 @@ namespace Entidades
         private int _carril;
         protected static Random distanciaRecorrida;
 
-        public delegate void AvisoAvanceCallback(int avance, int carril);
         public event AvisoAvanceCallback AvisoAvance;
 
         public abstract void Correr();

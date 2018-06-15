@@ -14,9 +14,10 @@ namespace Extensor
         {
             return String.Format("{1} <---> {0}", miClase.ID, prefijo);
         }
+
         public static string MetodoExtendido(this ClaseSellada miClase, string prefijo, string otro)
         {
-            return String.Format("{1} <---> {0}", miClase.ID, prefijo);
+            return String.Format("{1} <---> {0} <---> {2}", miClase.ID, prefijo, otro);
         }
 
         public static string MetodoExtendido(this String miClase, string prefijo)

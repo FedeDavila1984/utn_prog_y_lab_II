@@ -1,7 +1,0 @@
-D:\Federico\VB .Net\Visual C#\utn\Examenes\Parcial-2-20170622\Entidades\bin\Debug\Entidades.dll
-D:\Federico\VB .Net\Visual C#\utn\Examenes\Parcial-2-20170622\Entidades\bin\Debug\Entidades.pdb
-D:\Federico\VB .Net\Visual C#\utn\Examenes\Parcial-2-20170622\Entidades\bin\Debug\Interfaces.dll
-D:\Federico\VB .Net\Visual C#\utn\Examenes\Parcial-2-20170622\Entidades\bin\Debug\Interfaces.pdb
-D:\Federico\VB .Net\Visual C#\utn\Examenes\Parcial-2-20170622\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
-D:\Federico\VB .Net\Visual C#\utn\Examenes\Parcial-2-20170622\Entidades\obj\Debug\Entidades.dll
-D:\Federico\VB .Net\Visual C#\utn\Examenes\Parcial-2-20170622\Entidades\obj\Debug\Entidades.pdb

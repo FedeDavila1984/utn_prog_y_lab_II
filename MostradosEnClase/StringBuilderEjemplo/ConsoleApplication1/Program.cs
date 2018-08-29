@@ -10,12 +10,23 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            // StringBuilder
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("Una linea");
             sb.AppendFormat("{0} es un numero, y {1} es una palabra", 10, "Hola");
 
             Console.WriteLine(sb.ToString());
 
+            Console.ReadKey();
+
+            // String.Format
+            string a = string.Format("{0} {1}", "Algo", 10);
+            Console.WriteLine(a);
+            Console.ReadKey();
+
+            // Concatenar
+            a = a + "12135" + 123 + "135";
+            Console.WriteLine(a);
             Console.ReadKey();
         }
     }

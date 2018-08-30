@@ -59,9 +59,10 @@ namespace Clase_2
         /// Retorna el atributo del objeto (no estático)
         /// </summary>
         /// <returns>Atributo del objeto</returns>
-        public int ValorNoEstatico()
+        public int? ValorNoEstatico()
         {
-            return this.atributoNoEstatico;
+            //return this.atributoNoEstatico;
+            return null;
         }
     }
 }

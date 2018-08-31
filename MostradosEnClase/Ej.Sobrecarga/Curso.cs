@@ -8,9 +8,9 @@ namespace Ej.Sobrecarga
 {
     public class Curso
     {
-        int _curso;
-        char _division;
-        string[] _alumnos;
+        int curso;
+        char division;
+        string[] alumnos;
 
         #region Constructores
         /// <summary>
@@ -23,12 +23,12 @@ namespace Ej.Sobrecarga
         }
 
         /// <summary>
-        /// Sobrecarga del Constructor: Recibe un array de cadenas de texto y lo guarda en _alumnos
+        /// Sobrecarga del Constructor: Recibe un array de cadenas de texto y lo guarda en alumnos
         /// </summary>
         /// <param name="alumnos">Array de cadenas de texto con los alumnos</param>
         public Curso(string[] alumnos)
         {
-            this._alumnos = alumnos;
+            this.alumnos = alumnos;
         }
 
         /// <summary>
@@ -41,8 +41,8 @@ namespace Ej.Sobrecarga
         public Curso(string[] alumnos, int curso, char division)
             : this(alumnos)
         {
-            this._curso = curso;
-            this._division = division;
+            this.curso = curso;
+            this.division = division;
         }
 
         #endregion
@@ -56,7 +56,7 @@ namespace Ej.Sobrecarga
         /// <returns></returns>
         public static bool operator >(Curso c, int tamanio)
         {
-            if (c._alumnos.Length > tamanio)
+            if (c.alumnos.Length > tamanio)
                 return true;
             return false;
         }
@@ -68,7 +68,7 @@ namespace Ej.Sobrecarga
         /// <returns></returns>
         public static bool operator <(Curso c, int tamanio)
         {
-            if (c._alumnos.Length < tamanio)
+            if (c.alumnos.Length < tamanio)
                 return true;
             return false;
         }
@@ -81,7 +81,7 @@ namespace Ej.Sobrecarga
         /// <returns></returns>
         public static bool operator >(Curso c1, Curso c2)
         {
-            if (c1._alumnos.Length > c2._alumnos.Length)
+            if (c1.alumnos.Length > c2.alumnos.Length)
                 return true;
             return false;
         }
@@ -93,7 +93,7 @@ namespace Ej.Sobrecarga
         /// <returns></returns>
         public static bool operator <(Curso c1, Curso c2)
         {
-            if (c1._alumnos.Length < c2._alumnos.Length)
+            if (c1.alumnos.Length < c2.alumnos.Length)
                 return true;
             return false;
         }
@@ -106,7 +106,7 @@ namespace Ej.Sobrecarga
         public static implicit operator string(Curso c)
         {
             StringBuilder sb = new StringBuilder();
-            foreach (string a in c._alumnos)
+            foreach (string a in c.alumnos)
                 sb.AppendLine(a);
             return sb.ToString();
         }
@@ -118,7 +118,7 @@ namespace Ej.Sobrecarga
         /// <returns></returns>
         public static explicit operator int(Curso c)
         {
-            return c._alumnos.Length;
+            return c.alumnos.Length;
         }
         #endregion
     }

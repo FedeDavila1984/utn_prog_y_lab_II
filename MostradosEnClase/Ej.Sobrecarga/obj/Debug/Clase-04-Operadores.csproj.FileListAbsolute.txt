@@ -1,0 +1,7 @@
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Sobrecarga\bin\Debug\Ej.Sobrecarga.exe.config
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Sobrecarga\bin\Debug\Ej.Sobrecarga.exe
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Sobrecarga\bin\Debug\Ej.Sobrecarga.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Sobrecarga\obj\Debug\Clase-04-Operadores.csprojAssemblyReference.cache
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Sobrecarga\obj\Debug\Clase-04-Operadores.csproj.CoreCompileInputs.cache
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Sobrecarga\obj\Debug\Ej.Sobrecarga.exe
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Sobrecarga\obj\Debug\Ej.Sobrecarga.pdb

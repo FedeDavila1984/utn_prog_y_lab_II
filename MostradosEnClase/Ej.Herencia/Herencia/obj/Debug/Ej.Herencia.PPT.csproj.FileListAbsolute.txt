@@ -1,0 +1,5 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\Herencia\bin\Debug\Herencia.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\Herencia\bin\Debug\Herencia.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\Herencia\obj\Debug\Ej.Herencia.PPT.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\Herencia\obj\Debug\Herencia.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\Herencia\obj\Debug\Herencia.pdb

@@ -9,3 +9,5 @@ D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Val
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Validacion\bin\Debug\Ej.Validacion.exe.config
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Validacion\obj\Debug\Ej.Validacion.exe
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Validacion\obj\Debug\Ej.Validacion.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Validacion\bin\Debug\Ej.Validacion.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Validacion\bin\Debug\Ej.Validacion.pdb

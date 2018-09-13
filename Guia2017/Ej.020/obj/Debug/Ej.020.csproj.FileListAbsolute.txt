@@ -7,3 +7,7 @@ D:\Federico Dávila\2018\utn_prog_y_lab_II\Guia2017\Ej.020\obj\Debug\Ej20.exe
 D:\Federico Dávila\2018\utn_prog_y_lab_II\Guia2017\Ej.020\obj\Debug\Ej20.pdb
 D:\Federico Dávila 2018\utn_prog_y_lab_II\Guia2017\Ej.020\obj\Debug\Ej20.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\Guia2017\Ej.020\obj\Debug\Ej20.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Guia2017\Ej.020\bin\Debug\Ej20.exe
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Guia2017\Ej.020\bin\Debug\Ej20.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Guia2017\Ej.020\obj\Debug\Ej.020.csprojAssemblyReference.cache
+D:\Federico Dávila\2018\utn_prog_y_lab_II\Guia2017\Ej.020\obj\Debug\Ej.020.csproj.CoreCompileInputs.cache

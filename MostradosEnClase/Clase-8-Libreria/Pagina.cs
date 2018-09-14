@@ -8,8 +8,8 @@ namespace Clase_8_Libreria
 {
     public class Pagina
     {
-        int _numero;
-        string _contenido;
+        int numero;
+        string contenido;
 
         public Pagina(int numero, string contenido)
         {
@@ -22,23 +22,23 @@ namespace Clase_8_Libreria
         {
             get
             {
-                return this._numero;
+                return this.numero;
             }
             set
             {
                 if(value<100)
-                    this._numero = value;
+                    this.numero = value;
             }
         }
         public string Contenido
         {
             get
             {
-                return this._contenido;
+                return this.contenido;
             }
             set
             {
-                this._contenido = value;
+                this.contenido = value;
             }
         }
         #endregion
@@ -50,7 +50,7 @@ namespace Clase_8_Libreria
         /// <returns>Contenido de la página.</returns>
         public static explicit operator string (Pagina pagina)
         {
-            return pagina._contenido;
+            return pagina.contenido;
         }
     }
 }

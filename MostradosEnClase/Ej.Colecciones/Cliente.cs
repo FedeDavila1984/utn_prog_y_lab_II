@@ -8,16 +8,16 @@ namespace Ej.Colecciones
 {
     class Cliente
     {
-        string _nombre;
+        string nombre;
 
         public Cliente(string nombre)
         {
-            this._nombre = nombre;
+            this.nombre = nombre;
         }
 
         public override string ToString()
         {
-            return this._nombre;
+            return this.nombre;
         }
     }
 }

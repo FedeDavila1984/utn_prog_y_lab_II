@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-04-Operadores", "Ej.Sobrecarga\Clase-04-Operadores.csproj", "{B216338F-1702-4376-8B7D-4799D5734EE1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderEjemplo", "StringBuilderEjemplo\ConsoleApplication1\StringBuilderEjemplo.csproj", "{1B4F6CC5-F7ED-43F7-BD8C-FDB11BA1D39F}"
@@ -23,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-08-Libreria", "Clase-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Herencia.PPT", "Ej.Herencia\Herencia\Ej.Herencia.PPT.csproj", "{506C23BF-87B6-4425-8032-03A32AF4108B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Herencia", "Ej.Herencia\EjemploHerencia\Ej.Herencia.csproj", "{42842CDC-8AEB-4090-8314-9EA80E00C0E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Clase-09-Herencia", "Ej.Herencia\EjemploHerencia\Ej.Clase-09-Herencia.csproj", "{42842CDC-8AEB-4090-8314-9EA80E00C0E6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Polimorfismo-Libreria", "Ej.Polimorfismo-Libreria\Ej.Polimorfismo-Libreria.csproj", "{2472EC3A-3045-4FC6-B55E-8A37ED91B42F}"
 EndProject

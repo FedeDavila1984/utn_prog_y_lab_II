@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-08-Libreria", "Clase-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Herencia.PPT", "Ej.Herencia\Herencia\Ej.Herencia.PPT.csproj", "{506C23BF-87B6-4425-8032-03A32AF4108B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Clase-09-Herencia", "Ej.Herencia\EjemploHerencia\Ej.Clase-09-Herencia.csproj", "{42842CDC-8AEB-4090-8314-9EA80E00C0E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-09-Herencia", "Ej.Herencia\EjemploHerencia\Clase-09-Herencia.csproj", "{42842CDC-8AEB-4090-8314-9EA80E00C0E6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Polimorfismo-Libreria", "Ej.Polimorfismo-Libreria\Ej.Polimorfismo-Libreria.csproj", "{2472EC3A-3045-4FC6-B55E-8A37ED91B42F}"
 EndProject

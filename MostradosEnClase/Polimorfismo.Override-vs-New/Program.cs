@@ -35,6 +35,8 @@ namespace Polimorfismo.Override_vs_New
             Console.ReadKey();
 
             Console.Clear();
+            Console.WriteLine(((ClaseDerivadaB)baseClaseB).MetodoVirtual());
+            Console.ReadKey();
 
             // Creo una lista
             List<ClaseBase> l = new List<ClaseBase>();

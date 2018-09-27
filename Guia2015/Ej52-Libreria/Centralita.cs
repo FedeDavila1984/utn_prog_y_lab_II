@@ -8,8 +8,8 @@ namespace Ej52_Libreria
 {
     public class Centralita
     {
-        private List<Llamada> _listaDeLlamadas;
-        protected string _razonSocial;
+        private List<Llamada> listaDeLlamadas;
+        protected string razonSocial;
 
         #region Propiedades
         /// <summary>
@@ -19,7 +19,7 @@ namespace Ej52_Libreria
         {
             get
             {
-                return this._listaDeLlamadas;
+                return this.listaDeLlamadas;
             }
         }
         /// <summary>
@@ -57,12 +57,12 @@ namespace Ej52_Libreria
         #region Constructores
         public Centralita()
         {
-            this._listaDeLlamadas = new List<Llamada>();
+            this.listaDeLlamadas = new List<Llamada>();
         }
         public Centralita(string nombreEmpresa)
             : this()
         {
-            this._razonSocial = nombreEmpresa;
+            this.razonSocial = nombreEmpresa;
         }
         #endregion
 
@@ -76,7 +76,7 @@ namespace Ej52_Libreria
         {
             float total = 0;
             // Recorro la lista de llamadas.
-            foreach (Llamada l in this._listaDeLlamadas)
+            foreach (Llamada l in this.listaDeLlamadas)
             {
                 // Según el tipo de llamada que quiero analizar, opero.
                 switch (tipo)
@@ -111,7 +111,7 @@ namespace Ej52_Libreria
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine("CENTRAL  : " + this._razonSocial);
+            sb.AppendLine("CENTRAL  : " + this.razonSocial);
             sb.AppendLine("*******************************************");
 
             sb.AppendLine("GANANCIAS");
@@ -121,7 +121,7 @@ namespace Ej52_Libreria
 
             sb.AppendLine("*******************************************");
             sb.AppendLine("DETALLE DE LLAMADAS");
-            foreach (Llamada l in this._listaDeLlamadas)
+            foreach (Llamada l in this.listaDeLlamadas)
             {
                 if(l is Local)
                     sb.AppendLine(((Local)l).Mostrar());

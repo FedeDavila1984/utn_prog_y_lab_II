@@ -63,6 +63,7 @@ namespace Polimorfismo.Override_vs_New
             Console.Clear();
 
             // Clase deribada es
+            Console.WriteLine("derivadaClaseA es derivadaClaseB: {0}", derivadaClaseA.GetType() == derivadaClaseB.GetType());
             Console.WriteLine("derivadaClaseB es ClaseDerivadaB: {0}", derivadaClaseB.GetType() == typeof(ClaseDerivadaB));
             Console.WriteLine("derivadaClaseB es ClaseBase: {0}", derivadaClaseB is ClaseBase);
             Console.WriteLine("derivadaClaseB es Object: {0}", derivadaClaseB is Object);

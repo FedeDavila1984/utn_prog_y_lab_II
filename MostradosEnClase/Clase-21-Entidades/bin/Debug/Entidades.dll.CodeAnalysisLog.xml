@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2017\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="15.0">
+ <Targets>
+  <Target Name="D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\bin\Debug\Entidades.dll">
+   <Modules>
+    <Module Name="entidades.dll">
+     <Namespaces>
+      <Namespace Name="Entidades">
+       <Types>
+        <Type Name="PersonaDAO" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#EjecutarNonQuery(System.String)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-11-06 22:15:36Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades" File="PersonaDAO.cs" Line="115">La cadena de consulta pasada a 'SqlCommand.CommandText.set(string)' en 'PersonaDAO.EjecutarNonQuery(string)' podría contener las siguientes variables: 'sql'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ObtienePersona()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2018-11-06 22:15:36Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades" File="PersonaDAO.cs" Line="65">'PersonaDAO.ObtienePersona()' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200">
+   <Name>Reiniciar para mantener los detalles de la pila</Name>
+   <Description>Utilice la instrucción de reinicio IL para mantener los detalles de la pila original cuando vaya a volver a provocar la excepción detectada.</Description>
+   <Resolution Name="Default">{0} vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182363.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad</Name>
+   <Description>Una cadena de comando SQL compilada a partir de datos proporcionados por el usuario es vulnerable a ataques pon inyección de código SQL. Microsoft SQL Server y otros servidores de bases de datos admiten procedimientos almacenados y consultas SQL parametrizadas, que reducen el riesgo de ataques por inyección.</Description>
+   <Resolution Name="WithNonLiterals">La cadena de consulta pasada a {0} en {1} podría contener las siguientes variables: {2}. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="15.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoría</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Contraer todo</String>
+  <String Key="CheckId">Comprobar id.</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">errores</String>
+  <String Key="ExpandAll">Expandir todo</String>
+  <String Key="Help">Ayuda</String>
+  <String Key="Line">Línea</String>
+  <String Key="Messages">mensajes</String>
+  <String Key="LocationNotStoredInPdb">[Ubicación no almacenada en Pdb]</String>
+  <String Key="Project">Proyecto</String>
+  <String Key="Resolution">Resolución</String>
+  <String Key="Rule">Regla</String>
+  <String Key="RuleFile">Archivo de regla</String>
+  <String Key="RuleDescription">Descripción de la regla</String>
+  <String Key="Source">Origen</String>
+  <String Key="Status">Estado</String>
+  <String Key="Target">Círculos concéntricos</String>
+  <String Key="Warning">Advertencia</String>
+  <String Key="Warnings">advertencias</String>
+  <String Key="ReportTitle">Informe de análisis del código</String>
+ </Localized>
+</FxCopReport>

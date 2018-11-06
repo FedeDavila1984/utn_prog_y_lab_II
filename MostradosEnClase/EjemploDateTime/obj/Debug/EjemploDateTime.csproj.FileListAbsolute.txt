@@ -20,7 +20,8 @@ D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\obj\
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\bin\Debug\EjemploDateTime.exe.config
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\bin\Debug\EjemploDateTime.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\bin\Debug\EjemploDateTime.pdb
-D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\obj\Debug\EjemploDateTime.csprojAssemblyReference.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\obj\Debug\EjemploDateTime.csproj.CoreCompileInputs.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\obj\Debug\EjemploDateTime.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\obj\Debug\EjemploDateTime.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\bin\Debug\EjemploDateTime.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\EjemploDateTime\bin\Debug\EjemploDateTime.exe.lastcodeanalysissucceeded

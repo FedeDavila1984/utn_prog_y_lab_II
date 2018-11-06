@@ -15,3 +15,6 @@ D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\obj\Debug\Clase-05-Igualdad-Objetos.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\obj\Debug\Clase-5-Igualdad-Objetos.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\obj\Debug\Clase-5-Igualdad-Objetos.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\bin\Debug\Clase-5-Igualdad-Objetos.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\bin\Debug\Clase-5-Igualdad-Objetos.exe.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\obj\Debug\Clase-05-Igualdad-Objetos.csproj.CoreCompileInputs.cache

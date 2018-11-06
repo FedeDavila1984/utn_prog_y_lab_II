@@ -1,0 +1,8 @@
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\bin\Debug\EjemploHerencia.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\bin\Debug\EjemploHerencia.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\bin\Debug\EjemploHerencia.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\bin\Debug\EjemploHerencia.exe.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\Clase-09-Herencia.csprojAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\Clase-09-Herencia.csproj.CoreCompileInputs.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\EjemploHerencia.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\EjemploHerencia.pdb

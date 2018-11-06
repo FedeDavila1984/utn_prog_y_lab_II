@@ -40,3 +40,11 @@ D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Manejo
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\obj\Debug\ManejoDeErrores.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.CoreCompileInputs.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\obj\Debug\ManejoDeErrores.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb

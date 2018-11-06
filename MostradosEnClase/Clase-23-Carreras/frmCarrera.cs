@@ -54,10 +54,14 @@ namespace Carreras
         {
             this.LimpiarCarriles();
 
-            this.carrera.Add(new Humano(30, 1));
-            this.carrera.Add(new Humano(30, 2));
-            this.carrera.Add(new Humano(30, 3));
-            this.carrera.Add(new Humano(30, 4));
+            //this.carrera.Add(new Humano(30, 1));
+            //this.carrera.Add(new Humano(30, 2));
+            //this.carrera.Add(new Humano(30, 3));
+            //this.carrera.Add(new Humano(30, 4));
+            this.carrera.Add(new Caballo("Silver", 30, 1));
+            this.carrera.Add(new Caballo("Rocinante", 30, 2));
+            this.carrera.Add(new Caballo("Pegaso", 30, 3));
+            this.carrera.Add(new Caballo("Perdigón", 30, 4));
 
             foreach (Animal a in this.carrera)
             {

@@ -33,3 +33,16 @@ D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\ob
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\bin\Debug\Test.exe.config
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\obj\Debug\Test.exe
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\obj\Debug\Test.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\bin\Debug\Test.exe.config
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\bin\Debug\Test.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\bin\Debug\Test.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\bin\Debug\Test.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\bin\Debug\Test.exe.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\bin\Debug\Entidades.dll
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\bin\Debug\Entidades.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\bin\Debug\Entidades.dll.config
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\obj\Debug\Clase-21-Test.csprojAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\obj\Debug\Clase-21-Test.csproj.CoreCompileInputs.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\obj\Debug\Clase-21-Test.csproj.CopyComplete
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\obj\Debug\Test.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Test\obj\Debug\Test.pdb

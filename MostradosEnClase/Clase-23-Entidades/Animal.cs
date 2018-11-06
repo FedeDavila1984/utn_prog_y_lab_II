@@ -10,10 +10,10 @@ namespace Entidades
 
     public abstract class Animal
     {
-        private int _cantidadPatas;
-        private int _velocidadMaxima;
+        private int cantidadPatas;
+        private int velocidadMaxima;
 
-        private int _carril;
+        private int carril;
         protected static Random distanciaRecorrida;
 
         public event AvisoAvanceCallback AvisoAvance;
@@ -29,14 +29,14 @@ namespace Entidades
         {
             this.CantidadPatas = cantidadPatas;
             this.VelocidadMaxima = velocidadMaxima;
-            this._carril = carril;
+            this.carril = carril;
         }
 
         public int Carril
         {
             get
             {
-                return this._carril;
+                return this.carril;
             }
         }
 
@@ -44,13 +44,13 @@ namespace Entidades
         {
             get
             {
-                return this._cantidadPatas;
+                return this.cantidadPatas;
             }
             set
             {
                 if (value > 4)
                     value = 4;
-                this._cantidadPatas = value;
+                this.cantidadPatas = value;
             }
         }
 
@@ -58,13 +58,13 @@ namespace Entidades
         {
             get
             {
-                return this._velocidadMaxima;
+                return this.velocidadMaxima;
             }
             set
             {
                 if (value > 100)
                     value = 100;
-                this._velocidadMaxima = value;
+                this.velocidadMaxima = value;
             }
         }
 

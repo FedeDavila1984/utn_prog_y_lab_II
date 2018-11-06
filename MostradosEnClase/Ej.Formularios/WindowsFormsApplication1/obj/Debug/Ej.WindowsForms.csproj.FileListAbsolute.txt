@@ -34,3 +34,15 @@ D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\W
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.miFormulario.resources
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\Ej.WindowsForms.csproj.GenerateResource.Cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\Ej.WindowsForms.csprojAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.miFormulario.resources
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\Ej.WindowsForms.csproj.GenerateResource.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\Ej.WindowsForms.csproj.CoreCompileInputs.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Formularios\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

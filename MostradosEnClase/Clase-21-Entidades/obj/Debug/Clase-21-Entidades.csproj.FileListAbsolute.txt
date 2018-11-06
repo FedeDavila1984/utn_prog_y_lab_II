@@ -22,3 +22,12 @@ D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidad
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\obj\Debug\Clase-21-Entidades.csprojResolveAssemblyReference.cache
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\obj\Debug\Entidades.dll
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\obj\Debug\Entidades.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\bin\Debug\Entidades.dll.config
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\bin\Debug\Entidades.dll
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\bin\Debug\Entidades.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\bin\Debug\Entidades.dll.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\bin\Debug\Entidades.dll.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\obj\Debug\Clase-21-Entidades.csprojAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\obj\Debug\Clase-21-Entidades.csproj.CoreCompileInputs.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\obj\Debug\Entidades.dll
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-21-Entidades\obj\Debug\Entidades.pdb

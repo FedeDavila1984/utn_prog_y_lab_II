@@ -3,3 +3,11 @@ D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\bin\Debug\ConsoleApplication12.pdb
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\obj\Debug\ConsoleApplication12.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\obj\Debug\ConsoleApplication12.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\bin\Debug\ConsoleApplication12.exe.config
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\bin\Debug\ConsoleApplication12.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\bin\Debug\ConsoleApplication12.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\bin\Debug\ConsoleApplication12.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\bin\Debug\ConsoleApplication12.exe.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\obj\Debug\Clase-04-CentimetroMetro.csproj.CoreCompileInputs.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\obj\Debug\ConsoleApplication12.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\obj\Debug\ConsoleApplication12.pdb

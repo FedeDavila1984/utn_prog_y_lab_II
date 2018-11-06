@@ -40,7 +40,7 @@ namespace Archivos
                 BinaryFormatter formatter = new BinaryFormatter();
                 stream = new FileStream(archivo, FileMode.Open, FileAccess.Read, FileShare.Read);
                 datos = (T)formatter.Deserialize(stream);
-                stream.Close();
+                //stream.Close();
 
                 return true;
             }

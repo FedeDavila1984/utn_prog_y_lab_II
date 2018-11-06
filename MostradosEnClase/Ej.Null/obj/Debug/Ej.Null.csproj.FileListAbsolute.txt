@@ -12,3 +12,5 @@ D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Null\obj\Debug\Ej
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Null\obj\Debug\Ej.Null.csproj.CoreCompileInputs.cache
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Null\obj\Debug\Ej.Null.exe
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Null\obj\Debug\Ej.Null.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Null\bin\Debug\Ej.Null.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Null\bin\Debug\Ej.Null.exe.lastcodeanalysissucceeded

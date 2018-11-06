@@ -25,9 +25,13 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsForm
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\bin\Debug\WindowsFormsThreads.pdb
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\bin\Debug\BarraDeProgreso.dll
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\bin\Debug\BarraDeProgreso.pdb
-D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\obj\Debug\Clase-22-WindowsFormsThreads.csprojResolveAssemblyReference.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\obj\Debug\WindowsFormsThreads.Form1.resources
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\obj\Debug\WindowsFormsThreads.Properties.Resources.resources
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\obj\Debug\Clase-22-WindowsFormsThreads.csproj.GenerateResource.Cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\obj\Debug\WindowsFormsThreads.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\obj\Debug\WindowsFormsThreads.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\bin\Debug\WindowsFormsThreads.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\bin\Debug\WindowsFormsThreads.exe.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\obj\Debug\Clase-22-WindowsFormsThreads.csprojAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\obj\Debug\Clase-22-WindowsFormsThreads.csproj.CoreCompileInputs.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-22-WindowsFormsThreads\obj\Debug\Clase-22-WindowsFormsThreads.csproj.CopyComplete

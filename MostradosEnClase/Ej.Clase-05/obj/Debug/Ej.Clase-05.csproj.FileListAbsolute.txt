@@ -15,4 +15,6 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\obj\Debu
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\obj\Debug\Ej.Clase-05.pdb
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\bin\Debug\Ej.Clase-05.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\bin\Debug\Ej.Clase-05.pdb
-D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\obj\Debug\Ej.Clase-05.csprojResolveAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\bin\Debug\Ej.Clase-05.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\bin\Debug\Ej.Clase-05.exe.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Clase-05\obj\Debug\Ej.Clase-05.csproj.CoreCompileInputs.cache

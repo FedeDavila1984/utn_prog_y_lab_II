@@ -18,3 +18,11 @@ D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generic
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Clase-20-Archivos.csprojResolveAssemblyReference.cache
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Archivos.dll
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Archivos.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\bin\Debug\Archivos.dll
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\bin\Debug\Archivos.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\bin\Debug\Archivos.dll.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\bin\Debug\Archivos.dll.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Clase-20-Archivos.csprojAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Clase-20-Archivos.csproj.CoreCompileInputs.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Archivos.dll
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Archivos.pdb

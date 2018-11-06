@@ -62,9 +62,9 @@ namespace Entidades
                 TodoOk = true;
             }
 
-            catch (Exception ex)
+            catch (Exception)
             {
-                throw ex;
+                throw;
             }
             finally
             {
@@ -122,7 +122,7 @@ namespace Entidades
 
                 todoOk = true;
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 todoOk = false;
             }

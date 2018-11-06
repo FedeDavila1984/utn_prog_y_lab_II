@@ -23,3 +23,12 @@ D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csproj.CoreCompileInputs.cache
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csprojAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csproj.CoreCompileInputs.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

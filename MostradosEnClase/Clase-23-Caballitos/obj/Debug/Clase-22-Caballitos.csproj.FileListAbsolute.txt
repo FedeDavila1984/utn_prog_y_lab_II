@@ -37,7 +37,6 @@ D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\bin\Debug\Caballitos.dll.config
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\bin\Debug\Caballitos.dll
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\bin\Debug\Caballitos.pdb
-D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Clase-22-Caballitos.csprojResolveAssemblyReference.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.Caballito.resources
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.Properties.Resources.resources
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Clase-22-Caballitos.csproj.GenerateResource.Cache
@@ -52,3 +51,5 @@ D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Clase-22-Caballitos.csproj.GenerateResource.Cache
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.dll
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Caballitos.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Clase-22-Caballitos.csprojAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Caballitos\obj\Debug\Clase-22-Caballitos.csproj.CoreCompileInputs.cache

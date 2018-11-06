@@ -23,3 +23,11 @@ D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo-Libr
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo-Libreria\obj\Debug\Ej.Polimorfismo-Libreria.csprojResolveAssemblyReference.cache
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo-Libreria\obj\Debug\Ej.Polimorfismo-Libreria.dll
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo-Libreria\obj\Debug\Ej.Polimorfismo-Libreria.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo-Libreria\bin\Debug\Ej.Polimorfismo-Libreria.dll
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo-Libreria\bin\Debug\Ej.Polimorfismo-Libreria.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo-Libreria\bin\Debug\Ej.Polimorfismo-Libreria.dll.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo-Libreria\bin\Debug\Ej.Polimorfismo-Libreria.dll.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo-Libreria\obj\Debug\Ej.Polimorfismo-Libreria.csprojAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo-Libreria\obj\Debug\Ej.Polimorfismo-Libreria.csproj.CoreCompileInputs.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo-Libreria\obj\Debug\Ej.Polimorfismo-Libreria.dll
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo-Libreria\obj\Debug\Ej.Polimorfismo-Libreria.pdb

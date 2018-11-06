@@ -14,7 +14,7 @@ namespace Caballitos
         Bitmap sheet;
         int fWidth, fHeight;
         int framesPerRow, framesPerCol;
-        int x, y;
+        //int x, y;
         public Bitmap curState;
 
         public Spritesheet(string path, int width, int height)

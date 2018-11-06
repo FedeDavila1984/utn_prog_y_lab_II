@@ -1,7 +1,6 @@
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-6\bin\Debug\Clase-6.exe.config
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-6\obj\Debug\Clase-6.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-6\obj\Debug\Clase-6.pdb
-D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-6\obj\Debug\Clase-06.csprojResolveAssemblyReference.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-6\bin\Debug\Clase-6.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-6\bin\Debug\Clase-6.pdb
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-6\bin\Debug\Clase-6.exe.config
@@ -16,3 +15,7 @@ D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-6\obj\Debug\Clase-06.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-6\obj\Debug\Clase-6.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-6\obj\Debug\Clase-6.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-6\bin\Debug\Clase-6.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-6\bin\Debug\Clase-6.exe.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-6\obj\Debug\Clase-06.csprojAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-6\obj\Debug\Clase-06.csproj.CoreCompileInputs.cache

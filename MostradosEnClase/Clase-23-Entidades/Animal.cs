@@ -70,7 +70,7 @@ namespace Entidades
 
         protected void LanzarAvisoAvance(int avance, int carril)
         {
-            this.AvisoAvance(avance, carril);
+            this.AvisoAvance.Invoke(avance, carril);
         }
     }
 }

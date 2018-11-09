@@ -116,7 +116,8 @@ namespace Carreras
             if (carril1.InvokeRequired)
             {
                 AvisoAvanceCallback d = new AvisoAvanceCallback(Corren);
-                this.Invoke(d, new object[] { avance, carril });
+                object[] objs = new object[] { avance, carril };
+                this.Invoke(d, objs);
             }
             else
             {

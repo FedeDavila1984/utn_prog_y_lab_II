@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Null", "Ej.Null\Ej.Null.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-10-Ejemplo PPT", "Clase-10-Ejemplo PPT\Clase-10-Ejemplo PPT.csproj", "{460C5E66-B6CA-492B-AB84-F04EF12CF4C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Eventos", "Ej.Eventos\Ej.Eventos.csproj", "{9125B2D4-0000-48AF-82F7-73055936E3CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{460C5E66-B6CA-492B-AB84-F04EF12CF4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{460C5E66-B6CA-492B-AB84-F04EF12CF4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{460C5E66-B6CA-492B-AB84-F04EF12CF4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9125B2D4-0000-48AF-82F7-73055936E3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9125B2D4-0000-48AF-82F7-73055936E3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9125B2D4-0000-48AF-82F7-73055936E3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9125B2D4-0000-48AF-82F7-73055936E3CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

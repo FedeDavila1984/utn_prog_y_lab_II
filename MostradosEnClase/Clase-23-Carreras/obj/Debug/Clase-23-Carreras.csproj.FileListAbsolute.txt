@@ -84,7 +84,6 @@ D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bi
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bin\Debug\Entidades.dll
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bin\Debug\Caballitos.pdb
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bin\Debug\Entidades.pdb
-D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csprojResolveAssemblyReference.cache
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Carreras.frmCarrera.resources
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Carreras.Properties.Resources.resources
 D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csproj.GenerateResource.Cache
@@ -92,3 +91,7 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bi
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csprojAssemblyReference.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csproj.CoreCompileInputs.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csproj.CopyComplete
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\bin\Debug\Caballitos.dll.config
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csprojAssemblyReference.cache
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csproj.CoreCompileInputs.cache
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-23-Carreras\obj\Debug\Clase-23-Carreras.csproj.CopyComplete

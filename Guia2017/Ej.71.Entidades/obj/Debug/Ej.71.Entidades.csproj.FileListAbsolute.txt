@@ -1,0 +1,6 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71.Entidades\bin\Debug\Ej.71.Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71.Entidades\bin\Debug\Ej.71.Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71.Entidades\obj\Debug\Ej.71.Entidades.csprojAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71.Entidades\obj\Debug\Ej.71.Entidades.csproj.CoreCompileInputs.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71.Entidades\obj\Debug\Ej.71.Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71.Entidades\obj\Debug\Ej.71.Entidades.pdb

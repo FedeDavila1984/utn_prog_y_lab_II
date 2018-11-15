@@ -1,0 +1,17 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\bin\Debug\Ej.71.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\bin\Debug\Ej.71.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\bin\Debug\Ej.71.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\bin\Debug\Ej.71.Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\bin\Debug\Ej.71.Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\obj\Debug\Ej.71.csprojAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\obj\Debug\Ej._71.FrmAltaAlumno.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\obj\Debug\Ej._71.FrmDatosAlumno.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\obj\Debug\Ej._71.FrmMostrar.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\obj\Debug\Ej._71.FrmPrincipal.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\obj\Debug\Ej._71.FrmTestDelegados.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\obj\Debug\Ej._71.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\obj\Debug\Ej.71.csproj.GenerateResource.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\obj\Debug\Ej.71.csproj.CoreCompileInputs.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\obj\Debug\Ej.71.csproj.CopyComplete
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\obj\Debug\Ej.71.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.71\obj\Debug\Ej.71.pdb

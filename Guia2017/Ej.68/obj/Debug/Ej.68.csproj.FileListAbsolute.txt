@@ -1,0 +1,8 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.68\obj\Debug\Ej.68.csprojAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.68\obj\Debug\Ej._68.FrmPersona.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.68\obj\Debug\Ej.68.csproj.GenerateResource.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.68\obj\Debug\Ej.68.csproj.CoreCompileInputs.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.68\bin\Debug\Ej.68.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.68\bin\Debug\Ej.68.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.68\obj\Debug\Ej.68.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.68\obj\Debug\Ej.68.pdb

@@ -1,0 +1,12 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.69\bin\Debug\Ej.69.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.69\bin\Debug\Ej.69.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.69\bin\Debug\Ej.69.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.69\obj\Debug\Ej.69.csprojAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.69\obj\Debug\Ej._69.FrmPrincipal.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.69\obj\Debug\Ej._69.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.69\obj\Debug\Ej.69.csproj.GenerateResource.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.69\obj\Debug\Ej.69.csproj.CoreCompileInputs.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.69\obj\Debug\Ej.69.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.69\obj\Debug\Ej.69.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.69\obj\Debug\Ej._69.frmTestDelegados.resources
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.69\obj\Debug\Ej._69.frmMostrar.resources

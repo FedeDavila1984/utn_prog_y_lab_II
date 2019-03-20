@@ -61,7 +61,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-25-Extension", "Clase
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-04", "Clase-4\Clase-4\Clase-04.csproj", "{6B32915A-C310-41FB-A76A-4559E3966131}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Clase-05", "Ej.Clase-05\Ej.Clase-05.csproj", "{FDE98FA4-26E0-443D-90D2-E840DD6EB0B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-05-Ej", "Ej.Clase-05\Clase-05-Ej.csproj", "{FDE98FA4-26E0-443D-90D2-E840DD6EB0B3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo.Override-vs-New", "Polimorfismo.Override-vs-New\Polimorfismo.Override-vs-New.csproj", "{1419BACC-D905-4337-8446-39712A1165C9}"
 EndProject

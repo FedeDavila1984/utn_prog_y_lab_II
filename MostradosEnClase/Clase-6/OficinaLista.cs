@@ -8,28 +8,28 @@ namespace Clase_6
 {
     public class OficinaLista
     {
-        private List<Empleado> _empleados;
-        private int _piso;
-        private int _cantidad;
+        private List<Empleado> empleados;
+        private int piso;
+        private int cantidad;
 
         private OficinaLista(int cantidad)
         {
-            this._empleados = new List<Empleado>();
-            this._cantidad = cantidad;
+            this.empleados = new List<Empleado>();
+            this.cantidad = cantidad;
         }
 
         public OficinaLista(int cantidad, int piso)
             : this(cantidad)
         {
-            this._piso = piso;
+            this.piso = piso;
         }
 
         public string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine("Oficina Sita en Piso " + this._piso);
-            foreach (Empleado e in this._empleados)
+            sb.AppendLine("Oficina Sita en Piso " + this.piso);
+            foreach (Empleado e in this.empleados)
             {
                 sb.AppendLine("- " + e.Mostrar());
             }
@@ -45,7 +45,7 @@ namespace Clase_6
         /// <returns></returns>
         public static OficinaLista operator +(OficinaLista oficina, Empleado empleado)
         {
-            foreach (Empleado e in oficina._empleados)
+            foreach (Empleado e in oficina.empleados)
             {
                 // Si el empleado existe...
                 if (e == empleado)
@@ -54,7 +54,7 @@ namespace Clase_6
                 }
             }
 
-            oficina._empleados.Add(empleado);
+            oficina.empleados.Add(empleado);
 
             return oficina;
         }
@@ -67,12 +67,12 @@ namespace Clase_6
         /// <returns></returns>
         public static OficinaLista operator -(OficinaLista oficina, Empleado empleado)
         {
-            foreach (Empleado e in oficina._empleados)
+            foreach (Empleado e in oficina.empleados)
             {
                 // Si el empleado existe...
                 if (e == empleado)
                 {
-                    oficina._empleados.Remove(e);
+                    oficina.empleados.Remove(e);
                     break;
                 }
             }

@@ -13,11 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-02", "Clase-2\Clase-2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio-Clase-5-Campus", "Ejercicio-Clase-5-Campus\Ejercicio-Clase-5-Campus.csproj", "{E20BCD1B-C7F0-4DB6-BECC-748B22940847}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.WindowsForms", "Ej.Formularios\WindowsFormsApplication1\Ej.WindowsForms.csproj", "{E4A66428-43DA-4275-AB84-A99C7C0E978F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-06-WindowsForms", "Ej.Formularios\WindowsFormsApplication1\Clase-06-WindowsForms.csproj", "{E4A66428-43DA-4275-AB84-A99C7C0E978F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-07-Colecciones", "Ej.Colecciones\Clase-07-Colecciones.csproj", "{FFDC7605-6513-438D-B7A1-EC1D39CCE27C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-06", "Clase-6\Clase-06.csproj", "{CCE6A4C7-73FF-496B-B1D7-444DD5BB7F14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-07-Array-vs-List", "Clase-6\Clase-07-Array-vs-List.csproj", "{CCE6A4C7-73FF-496B-B1D7-444DD5BB7F14}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-08", "Clase-7\Clase-08.csproj", "{A6154D3C-0917-4F19-B74F-C73F7C47F0F5}"
 EndProject

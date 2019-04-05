@@ -8,23 +8,23 @@ namespace Clase_6
 {
     public class Empleado
     {
-        string _nombre;
-        string _apellido;
+        string nombre;
+        string apellido;
 
         public Empleado(string nombre, string apellido)
         {
-            this._nombre = nombre;
-            this._apellido = apellido;
+            this.nombre = nombre;
+            this.apellido = apellido;
         }
 
         public string GetNombre()
         {
-            return this._nombre;
+            return this.nombre;
         }
 
         public string GetApellido()
         {
-            return this._apellido;
+            return this.apellido;
         }
 
         public string Mostrar()

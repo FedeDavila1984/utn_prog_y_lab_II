@@ -31,7 +31,7 @@
             this.btnMessageBox = new System.Windows.Forms.Button();
             this.txtTextBox1 = new System.Windows.Forms.TextBox();
             this.lblComboBox = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.cmbOperadores = new System.Windows.Forms.ComboBox();
             this.txtTextBox2 = new System.Windows.Forms.TextBox();
             this.lblTextBox1 = new System.Windows.Forms.Label();
             this.lblTextBox2 = new System.Windows.Forms.Label();
@@ -65,19 +65,19 @@
             this.lblComboBox.TabIndex = 2;
             this.lblComboBox.Text = "Mi ComboBox";
             // 
-            // comboBox1
+            // cmbOperadores
             // 
-            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.cmbOperadores.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbOperadores.FormattingEnabled = true;
+            this.cmbOperadores.Items.AddRange(new object[] {
             "-",
             "*",
             "+"});
-            this.comboBox1.Location = new System.Drawing.Point(90, 13);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(194, 21);
-            this.comboBox1.Sorted = true;
-            this.comboBox1.TabIndex = 3;
+            this.cmbOperadores.Location = new System.Drawing.Point(90, 13);
+            this.cmbOperadores.Name = "cmbOperadores";
+            this.cmbOperadores.Size = new System.Drawing.Size(194, 21);
+            this.cmbOperadores.Sorted = true;
+            this.cmbOperadores.TabIndex = 3;
             // 
             // txtTextBox2
             // 
@@ -123,7 +123,7 @@
             this.Controls.Add(this.lblTextBox2);
             this.Controls.Add(this.lblTextBox1);
             this.Controls.Add(this.txtTextBox2);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.cmbOperadores);
             this.Controls.Add(this.lblComboBox);
             this.Controls.Add(this.txtTextBox1);
             this.Controls.Add(this.btnMessageBox);
@@ -141,7 +141,7 @@
         private System.Windows.Forms.Button btnMessageBox;
         private System.Windows.Forms.TextBox txtTextBox1;
         private System.Windows.Forms.Label lblComboBox;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox cmbOperadores;
         private System.Windows.Forms.TextBox txtTextBox2;
         private System.Windows.Forms.Label lblTextBox1;
         private System.Windows.Forms.Label lblTextBox2;

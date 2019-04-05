@@ -8,26 +8,26 @@ namespace Clase_6
 {
     public class OficinaArray
     {
-        private Empleado[] _empleados;
-        private int _piso;
+        private Empleado[] empleados;
+        private int piso;
 
         private OficinaArray(int cantidad)
         {
-            this._empleados = new Empleado[cantidad];
+            this.empleados = new Empleado[cantidad];
         }
 
         public OficinaArray(int cantidad, int piso)
             : this(cantidad)
         {
-            this._piso = piso;
+            this.piso = piso;
         }
 
         public string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine("Oficina Sita en Piso " + this._piso);
-            foreach (Empleado e in this._empleados)
+            sb.AppendLine("Oficina Sita en Piso " + this.piso);
+            foreach (Empleado e in this.empleados)
             {
                 // Comparo si la referencia en memoria al objeto es null.
                 if (!Object.ReferenceEquals(e, null))
@@ -50,13 +50,13 @@ namespace Clase_6
             // Variable donde guardaré el primer lugar libre que encuentre.
             int lugarLibre = -1;
 
-            for (int i = 0; i < oficina._empleados.Length; i++)
+            for (int i = 0; i < oficina.empleados.Length; i++)
             {
                 // Comparo si la referencia en memoria al objeto es null.
-                if (!Object.ReferenceEquals(oficina._empleados[i], null))
+                if (!Object.ReferenceEquals(oficina.empleados[i], null))
                 {
                     // Si el empleado existe, salgo.
-                    if (oficina._empleados[i] == empleado)
+                    if (oficina.empleados[i] == empleado)
                         return oficina;
                 }
                 else
@@ -69,7 +69,7 @@ namespace Clase_6
 
             // Si el Empleado no existe y hay lugar libre, agrego.
             if (lugarLibre != -1)
-                oficina._empleados[lugarLibre] = empleado;
+                oficina.empleados[lugarLibre] = empleado;
 
             return oficina;
         }
@@ -82,16 +82,16 @@ namespace Clase_6
         /// <returns></returns>
         public static OficinaArray operator -(OficinaArray oficina, Empleado empleado)
         {
-            for (int i = 0; i < oficina._empleados.Length - 1; i++)
+            for (int i = 0; i < oficina.empleados.Length - 1; i++)
             {
                 // Comparo si la referencia en memoria al objeto es null.
-                if (!Object.ReferenceEquals(oficina._empleados[i], null))
+                if (!Object.ReferenceEquals(oficina.empleados[i], null))
                 {
                     // Si el empleado existe...
-                    if (oficina._empleados[i] == empleado)
+                    if (oficina.empleados[i] == empleado)
                     {
                         // ... elimino su referencia y salgo del lazo.
-                        oficina._empleados[i] = null;
+                        oficina.empleados[i] = null;
                         break;
                     }
                 }

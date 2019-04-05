@@ -22,9 +22,19 @@ namespace WindowsFormsApplication1
             string a = txtTextBox1.Text;
             string b = txtTextBox2.Text;
 
-            MessageBox.Show(a + b);
-
-            txtTextBox1.Text = txtTextBox2.Text;
+            switch(cmbOperadores.SelectedItem)
+            {       
+                case "+":
+                    MessageBox.Show(a + b);
+                    break;
+                case "-":
+                    // Busco la aparición de la cadena B en la cadena A
+                    MessageBox.Show(a.IndexOf(b).ToString());
+                    break;
+                default:
+                    txtTextBox1.Text = txtTextBox2.Text;
+                    break;
+            }
         }
 
         private void txtTextBox1_TextChanged(object sender, EventArgs e)

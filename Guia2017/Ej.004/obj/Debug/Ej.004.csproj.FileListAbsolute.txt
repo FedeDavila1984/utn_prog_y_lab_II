@@ -3,9 +3,3 @@ D:\Federico Dávila 2017\2018\utn_prog_y_lab_II\Guia2017\Ej.004\bin\Debug\Ej.004
 D:\Federico Dávila 2017\2018\utn_prog_y_lab_II\Guia2017\Ej.004\bin\Debug\Ej.004.pdb
 D:\Federico Dávila 2017\2018\utn_prog_y_lab_II\Guia2017\Ej.004\obj\Debug\Ej.004.exe
 D:\Federico Dávila 2017\2018\utn_prog_y_lab_II\Guia2017\Ej.004\obj\Debug\Ej.004.pdb
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.004\bin\Debug\Ej.004.exe.config
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.004\bin\Debug\Ej.004.exe
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.004\bin\Debug\Ej.004.pdb
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.004\obj\Debug\Ej.004.csprojResolveAssemblyReference.cache
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.004\obj\Debug\Ej.004.exe
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\Guia2017\Ej.004\obj\Debug\Ej.004.pdb

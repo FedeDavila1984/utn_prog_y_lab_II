@@ -8,7 +8,7 @@ namespace Billetes
 {
     public class Euro
     {
-        private static float cotizRespectoDolar;
+        private static double cotizRespectoDolar;
         private double cantidad;
 
         static Euro()
@@ -21,13 +21,13 @@ namespace Billetes
             this.cantidad = cantidad;
         }
 
-        public Euro(double cantidad, float cotizacion)
+        public Euro(double cantidad, double cotizacion)
             : this(cantidad)
         {
             Euro.cotizRespectoDolar = cotizacion;
         }
 
-        public static float GetCotizacion()
+        public static double GetCotizacion()
         {
             return Euro.cotizRespectoDolar;
         }

@@ -42,7 +42,7 @@ namespace EjemploHerencia
 
         public void MostrarResultados()
         {
-            Console.WriteLine("Nombre: {0} Legajo: {1}", this._nombre, this.legajo);
+            Console.WriteLine("Nombre: {0} Legajo: {1}", this.nombre, this.legajo);
             foreach (MateriaAlumno miMateria in this.materias)
             {
                 Console.WriteLine("Materia: {0} Codigo: {1} Nota: {2}", miMateria.descripcion, 

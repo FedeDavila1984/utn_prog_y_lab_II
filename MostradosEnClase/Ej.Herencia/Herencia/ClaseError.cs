@@ -21,14 +21,16 @@ namespace Herencia
         public string Falla(ClaseBase t)
         {
             // Esto da error por problema de accesibilidad.
-            //Console.WriteLine(t._edad);
-
+            //Console.WriteLine(t.edad);
+            //return "";
+            
             ClaseDerivada d;
             ClaseError e;
             if (t is ClaseDerivada)
             {
                 d = (ClaseDerivada)t;
                 return String.Format("Clase Derivada {0}", d.nombre);
+                //d.Compila();
             }
             else if (t.GetType() == typeof(ClaseError))
             {
@@ -39,11 +41,11 @@ namespace Herencia
             {
                 return "Clase Base";
             }
-            
+
         }
         public void Compila()
         {
-            Console.WriteLine(base._edad);
+            Console.WriteLine(base.edad);
             Console.WriteLine(this.Id);
         }
 

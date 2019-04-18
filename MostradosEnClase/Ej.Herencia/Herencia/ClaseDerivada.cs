@@ -13,7 +13,7 @@ namespace Herencia
         public ClaseDerivada(long id)
             : base(id)
         {
-            base._edad = 1;
+            base.edad = 1;
         }
 
         #endregion
@@ -22,7 +22,7 @@ namespace Herencia
 
         public void Compila()
         {
-            Console.WriteLine(_edad);
+            Console.WriteLine(edad);
         }
 
         #endregion

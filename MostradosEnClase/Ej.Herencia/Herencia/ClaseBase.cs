@@ -11,8 +11,8 @@ namespace Herencia
         #region Atributos
 
         public string nombre;
-        private long _id;
-        protected int _edad;
+        private long id;
+        protected int edad;
 
         #endregion
 
@@ -20,7 +20,7 @@ namespace Herencia
 
         public long Id 
         {
-            get { return _id; }
+            get { return id; }
         }
 
         #endregion
@@ -29,7 +29,7 @@ namespace Herencia
 
         public ClaseBase(long id)
         {
-            this._id = id;
+            this.id = id;
         }
 
         #endregion

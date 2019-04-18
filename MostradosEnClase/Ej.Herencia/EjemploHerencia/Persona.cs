@@ -9,9 +9,9 @@ namespace EjemploHerencia
     {
         #region Atributos
 
-        protected DateTime _fechaNacimiento;
-        protected string _nombre;
-        protected long _dni;
+        protected DateTime fechaNacimiento;
+        protected string nombre;
+        protected long dni;
 
         #endregion
 
@@ -19,16 +19,16 @@ namespace EjemploHerencia
 
         public Persona(string nombre, long dni)
         {
-            this._dni = dni;
-            this._fechaNacimiento = DateTime.Today;
-            this._nombre = nombre;
+            this.dni = dni;
+            this.fechaNacimiento = DateTime.Today;
+            this.nombre = nombre;
         }
 
         public Persona(string nombre, long dni, DateTime fechaNac)
         {
-            this._dni = dni;
-            this._fechaNacimiento = fechaNac;
-            this._nombre = nombre;
+            this.dni = dni;
+            this.fechaNacimiento = fechaNac;
+            this.nombre = nombre;
         }
 
 

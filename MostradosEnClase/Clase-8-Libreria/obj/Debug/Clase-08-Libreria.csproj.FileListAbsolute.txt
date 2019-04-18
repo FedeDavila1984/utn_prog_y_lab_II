@@ -1,8 +1,3 @@
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-8-Libreria\bin\Debug\Clase-8-Libreria.dll
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-8-Libreria\bin\Debug\Clase-8-Libreria.pdb
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-8-Libreria\obj\Debug\Clase-08-Libreria.csprojResolveAssemblyReference.cache
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-8-Libreria\obj\Debug\Clase-8-Libreria.dll
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-8-Libreria\obj\Debug\Clase-8-Libreria.pdb
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-8-Libreria\bin\Debug\Clase-8-Libreria.dll
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-8-Libreria\bin\Debug\Clase-8-Libreria.pdb
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-8-Libreria\bin\Debug\Clase-8-Libreria.dll.CodeAnalysisLog.xml

@@ -13,11 +13,6 @@ D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.csprojResolveAssemblyReference.cache
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.exe
 D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.pdb
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.exe
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.pdb
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.csprojResolveAssemblyReference.cache
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.exe
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ejercicio-Clase-5-Campus\obj\Debug\Ejercicio-Clase-5-Campus.pdb
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.pdb
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ejercicio-Clase-5-Campus\bin\Debug\Ejercicio-Clase-5-Campus.exe.CodeAnalysisLog.xml

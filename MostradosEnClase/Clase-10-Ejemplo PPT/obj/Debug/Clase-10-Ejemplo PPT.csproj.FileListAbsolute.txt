@@ -1,12 +1,3 @@
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\bin\Debug\Clase-10-Ejemplo PPT.exe.config
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\bin\Debug\Clase-10-Ejemplo PPT.exe
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\bin\Debug\Clase-10-Ejemplo PPT.pdb
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase-10-Ejemplo PPT.csprojResolveAssemblyReference.cache
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase_10_Ejemplo_PPT.Form1.resources
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase_10_Ejemplo_PPT.Properties.Resources.resources
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase-10-Ejemplo PPT.csproj.GenerateResource.Cache
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase-10-Ejemplo PPT.exe
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase-10-Ejemplo PPT.pdb
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\bin\Debug\Clase-10-Ejemplo PPT.exe.config
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\bin\Debug\Clase-10-Ejemplo PPT.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\bin\Debug\Clase-10-Ejemplo PPT.pdb

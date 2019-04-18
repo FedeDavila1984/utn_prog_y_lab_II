@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-08", "Clase-7\Clase-0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-08-Libreria", "Clase-8-Libreria\Clase-08-Libreria.csproj", "{CF587F8D-4B7E-4562-A113-C2481EC58A7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Herencia.PPT", "Ej.Herencia\Herencia\Ej.Herencia.PPT.csproj", "{506C23BF-87B6-4425-8032-03A32AF4108B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-09-Herencia.PPT", "Ej.Herencia\Herencia\Clase-09-Herencia.PPT.csproj", "{506C23BF-87B6-4425-8032-03A32AF4108B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-09-Herencia", "Ej.Herencia\EjemploHerencia\Clase-09-Herencia.csproj", "{42842CDC-8AEB-4090-8314-9EA80E00C0E6}"
 EndProject

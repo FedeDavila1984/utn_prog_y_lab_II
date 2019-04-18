@@ -1,9 +1,3 @@
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Colecciones\bin\Debug\Ej.Colecciones.exe.config
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Colecciones\bin\Debug\Ej.Colecciones.exe
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Colecciones\bin\Debug\Ej.Colecciones.pdb
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Colecciones\obj\Debug\Clase-07-Colecciones.csprojResolveAssemblyReference.cache
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Colecciones\obj\Debug\Ej.Colecciones.exe
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Colecciones\obj\Debug\Ej.Colecciones.pdb
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Colecciones\bin\Debug\Ej.Colecciones.exe.config
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Colecciones\bin\Debug\Ej.Colecciones.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Colecciones\bin\Debug\Ej.Colecciones.pdb

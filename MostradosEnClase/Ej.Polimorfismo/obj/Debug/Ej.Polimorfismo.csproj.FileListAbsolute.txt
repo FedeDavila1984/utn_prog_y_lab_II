@@ -14,14 +14,6 @@ D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Polimorfismo\bin\Debu
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Ej.Polimorfismo.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Ej.Polimorfismo.exe
 D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Ej.Polimorfismo.pdb
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\bin\Debug\Ej.Polimorfismo.exe.config
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\bin\Debug\Ej.Polimorfismo.exe
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\bin\Debug\Ej.Polimorfismo.pdb
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\bin\Debug\Ej.Polimorfismo-Libreria.dll
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\bin\Debug\Ej.Polimorfismo-Libreria.pdb
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Ej.Polimorfismo.csprojResolveAssemblyReference.cache
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Ej.Polimorfismo.exe
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Ej.Polimorfismo.pdb
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\bin\Debug\Ej.Polimorfismo.exe.config
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Ej.Polimorfismo.exe
 D:\Federico Dávila 2017\git\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Ej.Polimorfismo.pdb

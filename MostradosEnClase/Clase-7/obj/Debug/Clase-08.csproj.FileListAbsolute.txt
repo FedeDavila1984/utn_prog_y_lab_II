@@ -1,11 +1,3 @@
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-7.exe.config
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-7.exe
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-7.pdb
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-8-Libreria.dll
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-8-Libreria.pdb
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-08.csprojResolveAssemblyReference.cache
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-7.exe
-D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-7.pdb
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-7.exe.config
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-7.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-7.pdb

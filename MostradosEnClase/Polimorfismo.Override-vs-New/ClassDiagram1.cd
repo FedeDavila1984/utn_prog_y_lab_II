@@ -15,7 +15,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Polimorfismo.Override_vs_New.ClaseDerivadaB">
-    <Position X="1" Y="2" Width="2" />
+    <Position X="1" Y="2" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ClaseDerivadaB.cs</FileName>

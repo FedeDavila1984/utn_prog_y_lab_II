@@ -48,9 +48,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Ej.Polimorfismo-Libreria\Ej.Polimorfismo-Libreria.csproj">
+    <ProjectReference Include="..\Ej.Polimorfismo-Libreria\Clase-11.Polimorfismo-Libreria.csproj">
       <Project>{2472ec3a-3045-4fc6-b55e-8a37ed91b42f}</Project>
-      <Name>Ej.Polimorfismo-Libreria</Name>
+      <Name>Clase-11.Polimorfismo-Libreria</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

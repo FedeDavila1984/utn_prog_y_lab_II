@@ -48,9 +48,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Clase-21-Entidades\Clase-21-Entidades.csproj">
+    <ProjectReference Include="..\Clase-21-Entidades\Clase-21-EntidadesSQL.csproj">
       <Project>{c0f1aa27-545e-4284-9864-53f1a866f287}</Project>
-      <Name>Clase-21-Entidades</Name>
+      <Name>Clase-21-EntidadesSQL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

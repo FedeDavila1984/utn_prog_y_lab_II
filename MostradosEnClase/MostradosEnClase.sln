@@ -27,9 +27,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-09-Herencia.PPT", "Ej
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-09-Herencia", "Ej.Herencia\EjemploHerencia\Clase-09-Herencia.csproj", "{42842CDC-8AEB-4090-8314-9EA80E00C0E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Polimorfismo-Libreria", "Ej.Polimorfismo-Libreria\Ej.Polimorfismo-Libreria.csproj", "{2472EC3A-3045-4FC6-B55E-8A37ED91B42F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-11.Polimorfismo-Libreria", "Ej.Polimorfismo-Libreria\Clase-11.Polimorfismo-Libreria.csproj", "{2472EC3A-3045-4FC6-B55E-8A37ED91B42F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Polimorfismo", "Ej.Polimorfismo\Ej.Polimorfismo.csproj", "{52375052-89AC-4E7A-9BD8-1E20F8621A01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-11.Polimorfismo", "Ej.Polimorfismo\Clase-11.Polimorfismo.csproj", "{52375052-89AC-4E7A-9BD8-1E20F8621A01}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoDeErrores", "ManejoDeErrores\ManejoDeErrores.csproj", "{700BF03B-1282-43B0-80B1-0CF04A6A9C2B}"
 EndProject
@@ -40,8 +40,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-20-Archivos_Generics_e_Interfaces", "Archivos_Generics_e_Interfaces\Archivos_e_Interfaces\Clase-20-Archivos_Generics_e_Interfaces.csproj", "{9F585B68-1EDF-48F0-9398-68CD604FAF0F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-20-Archivos", "Archivos_Generics_e_Interfaces\Archivos\Clase-20-Archivos.csproj", "{BE9CADB5-7618-4345-A518-032B42EEB34A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-21-Entidades", "Clase-21-Entidades\Clase-21-Entidades.csproj", "{C0F1AA27-545E-4284-9864-53F1A866F287}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-21-Test", "Clase-21-Test\Clase-21-Test.csproj", "{D24456C6-C21C-4D02-8ECE-8FFB87FF0256}"
 EndProject
@@ -63,7 +61,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-04", "Clase-4\Clase-4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-05-Ej", "Ej.Clase-05\Clase-05-Ej.csproj", "{FDE98FA4-26E0-443D-90D2-E840DD6EB0B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo.Override-vs-New", "Polimorfismo.Override-vs-New\Polimorfismo.Override-vs-New.csproj", "{1419BACC-D905-4337-8446-39712A1165C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-11-Polimorfismo.Override-vs-New", "Polimorfismo.Override-vs-New\Clase-11-Polimorfismo.Override-vs-New.csproj", "{1419BACC-D905-4337-8446-39712A1165C9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploDateTime", "EjemploDateTime\EjemploDateTime.csproj", "{35CC6D56-C6FE-49E2-B32E-B641F2E49B2A}"
 EndProject
@@ -86,6 +84,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-10-Ejemplo PPT", "Clase-10-Ejemplo PPT\Clase-10-Ejemplo PPT.csproj", "{460C5E66-B6CA-492B-AB84-F04EF12CF4C7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Eventos", "Ej.Eventos\Ej.Eventos.csproj", "{9125B2D4-0000-48AF-82F7-73055936E3CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-21-EntidadesSQL", "Clase-21-Entidades\Clase-21-EntidadesSQL.csproj", "{C0F1AA27-545E-4284-9864-53F1A866F287}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -169,10 +169,6 @@ Global
 		{BE9CADB5-7618-4345-A518-032B42EEB34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE9CADB5-7618-4345-A518-032B42EEB34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE9CADB5-7618-4345-A518-032B42EEB34A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C0F1AA27-545E-4284-9864-53F1A866F287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0F1AA27-545E-4284-9864-53F1A866F287}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0F1AA27-545E-4284-9864-53F1A866F287}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0F1AA27-545E-4284-9864-53F1A866F287}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D24456C6-C21C-4D02-8ECE-8FFB87FF0256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D24456C6-C21C-4D02-8ECE-8FFB87FF0256}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D24456C6-C21C-4D02-8ECE-8FFB87FF0256}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -261,6 +257,10 @@ Global
 		{9125B2D4-0000-48AF-82F7-73055936E3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9125B2D4-0000-48AF-82F7-73055936E3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9125B2D4-0000-48AF-82F7-73055936E3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F1AA27-545E-4284-9864-53F1A866F287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F1AA27-545E-4284-9864-53F1A866F287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F1AA27-545E-4284-9864-53F1A866F287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F1AA27-545E-4284-9864-53F1A866F287}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

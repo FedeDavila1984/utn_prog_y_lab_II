@@ -8,6 +8,10 @@ namespace Ej._42
 {
     class MiOtraClase
     {
+        /// <summary>
+        /// d.	Luego crear un método de instancia que capture la excepción anterior.
+        /// Este método generará una excepción propia llamada MiException y la lanzará.
+        /// </summary>
         public void MiMetodoInstancia()
         {
             try

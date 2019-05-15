@@ -17,6 +17,9 @@ namespace Ej._42
             }
             catch (MiException e)
             {
+                //e.	MiException será capturada en el Main,
+                // mostrando el mensaje de error que esta almacena por pantalla
+                // y los mensajes de todas las excepciones almacenadas en sus innerException.
                 Console.WriteLine(e.Message);
 
                 if (!object.ReferenceEquals(e.InnerException, null))

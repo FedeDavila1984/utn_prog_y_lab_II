@@ -1,7 +1,0 @@
-D:\Federico Dávila\2019\utn_prog_y_lab_II\Guia2017\Ej.005\bin\Debug\Ej.005.exe.config
-D:\Federico Dávila\2019\utn_prog_y_lab_II\Guia2017\Ej.005\bin\Debug\Ej.005.exe
-D:\Federico Dávila\2019\utn_prog_y_lab_II\Guia2017\Ej.005\bin\Debug\Ej.005.pdb
-D:\Federico Dávila\2019\utn_prog_y_lab_II\Guia2017\Ej.005\obj\Debug\Ej.005.csprojAssemblyReference.cache
-D:\Federico Dávila\2019\utn_prog_y_lab_II\Guia2017\Ej.005\obj\Debug\Ej.005.csproj.CoreCompileInputs.cache
-D:\Federico Dávila\2019\utn_prog_y_lab_II\Guia2017\Ej.005\obj\Debug\Ej.005.exe
-D:\Federico Dávila\2019\utn_prog_y_lab_II\Guia2017\Ej.005\obj\Debug\Ej.005.pdb

@@ -8,7 +8,7 @@ namespace Clase_17
 {
     public class ClaseGenerica<T, U, V>
         where T : MetodosGenericos, new()
-        //where U : MetodosGenericos
+        where U : MetodosGenericos
         //where T : new()
     {
         public ClaseGenerica<T, U, V> MetodoConElTipo(ClaseGenerica<T, U, V> cg)

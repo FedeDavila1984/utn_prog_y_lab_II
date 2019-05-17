@@ -9,25 +9,25 @@ namespace Archivos_e_Interfaces
     [Serializable]
     public class Item
     {
-        public string _nombre;
-        public short _edad;
-        public float _promedio;
+        public string nombre;
+        public short edad;
+        public float promedio;
 
         public Item() { }
 
         public Item(string nombre,short edad,float promedio) : base()
         {
-            this._nombre = nombre;
-            this._edad = edad;
-            this._promedio = promedio;
+            this.nombre = nombre;
+            this.edad = edad;
+            this.promedio = promedio;
         }
 
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("NOMBRE:   " + this._nombre);
-            sb.AppendLine("EDAD:     " + this._edad);
-            sb.AppendLine("PROMEDIO: " + this._promedio);
+            sb.AppendLine("NOMBRE:   " + this.nombre);
+            sb.AppendLine("EDAD:     " + this.edad);
+            sb.AppendLine("PROMEDIO: " + this.promedio);
             return sb.ToString();
         }
     }

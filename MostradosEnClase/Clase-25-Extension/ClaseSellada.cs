@@ -9,6 +9,7 @@ namespace Clase_25_Extension
     public sealed class ClaseSellada
     {
         private int id;
+
         public ClaseSellada(int id)
         {
             this.id = id;

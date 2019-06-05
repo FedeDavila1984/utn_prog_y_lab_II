@@ -13,11 +13,11 @@ namespace Clase_25_Extension
         static void Main(string[] args)
         {
             ClaseSellada cs = new ClaseSellada(19);
-            String s = "Prefijo";
 
             Console.WriteLine(cs.MetodoExtendido("Sufijo ClaseSellada1", "a"));
             Console.WriteLine(cs.MetodoExtendido("Sufijo ClaseSellada2"));
 
+            String s = "Prefijo";
             Console.WriteLine(s.MetodoExtendido("Sufijo String"));
 
             Console.ReadKey();

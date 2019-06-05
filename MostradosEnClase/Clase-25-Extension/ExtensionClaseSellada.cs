@@ -24,5 +24,25 @@ namespace Extensor
         {
             return String.Format("{1} <---> {0}", prefijo, miClase);
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        public static int ContadorLetras(this String dato)
+        {
+            return dato.Length;
+        }
     }
 }

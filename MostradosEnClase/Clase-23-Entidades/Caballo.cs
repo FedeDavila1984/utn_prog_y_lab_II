@@ -8,18 +8,18 @@ namespace Entidades
 {
     public class Caballo : Animal
     {
-        private string _nombre;
-        private static int _patas = 4;
+        private string nombre;
+        private static int patas = 4;
 
         static Caballo()
         {
-            Caballo._patas = 2;
+            Caballo.patas = 2;
         }
 
         public Caballo(string nombre, int velocidadMaxima, int carril)
-            : base(Caballo._patas, velocidadMaxima, carril)
+            : base(Caballo.patas, velocidadMaxima, carril)
         {
-            this._nombre = nombre;
+            this.nombre = nombre;
         }
 
         public override void Correr()

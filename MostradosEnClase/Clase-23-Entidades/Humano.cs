@@ -8,24 +8,24 @@ namespace Entidades
 {
     public class Humano : Animal
     {
-        private string _nombre;
-        private string _apellido;
-        private static int _piernas;
+        private string nombre;
+        private string apellido;
+        private static int piernas;
 
         static Humano()
         {
-            Humano._piernas = 2;
+            Humano.piernas = 2;
         }
 
         public Humano(string nombre, string apellido, int velocidadMaxima, int carril)
             : this(velocidadMaxima, carril)
         {
-            this._nombre = nombre;
-            this._apellido = apellido;
+            this.nombre = nombre;
+            this.apellido = apellido;
         }
 
         public Humano(int velocidadMaxima, int carril)
-            : base(Humano._piernas, velocidadMaxima, carril)
+            : base(Humano.piernas, velocidadMaxima, carril)
         {
         }
 

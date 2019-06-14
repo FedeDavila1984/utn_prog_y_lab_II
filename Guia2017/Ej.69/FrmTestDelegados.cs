@@ -12,8 +12,7 @@ namespace Ej._69
 {
     public partial class FrmTestDelegados : Form
     {
-        public delegate void ActualizaNombreDelegate(string dato);
-        public event ActualizaNombreDelegate EventoActualizaNombre;
+        public event FrmMostrar.ActualizaNombreDelegate EventoActualizaNombre;
 
         public FrmTestDelegados()
         {

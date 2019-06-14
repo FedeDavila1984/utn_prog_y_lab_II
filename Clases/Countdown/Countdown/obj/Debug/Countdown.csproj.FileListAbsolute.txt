@@ -1,0 +1,10 @@
+D:\VisualStudio\Countdown\Countdown\bin\Debug\Countdown.exe.config
+D:\VisualStudio\Countdown\Countdown\bin\Debug\Countdown.exe
+D:\VisualStudio\Countdown\Countdown\bin\Debug\Countdown.pdb
+D:\VisualStudio\Countdown\Countdown\obj\Debug\Countdown.csprojAssemblyReference.cache
+D:\VisualStudio\Countdown\Countdown\obj\Debug\Countdown.Form1.resources
+D:\VisualStudio\Countdown\Countdown\obj\Debug\Countdown.Properties.Resources.resources
+D:\VisualStudio\Countdown\Countdown\obj\Debug\Countdown.csproj.GenerateResource.cache
+D:\VisualStudio\Countdown\Countdown\obj\Debug\Countdown.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Countdown\Countdown\obj\Debug\Countdown.exe
+D:\VisualStudio\Countdown\Countdown\obj\Debug\Countdown.pdb

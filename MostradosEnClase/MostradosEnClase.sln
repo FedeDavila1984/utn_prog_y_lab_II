@@ -83,7 +83,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Null", "Ej.Null\Ej.Null.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-10-Ejemplo PPT", "Clase-10-Ejemplo PPT\Clase-10-Ejemplo PPT.csproj", "{460C5E66-B6CA-492B-AB84-F04EF12CF4C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej.Eventos", "Ej.Eventos\Ej.Eventos.csproj", "{9125B2D4-0000-48AF-82F7-73055936E3CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-23.Eventos", "Ej.Eventos\Clase-23.Eventos.csproj", "{9125B2D4-0000-48AF-82F7-73055936E3CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-21-EntidadesSQL", "Clase-21-Entidades\Clase-21-EntidadesSQL.csproj", "{C0F1AA27-545E-4284-9864-53F1A866F287}"
 EndProject

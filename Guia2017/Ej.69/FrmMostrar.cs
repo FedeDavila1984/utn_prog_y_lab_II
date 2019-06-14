@@ -12,6 +12,8 @@ namespace Ej._69
 {
     public partial class FrmMostrar : Form
     {
+        public delegate void ActualizaNombreDelegate(string dato);
+
         public FrmMostrar()
         {
             InitializeComponent();

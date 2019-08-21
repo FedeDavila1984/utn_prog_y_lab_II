@@ -13,8 +13,8 @@ namespace Ej._001
             int totalNumeroALeer = 5;
 
             int aux;
-            int max = 0;
-            int min = 0;
+            int max = int.MinValue;
+            int min = int.MaxValue;
             float promedio = 0;
             string lectura;
 
@@ -24,23 +24,16 @@ namespace Ej._001
                 lectura = Console.ReadLine();
                 if (int.TryParse(lectura, out aux))
                 {
-                    if (i == 0)
-                    {
+                    if (aux > max)
                         max = aux;
+                    if (aux < min)
                         min = aux;
-                        promedio = aux;
-                    }
-                    else
-                    {
-                        if (aux > max)
-                            max = aux;
-                        if (aux < min)
-                            min = aux;
-                        promedio = (promedio + aux);
-                    }
+                    promedio = (promedio + aux);
                 }
-                else
+                else {
+                    Console.Write("Ingrese un número válido. ");
                     i--;
+                }
             }
             promedio = promedio / totalNumeroALeer;
 

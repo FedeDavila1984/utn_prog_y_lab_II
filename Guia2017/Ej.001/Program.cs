@@ -44,7 +44,11 @@ namespace Ej._001
             Console.WriteLine("Mínimo : {0}", min);
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Promedio: {0:#.##}", promedio);
+            Console.ReadKey();
 
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Máximo : {0,8} - Mínimo : {1,8} - Promedio: {2,8:#.##}", max, min, promedio);
             Console.ReadKey();
         }
     }

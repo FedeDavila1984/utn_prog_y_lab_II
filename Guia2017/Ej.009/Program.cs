@@ -18,10 +18,18 @@ namespace Ej._009
             {
                 Console.WriteLine();
                 Console.WriteLine();
+                // Variables de colores
+                int initColor2 = alto - 2;
+                int finColor2 = alto + 2;
+                Console.ForegroundColor = ConsoleColor.Blue;
                 // Recorro los pisos de la torre
                 // Como cada piso se incrementa en 2 (dos) *, multiplico el alto y lo recorro de dos en dos
                 for (int i = 1; i <= (alto * 2); i = i + 2)
                 {
+                    if(i >= initColor2)
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                    if (i >= finColor2)
+                        Console.ForegroundColor = ConsoleColor.Blue;
                     // Cada piso lo formo con tantos * como sea el valor de i
                     for (int j = 1; j <= i; j++)
                     {

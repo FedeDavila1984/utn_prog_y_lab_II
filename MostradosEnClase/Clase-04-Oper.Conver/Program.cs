@@ -12,14 +12,16 @@ namespace Conversiones
         {
             Metro metros = (Metro)10;
             Centimetro centimetros = 10;
+            Console.WriteLine("Tengo un objeto metros con 10m y un objeto centimetros con 10cm");
 
             // Sumo Metro y Centimetro
             Metro SumaMetros = metros + centimetros;
             // Sumo Centimetro y Metro
             Centimetro SumaCentimetros = centimetros + metros;
             // Muestro
-            Console.WriteLine((double)SumaMetros);
-            Console.WriteLine(SumaCentimetros);
+            Console.WriteLine("Suma de metros: {0}",(double)SumaMetros);
+            double aux = SumaCentimetros; // Creo la variable para ejecutar la conversión implicita
+            Console.WriteLine("Suma de centimetros: {0}", aux);
 
 
             // Quito 1 al Metro
@@ -27,8 +29,9 @@ namespace Conversiones
             // Sumo 1 al Centimetro
             centimetros++;
             // Muestro
-            Console.WriteLine((double)metros);
-            Console.WriteLine(centimetros);
+            Console.WriteLine("Variable metros--: {0}", (double)metros);
+            aux = centimetros;
+            Console.WriteLine("Variable centimetros++: {0}", aux);
 
             Console.ReadKey();
         }

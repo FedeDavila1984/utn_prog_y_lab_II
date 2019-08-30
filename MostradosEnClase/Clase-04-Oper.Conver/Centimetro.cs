@@ -54,6 +54,7 @@ namespace Conversiones
         public static Centimetro operator ++(Centimetro c)
         {
             return (Centimetro)((double)c + 1);
+            //return c.cantidad++;
         }
     }
 }

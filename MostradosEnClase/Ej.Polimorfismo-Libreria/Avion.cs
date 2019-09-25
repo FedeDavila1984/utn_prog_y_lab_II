@@ -10,7 +10,6 @@ namespace Ej.Polimorfismo_Libreria
     {
         public Avion(int id, string modelo)
             : base(id, modelo)
-
         {
 
         }

@@ -11,7 +11,8 @@ namespace ManejoDeErrores
         /// <summary>
         /// CONSTRUCTOR POR DEFECTO
         /// </summary>
-        public MiClaseException():base()
+        public MiClaseException()
+            : base()
         {
         }
     
@@ -19,13 +20,13 @@ namespace ManejoDeErrores
         /// PASO EL MENSAJE DE ERROR PERSONALIZADO
         /// </summary>
         /// <param name="mensaje">MENSAJE DE ERROR PERSONALIZADO</param>
-        public MiClaseException(string mensaje) : base(mensaje) 
+        public MiClaseException(string mensaje)
+            : base(mensaje) 
         { 
         }
 
         /// <summary>
-        /// PASO EL MENSAJE DE ERROR PERSONALIZADO
-        /// Y LA CLASE QUE PROVOCO LA EXCEPCION
+        /// PASO EL MENSAJE DE ERROR PERSONALIZADO Y LA CLASE QUE PROVOCO LA EXCEPCION
         /// </summary>
         /// <param name="mensaje">MENSAJE DE ERROR PERSONALIZADO</param>
         /// <param name="origenError">CLASE QUE PROVOCO LA EXCEPCION</param>
@@ -36,8 +37,7 @@ namespace ManejoDeErrores
         }
 
         /// <summary>
-        /// PASO EL MENSAJE DE ERROR PERSONALIZADO
-        /// Y LA EXCEPCION 
+        /// PASO EL MENSAJE DE ERROR PERSONALIZADO Y LA EXCEPCION 
         /// </summary>
         /// <param name="mensaje">MENSAJE DE ERROR PERSONALIZADO</param>
         /// <param name="innerException">EXCEPCION</param>
@@ -60,7 +60,10 @@ namespace ManejoDeErrores
             base.Source = origenError;        
         }
 
-        //SOBREESCRIBO EL METODO TOSTRING
+        /// <summary>
+        /// SOBREESCRIBO EL METODO TOSTRING
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
            return "Mensaje: " + base.Message + ", Origen del error: " + base.Source;

@@ -33,7 +33,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-11.Polimorfismo", "Ej
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoDeErrores", "ManejoDeErrores\ManejoDeErrores.csproj", "{700BF03B-1282-43B0-80B1-0CF04A6A9C2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{A9FDF67A-1A88-4674-B7FC-3A2036E7C446}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-18-Interfaces", "Interfaces\Clase-18-Interfaces.csproj", "{A9FDF67A-1A88-4674-B7FC-3A2036E7C446}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-19-ArchivosTexto", "Clase-19-ArchivosTexto\Clase-19-ArchivosTexto.csproj", "{0AC6B571-1768-4F1A-9501-A54683357A0D}"
 EndProject

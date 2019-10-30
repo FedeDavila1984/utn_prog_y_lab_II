@@ -12,21 +12,21 @@ namespace Entidades
     public static class PersonaDAO
     {
         #region Atributos
-        private static SqlConnection _conexion;
-        private static SqlCommand _comando;
+        private static SqlConnection conexion;
+        private static SqlCommand comando;
         #endregion
 
         #region Constructores
         static PersonaDAO()
         {
             // CREO UN OBJETO SQLCONECTION
-            PersonaDAO._conexion = new SqlConnection(Properties.Settings.Default.CadenaConexion);//CadenaConexionMDE);//
+            PersonaDAO.conexion = new SqlConnection(Properties.Settings.Default.CadenaConexion); // CadenaConexionMDE);//
             // CREO UN OBJETO SQLCOMMAND
-            PersonaDAO._comando = new SqlCommand();
+            PersonaDAO.comando = new SqlCommand();
             // INDICO EL TIPO DE COMANDO
-            PersonaDAO._comando.CommandType = System.Data.CommandType.Text;
+            PersonaDAO.comando.CommandType = System.Data.CommandType.Text;
             // ESTABLEZCO LA CONEXION
-            PersonaDAO._comando.Connection = PersonaDAO._conexion;
+            PersonaDAO.comando.Connection = PersonaDAO.conexion;
         }
         #endregion
 
@@ -41,13 +41,14 @@ namespace Entidades
             try
             {
                 // LE PASO LA INSTRUCCION SQL
-                PersonaDAO._comando.CommandText = "SELECT TOP 1 id,nombre,apellido,dni FROM Personas";
+                PersonaDAO.comando.CommandText = "SELECT TOP 1 id,nombre,apellido,dni FROM Personas";
 
                 // ABRO LA CONEXION A LA BD
-                PersonaDAO._conexion.Open();
+                PersonaDAO.conexion.Open();
+                TodoOk = true;
 
                 // EJECUTO EL COMMAND                 
-                SqlDataReader oDr = PersonaDAO._comando.ExecuteReader();
+                SqlDataReader oDr = PersonaDAO.comando.ExecuteReader();
 
                 // MIENTRAS TENGA REGISTROS...
                 if (oDr.Read())
@@ -58,8 +59,6 @@ namespace Entidades
 
                 //CIERRO EL DATAREADER
                 oDr.Close();
-
-                TodoOk = true;
             }
 
             catch (Exception)
@@ -69,7 +68,7 @@ namespace Entidades
             finally
             {
                 if (TodoOk)
-                    PersonaDAO._conexion.Close();
+                    PersonaDAO.conexion.Close();
             }
             return persona;
         }
@@ -112,24 +111,23 @@ namespace Entidades
             try
             {
                 // LE PASO LA INSTRUCCION SQL
-                PersonaDAO._comando.CommandText = sql;
+                PersonaDAO.comando.CommandText = sql;
 
                 // ABRO LA CONEXION A LA BD
-                PersonaDAO._conexion.Open();
+                PersonaDAO.conexion.Open();
 
                 // EJECUTO EL COMMAND
-                PersonaDAO._comando.ExecuteNonQuery();
+                PersonaDAO.comando.ExecuteNonQuery();
 
                 todoOk = true;
             }
-            catch (Exception)
+            catch (Exception e)
             {
-                todoOk = false;
+                 todoOk = false;
             }
             finally
             {
-                if (todoOk)
-                    PersonaDAO._conexion.Close();
+                PersonaDAO.conexion.Close();
             }
             return todoOk;
         }

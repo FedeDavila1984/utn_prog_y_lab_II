@@ -47,7 +47,7 @@ namespace Entidades
                 PersonaDAO.conexion.Open();
                 TodoOk = true;
 
-                // EJECUTO EL COMMAND                 
+                // EJECUTO EL COMMAND
                 SqlDataReader oDr = PersonaDAO.comando.ExecuteReader();
 
                 // MIENTRAS TENGA REGISTROS...
@@ -98,7 +98,6 @@ namespace Entidades
         #region Eliminar Persona
         public static bool EliminaPersona(Persona p)
         {
-
             string sql = "DELETE FROM Personas WHERE id = " + p.ID.ToString();
 
             return EjecutarNonQuery(sql);

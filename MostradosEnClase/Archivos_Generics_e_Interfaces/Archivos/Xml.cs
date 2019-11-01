@@ -13,13 +13,13 @@ namespace Archivos
     {
         public bool Guardar(string archivo, V datos)
         {
+            XmlTextWriter writer = null;
             try
             {
+                writer = new XmlTextWriter(archivo, Encoding.UTF8);
                 XmlSerializer serializer = new XmlSerializer(typeof(V));
                 //TextWriter writer = new StreamWriter(archivo);
-                XmlTextWriter writer = new XmlTextWriter(archivo, Encoding.UTF8);
                 serializer.Serialize(writer, datos);
-                writer.Close();
 
                 return true;
             }
@@ -28,14 +28,20 @@ namespace Archivos
                 Console.WriteLine(e.Message);
                 return false;
             }
+            finally
+            {
+                if(!object.ReferenceEquals(writer, null))
+                    writer.Close();
+            }
         }
         public bool Leer(string archivo, out V datos)
         {
+            XmlTextReader writer = null;
             try
             {
+                writer = new XmlTextReader(archivo);
                 XmlSerializer serializer = new XmlSerializer(typeof(V));
                 //TextReader writer = new StreamReader(archivo);
-                XmlTextReader writer = new XmlTextReader(archivo);
                 datos = (V)serializer.Deserialize(writer);
                 writer.Close();
 
@@ -45,6 +51,11 @@ namespace Archivos
             {
                 datos = default(V);
                 return false;
+            }
+            finally
+            {
+                if (!object.ReferenceEquals(writer, null))
+                    writer.Close();
             }
         }
     }

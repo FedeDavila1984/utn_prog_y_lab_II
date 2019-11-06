@@ -20,13 +20,11 @@ namespace Clase_22_Threads
         public FrmPrueba()
         {
             InitializeComponent();
-
-            this.miHiloCaballo = new Thread(this.AnimarCaballito);
         }
 
         private void btnIniciar_Click(object sender, EventArgs e)
         {
-            if (this.miHiloCaballo.IsAlive)
+            if (this.miHiloCaballo != null && this.miHiloCaballo.IsAlive)
             {
                 this.miHiloCaballo.Abort();
             }

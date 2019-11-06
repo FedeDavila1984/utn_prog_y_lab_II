@@ -78,9 +78,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Clase-23-Caballitos\Clase-22-Caballitos.csproj">
+    <ProjectReference Include="..\Clase-22-BarraDeProgreso\Clase-22-BarraDeProgreso.csproj">
+      <Project>{F4CD57F2-43D4-4253-9186-094A3DF1047D}</Project>
+      <Name>Clase-22-BarraDeProgreso</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Clase-23-Caballitos\Clase-22-Caballito.csproj">
       <Project>{b2b3fe8a-a518-446b-a478-9e841be7e44b}</Project>
-      <Name>Clase-22-Caballitos</Name>
+      <Name>Clase-22-Caballito</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

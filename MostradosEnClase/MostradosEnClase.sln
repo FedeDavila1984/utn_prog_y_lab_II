@@ -45,7 +45,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-21-Test", "Clase-21-T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-22-Threads", "Clase-22-Threads\Clase-22-Threads.csproj", "{847A3B16-B0B6-46C5-8FA1-E77877E16A4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-22-Caballitos", "Clase-23-Caballitos\Clase-22-Caballitos.csproj", "{B2B3FE8A-A518-446B-A478-9E841BE7E44B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-22-Caballito", "Clase-23-Caballitos\Clase-22-Caballito.csproj", "{B2B3FE8A-A518-446B-A478-9E841BE7E44B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-23-Carreras", "Clase-23-Carreras\Clase-23-Carreras.csproj", "{98E2B619-DBD7-4CA3-B4BF-B9AC8E4ECFF6}"
 EndProject

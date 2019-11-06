@@ -14,31 +14,31 @@ namespace Clase_22_Threads
 {
     public partial class FrmPrueba : Form
     {
-        Thread miHilo;
+        private Thread miHiloCaballo;
+        private Thread miHiloBarra;
 
         public FrmPrueba()
         {
             InitializeComponent();
 
-            this.miHilo = new Thread(this.AnimarCaballito);
+            this.miHiloCaballo = new Thread(this.AnimarCaballito);
         }
 
         private void btnIniciar_Click(object sender, EventArgs e)
         {
-            if (this.miHilo.IsAlive)
+            if (this.miHiloCaballo.IsAlive)
             {
-                this.miHilo.Abort();
+                this.miHiloCaballo.Abort();
             }
             else
             {
-                this.miHilo = new Thread(this.AnimarCaballito);
-                this.miHilo.Start();
+                this.miHiloCaballo = new Thread(this.AnimarCaballito);
+                this.miHiloCaballo.Start();
             }
         }
 
         private void AnimarCaballito()
         {
-            
             do
             {
                 caballito1.MoverCaballito();
@@ -48,9 +48,32 @@ namespace Clase_22_Threads
 
         private void FrmPrueba_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (miHilo.IsAlive)
-                miHilo.Abort();
+            if (miHiloCaballo.IsAlive)
+                miHiloCaballo.Abort();
+            if (miHiloBarra.IsAlive)
+                miHiloBarra.Abort();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (this.miHiloBarra != null && this.miHiloBarra.IsAlive)
+            {
+                this.miHiloBarra.Abort();
+            }
+            else
+            {
+                this.miHiloBarra = new Thread(this.AnimarBarra);
+                this.miHiloBarra.Start();
+            }
+        }
+
+        private void AnimarBarra()
+        {
+            do
+            {
+                this.barra1.CorrerBarra();
+                Thread.Sleep(45);
+            } while (true);
+        }
     }
 }

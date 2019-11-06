@@ -78,9 +78,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Clase-23-Caballitos\Clase-22-Caballitos.csproj">
+    <ProjectReference Include="..\Clase-23-Caballitos\Clase-22-Caballito.csproj">
       <Project>{B2B3FE8A-A518-446B-A478-9E841BE7E44B}</Project>
-      <Name>Clase-22-Caballitos</Name>
+      <Name>Clase-22-Caballito</Name>
     </ProjectReference>
     <ProjectReference Include="..\Clase-23-Entidades\Clase-23-Entidades.csproj">
       <Project>{b23cd72d-17db-47f3-aeea-da9ade5728b8}</Project>

@@ -4,21 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase3.Constructores
+namespace EntidadesYConstructores
 {
     public class MiClase
     {
-        private static int atributoStatic;
+        public static int otroatrib;
+        public static int atributoStatic;
         private int x;
+
         private int y;
         private int z;
 
         static MiClase()
         {
-            MiClase.atributoStatic = 0;
+            MiClase.atributoStatic = 10;
         }
 
-        private MiClase(int x)
+        public MiClase(int x)
         {
             this.x = x;
         }

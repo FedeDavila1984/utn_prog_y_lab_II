@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2047
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-04-Operadores", "Ej.Sobrecarga\Clase-04-Operadores.csproj", "{B216338F-1702-4376-8B7D-4799D5734EE1}"
 EndProject
@@ -31,7 +31,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-11.Polimorfismo-Libre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-11.Polimorfismo", "Ej.Polimorfismo\Clase-11.Polimorfismo.csproj", "{52375052-89AC-4E7A-9BD8-1E20F8621A01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoDeErrores", "ManejoDeErrores\ManejoDeErrores.csproj", "{700BF03B-1282-43B0-80B1-0CF04A6A9C2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-15-ManejoDeErrores", "ManejoDeErrores\Clase-15-ManejoDeErrores.csproj", "{700BF03B-1282-43B0-80B1-0CF04A6A9C2B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase-18-Interfaces", "Interfaces\Clase-18-Interfaces.csproj", "{A9FDF67A-1A88-4674-B7FC-3A2036E7C446}"
 EndProject

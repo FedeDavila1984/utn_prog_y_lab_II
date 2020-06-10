@@ -26,3 +26,10 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csproj.CoreCompileInputs.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csproj.CoreCompileInputs.cache

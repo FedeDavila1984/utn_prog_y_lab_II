@@ -6,3 +6,9 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\obj\Debug\Clase-04-CentimetroMetro.csproj.CoreCompileInputs.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\obj\Debug\ConsoleApplication12.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\obj\Debug\ConsoleApplication12.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\bin\Debug\ConsoleApplication12.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\bin\Debug\ConsoleApplication12.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\bin\Debug\ConsoleApplication12.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\obj\Debug\Clase-04-CentimetroMetro.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\obj\Debug\ConsoleApplication12.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-04-Oper.Conver\obj\Debug\ConsoleApplication12.pdb

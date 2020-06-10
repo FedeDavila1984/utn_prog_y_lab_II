@@ -10,3 +10,13 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Cl
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-08.csproj.CopyComplete
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-7.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-7.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-7.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-7.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-7.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-8-Libreria.dll
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-7\bin\Debug\Clase-8-Libreria.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-08.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-08.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-08.csproj.CopyComplete
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-7.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-7\obj\Debug\Clase-7.pdb

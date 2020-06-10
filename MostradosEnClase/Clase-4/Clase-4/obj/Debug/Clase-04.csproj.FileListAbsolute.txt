@@ -6,3 +6,9 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-4\Clase-4\bin\
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-4\Clase-4\obj\Debug\Clase-04.csproj.CoreCompileInputs.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-4\Clase-4\obj\Debug\Clase-4.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-4\Clase-4\obj\Debug\Clase-4.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-4\Clase-4\bin\Debug\Clase-4.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-4\Clase-4\bin\Debug\Clase-4.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-4\Clase-4\bin\Debug\Clase-4.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-4\Clase-4\obj\Debug\Clase-04.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-4\Clase-4\obj\Debug\Clase-4.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-4\Clase-4\obj\Debug\Clase-4.pdb

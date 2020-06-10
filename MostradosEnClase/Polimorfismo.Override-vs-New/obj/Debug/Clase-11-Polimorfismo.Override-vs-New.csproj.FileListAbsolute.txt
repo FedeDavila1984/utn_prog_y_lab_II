@@ -1,0 +1,7 @@
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Polimorfismo.Override-vs-New\bin\Debug\Polimorfismo.Override-vs-New.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Polimorfismo.Override-vs-New\bin\Debug\Polimorfismo.Override-vs-New.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Polimorfismo.Override-vs-New\bin\Debug\Polimorfismo.Override-vs-New.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Polimorfismo.Override-vs-New\obj\Debug\Clase-11-Polimorfismo.Override-vs-New.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Polimorfismo.Override-vs-New\obj\Debug\Clase-11-Polimorfismo.Override-vs-New.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Polimorfismo.Override-vs-New\obj\Debug\Polimorfismo.Override-vs-New.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Polimorfismo.Override-vs-New\obj\Debug\Polimorfismo.Override-vs-New.pdb

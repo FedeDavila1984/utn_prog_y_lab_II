@@ -1,0 +1,10 @@
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\bin\Debug\Ej.Polimorfismo.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\bin\Debug\Ej.Polimorfismo.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\bin\Debug\Ej.Polimorfismo.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\bin\Debug\Ej.Polimorfismo-Libreria.dll
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\bin\Debug\Ej.Polimorfismo-Libreria.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Clase-11.Polimorfismo.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Clase-11.Polimorfismo.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Clase-11.Polimorfismo.csproj.CopyComplete
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Ej.Polimorfismo.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Polimorfismo\obj\Debug\Ej.Polimorfismo.pdb

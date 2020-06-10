@@ -9,3 +9,13 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase-10-Ejemplo PPT.csproj.CoreCompileInputs.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase-10-Ejemplo PPT.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase-10-Ejemplo PPT.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\bin\Debug\Clase-10-Ejemplo PPT.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\bin\Debug\Clase-10-Ejemplo PPT.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\bin\Debug\Clase-10-Ejemplo PPT.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase-10-Ejemplo PPT.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase_10_Ejemplo_PPT.FrmTransparente.resources
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase_10_Ejemplo_PPT.Properties.Resources.resources
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase-10-Ejemplo PPT.csproj.GenerateResource.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase-10-Ejemplo PPT.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase-10-Ejemplo PPT.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-10-Ejemplo PPT\obj\Debug\Clase-10-Ejemplo PPT.pdb

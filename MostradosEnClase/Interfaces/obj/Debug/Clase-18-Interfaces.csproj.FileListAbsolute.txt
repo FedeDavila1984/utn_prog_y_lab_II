@@ -1,0 +1,7 @@
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Interfaces\bin\Debug\Interfaces.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Interfaces\bin\Debug\Interfaces.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Interfaces\bin\Debug\Interfaces.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Interfaces\obj\Debug\Clase-18-Interfaces.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Interfaces\obj\Debug\Clase-18-Interfaces.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Interfaces\obj\Debug\Interfaces.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Interfaces\obj\Debug\Interfaces.pdb

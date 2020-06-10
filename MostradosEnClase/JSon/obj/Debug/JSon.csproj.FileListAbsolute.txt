@@ -25,3 +25,13 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.csproj.CopyComplete
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\JSon.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\JSon.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\JSon.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\Newtonsoft.Json.dll
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\Newtonsoft.Json.xml
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.csproj.CopyComplete
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.pdb

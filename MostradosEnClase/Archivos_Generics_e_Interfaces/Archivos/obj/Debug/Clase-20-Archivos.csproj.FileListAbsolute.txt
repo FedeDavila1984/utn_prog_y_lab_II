@@ -21,3 +21,9 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Clase-20-Archivos.csproj.CoreCompileInputs.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Archivos.dll
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Archivos.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\bin\Debug\Archivos.dll
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\bin\Debug\Archivos.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Clase-20-Archivos.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Clase-20-Archivos.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Archivos.dll
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Archivos_Generics_e_Interfaces\Archivos\obj\Debug\Archivos.pdb

@@ -10,10 +10,13 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            int i = 10;
+            string pepe = "Hola";
             // StringBuilder
             StringBuilder sb = new StringBuilder();
+            sb.Append("Agrego texto");
             sb.AppendLine("Una linea");
-            sb.AppendFormat("{0} es un numero, y {1} es una palabra", 10, "Hola");
+            sb.AppendFormat("{2} {0} es un numero, y {1} es una palabra", i, pepe, 30);
 
             Console.WriteLine(sb.ToString());
 

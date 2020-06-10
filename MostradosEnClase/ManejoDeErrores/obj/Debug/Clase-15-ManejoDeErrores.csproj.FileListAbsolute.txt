@@ -1,0 +1,6 @@
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\obj\Debug\Clase-15-ManejoDeErrores.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\obj\Debug\Clase-15-ManejoDeErrores.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\obj\Debug\ManejoDeErrores.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb

@@ -1,0 +1,10 @@
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Eventos\bin\Debug\Ej.Eventos.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Eventos\bin\Debug\Ej.Eventos.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Eventos\bin\Debug\Ej.Eventos.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Eventos\obj\Debug\Clase-23.Eventos.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Eventos\obj\Debug\Ej.Eventos.Form1.resources
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Eventos\obj\Debug\Ej.Eventos.Properties.Resources.resources
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Eventos\obj\Debug\Clase-23.Eventos.csproj.GenerateResource.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Eventos\obj\Debug\Clase-23.Eventos.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Eventos\obj\Debug\Ej.Eventos.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Eventos\obj\Debug\Ej.Eventos.pdb

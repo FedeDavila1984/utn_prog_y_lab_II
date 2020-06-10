@@ -21,3 +21,14 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debu
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.csproj.CoreCompileInputs.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\bin\Debug\FormDialogs.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\bin\Debug\FormDialogs.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\bin\Debug\FormDialogs.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.frmFormPpal.resources
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.frmFormSecundario.resources
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.Properties.Resources.resources
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.csproj.GenerateResource.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\FormDialogs\obj\Debug\FormDialogs.pdb

@@ -12,7 +12,7 @@ namespace ManejoDeErrores
         /// CONSTRUCTOR POR DEFECTO
         /// </summary>
         public MiClaseException()
-            : base()
+            : base("Este es el mensaje por defecto")
         {
         }
     
@@ -30,7 +30,7 @@ namespace ManejoDeErrores
         /// </summary>
         /// <param name="mensaje">MENSAJE DE ERROR PERSONALIZADO</param>
         /// <param name="origenError">CLASE QUE PROVOCO LA EXCEPCION</param>
-        public MiClaseException(string mensaje,string origenError)
+        public MiClaseException(string mensaje, string origenError)
             : base(mensaje)
         {
             base.Source = origenError;

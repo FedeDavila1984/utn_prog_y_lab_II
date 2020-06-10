@@ -10,7 +10,8 @@ namespace Polimorfismo.Override_vs_New
     {
         public override string MetodoVirtual()
         {
-            return "MetodoVirtual con OVERRIDE de ClaseDerivadaA.";
+            string aux = base.MetodoVirtual();
+            return aux + "MetodoVirtual con OVERRIDE de ClaseDerivadaA.";
         }
     }
 }

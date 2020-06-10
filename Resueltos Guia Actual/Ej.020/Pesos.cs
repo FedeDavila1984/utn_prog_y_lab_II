@@ -51,7 +51,9 @@ namespace Billetes
 
         public static explicit operator Euro(Pesos p)
         {
-            return (Euro)((Dolar)p); //.cantidad / Pesos.GetCotizacion());
+            Dolar d = (Dolar)p;
+            Euro e = (Euro)d;
+            return e; // (Euro)((Dolar)p);
         }
         #endregion
 

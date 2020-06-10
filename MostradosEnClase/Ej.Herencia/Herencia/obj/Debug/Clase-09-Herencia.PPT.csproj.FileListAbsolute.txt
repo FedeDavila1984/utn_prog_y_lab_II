@@ -1,0 +1,6 @@
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\Herencia\bin\Debug\Herencia.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\Herencia\bin\Debug\Herencia.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\Herencia\obj\Debug\Clase-09-Herencia.PPT.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\Herencia\obj\Debug\Clase-09-Herencia.PPT.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\Herencia\obj\Debug\Herencia.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\Herencia\obj\Debug\Herencia.pdb

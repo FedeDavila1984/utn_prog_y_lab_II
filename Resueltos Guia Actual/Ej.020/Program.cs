@@ -16,6 +16,9 @@ namespace Ej020
             Dolar d = new Dolar(10);
             Pesos p = new Pesos(10, 20.1655f);
 
+            Pesos p2 = 10;
+            Pesos p3 = new Pesos(10);
+
             Euro aux_e = e + d;
             Console.WriteLine("Euro + Dólar (€18,09xx): {0}", aux_e.GetCantidad());
             aux_e = e + p;

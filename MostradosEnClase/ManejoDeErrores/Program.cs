@@ -13,8 +13,9 @@ namespace ManejoDeErrores
     {
         public static void ArrojarExcepcion()
         {
-            throw new MiClaseException("Error personalizado!!!",
+            MiClaseException ex = new MiClaseException("Error personalizado!!!",
                                        "Class Program.ArrojarExcepcion");
+            throw ex;
         }
 
         public static double Dividir(int numero1, int numero2)
@@ -26,10 +27,11 @@ namespace ManejoDeErrores
             }
             catch (DivideByZeroException ex) // 
             {
+                // throw ex;
+                Console.WriteLine(ex.ToString());
                 throw new MiClaseException("Error al intentar dividir!!!",
                                            "Class Program.Dividir",
                                            ex);
-                //Console.WriteLine(ex.ToString());
             }
             finally
             {
@@ -45,28 +47,29 @@ namespace ManejoDeErrores
 
         public static void Main(string[] args)
         {
+            //throw new Exception("MENSAJE PROPIO");
             try
             {
                 double res;
 
-                //ArrojarExcepcion(); // Comentar para seguir probando
+                ArrojarExcepcion(); // Comentar para seguir probando
 
-                //res = Dividir(1, 0); // Comentar para seguir probando
+                res = Dividir(1, 0); // Comentar para seguir probando
 
-                res = Dividir(1, 5); // Comentar para seguir probando
+                //res = Dividir(1, 5); // Comentar para seguir probando
 
                 res = Dividir(1, 1);
                 Console.WriteLine("Resultado: {0}", res);
             }
-            catch (MiClaseException ex) //CAPTURO EXCEPCION PERSONALIZADA
+            catch (StackOverflowException ex) // CAPTURO EXCEPCION PERSONALIZADA
             {
                 Console.WriteLine(ex.ToString());
                 Console.WriteLine("InnerException: {0}", ex.InnerException);
             }
-            catch (Exception ex) //CAPTURO CUALQUIER EXCEPCION
+            /*catch (Exception ex) //CAPTURO CUALQUIER EXCEPCION
             {
                 Console.WriteLine(ex.Message);
-            }
+            }*/
                             
             Console.ReadLine();
 

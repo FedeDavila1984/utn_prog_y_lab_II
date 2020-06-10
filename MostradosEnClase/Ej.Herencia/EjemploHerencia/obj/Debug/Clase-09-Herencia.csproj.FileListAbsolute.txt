@@ -6,3 +6,9 @@ D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploH
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\Clase-09-Herencia.csproj.CoreCompileInputs.cache
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\EjemploHerencia.exe
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\EjemploHerencia.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\bin\Debug\EjemploHerencia.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\bin\Debug\EjemploHerencia.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\Clase-09-Herencia.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\Clase-09-Herencia.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\EjemploHerencia.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Ej.Herencia\EjemploHerencia\obj\Debug\EjemploHerencia.pdb

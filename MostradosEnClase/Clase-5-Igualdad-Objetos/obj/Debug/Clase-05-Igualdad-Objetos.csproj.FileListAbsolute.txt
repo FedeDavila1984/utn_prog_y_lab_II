@@ -12,3 +12,9 @@ D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Obj
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\bin\Debug\Clase-5-Igualdad-Objetos.exe.CodeAnalysisLog.xml
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\bin\Debug\Clase-5-Igualdad-Objetos.exe.lastcodeanalysissucceeded
 D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\obj\Debug\Clase-05-Igualdad-Objetos.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\bin\Debug\Clase-5-Igualdad-Objetos.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\bin\Debug\Clase-5-Igualdad-Objetos.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\bin\Debug\Clase-5-Igualdad-Objetos.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\obj\Debug\Clase-05-Igualdad-Objetos.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\obj\Debug\Clase-5-Igualdad-Objetos.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-5-Igualdad-Objetos\obj\Debug\Clase-5-Igualdad-Objetos.pdb

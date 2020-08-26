@@ -46,9 +46,9 @@ namespace Clase_22_Threads
 
         private void FrmPrueba_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (miHiloCaballo.IsAlive)
+            if (this.miHiloCaballo != null && miHiloCaballo.IsAlive)
                 miHiloCaballo.Abort();
-            if (miHiloBarra.IsAlive)
+            if (this.miHiloBarra != null && miHiloBarra.IsAlive)
                 miHiloBarra.Abort();
         }
 

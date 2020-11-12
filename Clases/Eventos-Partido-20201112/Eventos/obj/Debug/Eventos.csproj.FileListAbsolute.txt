@@ -1,0 +1,13 @@
+C:\Users\Fede\source\repos\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Fede\source\repos\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\Fede\source\repos\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Fede\source\repos\Eventos\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\Fede\source\repos\Eventos\Eventos\obj\Debug\Eventos.Form1.resources
+C:\Users\Fede\source\repos\Eventos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Fede\source\repos\Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Fede\source\repos\Eventos\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Fede\source\repos\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\Fede\source\repos\Eventos\Eventos\obj\Debug\Eventos.pdb
+C:\Users\Fede\source\repos\Eventos\Eventos\bin\Debug\Entidades.dll
+C:\Users\Fede\source\repos\Eventos\Eventos\bin\Debug\Entidades.pdb
+C:\Users\Fede\source\repos\Eventos\Eventos\obj\Debug\Eventos.csproj.CopyComplete

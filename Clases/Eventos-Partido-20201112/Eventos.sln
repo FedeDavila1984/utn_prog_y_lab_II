@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventos", "Eventos\Eventos.csproj", "{9E911EA5-BA65-4D80-B23F-D5ADC66FDB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{6DC9C2D7-3841-411D-872B-DCC0F15BF79A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E911EA5-BA65-4D80-B23F-D5ADC66FDB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E911EA5-BA65-4D80-B23F-D5ADC66FDB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E911EA5-BA65-4D80-B23F-D5ADC66FDB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E911EA5-BA65-4D80-B23F-D5ADC66FDB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC9C2D7-3841-411D-872B-DCC0F15BF79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC9C2D7-3841-411D-872B-DCC0F15BF79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC9C2D7-3841-411D-872B-DCC0F15BF79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC9C2D7-3841-411D-872B-DCC0F15BF79A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0B2587F-B982-494B-8365-B8C47DB5D554}
+	EndGlobalSection
+EndGlobal

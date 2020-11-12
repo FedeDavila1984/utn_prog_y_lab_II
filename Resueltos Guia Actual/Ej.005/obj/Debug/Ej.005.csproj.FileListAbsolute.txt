@@ -1,0 +1,7 @@
+I:\Multiled\UTN\utn_prog_y_lab_II\Resueltos Guia Actual\Ej.005\bin\Debug\Ej.005.exe.config
+I:\Multiled\UTN\utn_prog_y_lab_II\Resueltos Guia Actual\Ej.005\bin\Debug\Ej.005.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\Resueltos Guia Actual\Ej.005\bin\Debug\Ej.005.pdb
+I:\Multiled\UTN\utn_prog_y_lab_II\Resueltos Guia Actual\Ej.005\obj\Debug\Ej.005.csprojAssemblyReference.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\Resueltos Guia Actual\Ej.005\obj\Debug\Ej.005.csproj.CoreCompileInputs.cache
+I:\Multiled\UTN\utn_prog_y_lab_II\Resueltos Guia Actual\Ej.005\obj\Debug\Ej.005.exe
+I:\Multiled\UTN\utn_prog_y_lab_II\Resueltos Guia Actual\Ej.005\obj\Debug\Ej.005.pdb

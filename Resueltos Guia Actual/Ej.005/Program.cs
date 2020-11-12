@@ -15,17 +15,19 @@ namespace Ej._005
             Console.Write("Ingrese un número: ");
             string numero = Console.ReadLine();
             int j;
-
+  
             if (int.TryParse(numero, out j))
             {
                 for(int centro = 1; centro <= j; centro++)
-                { 
+                {
                     int acum = 0;
+                    // Sumo los números inferiores a "centro"
                     for(int i = 1; i < centro; i++)
                     {
                         acum += i;
                     }
 
+                    // Calculo con números superiores al "centro"
                     int contador = centro + 1;
                     do
                     {
@@ -33,6 +35,7 @@ namespace Ej._005
                         contador++;
                     } while (acum > 0);
 
+                    // Si acum es 0 es porque es un "centro numérico"
                     if (acum == 0)
                         Console.WriteLine("{0} es centro numérico", centro);
                     else

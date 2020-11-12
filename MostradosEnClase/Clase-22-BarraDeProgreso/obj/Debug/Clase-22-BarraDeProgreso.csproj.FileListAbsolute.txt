@@ -31,3 +31,11 @@ I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-22-BarraDeProgreso\obj\
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-22-BarraDeProgreso\obj\Debug\Clase-22-BarraDeProgreso.csproj.CoreCompileInputs.cache
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-22-BarraDeProgreso\obj\Debug\BarraDeProgreso.dll
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-22-BarraDeProgreso\obj\Debug\BarraDeProgreso.pdb
+I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-22-BarraDeProgreso\bin\Debug\BarraDeProgreso.dll
+I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-22-BarraDeProgreso\bin\Debug\BarraDeProgreso.pdb
+I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-22-BarraDeProgreso\obj\Debug\Clase-22-BarraDeProgreso.csprojAssemblyReference.cache
+I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-22-BarraDeProgreso\obj\Debug\BarraDeProgreso.Barra.resources
+I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-22-BarraDeProgreso\obj\Debug\Clase-22-BarraDeProgreso.csproj.GenerateResource.cache
+I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-22-BarraDeProgreso\obj\Debug\Clase-22-BarraDeProgreso.csproj.CoreCompileInputs.cache
+I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-22-BarraDeProgreso\obj\Debug\BarraDeProgreso.dll
+I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-22-BarraDeProgreso\obj\Debug\BarraDeProgreso.pdb

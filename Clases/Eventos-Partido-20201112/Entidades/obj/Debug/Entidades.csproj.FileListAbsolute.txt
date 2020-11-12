@@ -1,0 +1,5 @@
+C:\Users\Fede\source\repos\Eventos\Entidades\bin\Debug\Entidades.dll
+C:\Users\Fede\source\repos\Eventos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Fede\source\repos\Eventos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fede\source\repos\Eventos\Entidades\obj\Debug\Entidades.dll
+C:\Users\Fede\source\repos\Eventos\Entidades\obj\Debug\Entidades.pdb

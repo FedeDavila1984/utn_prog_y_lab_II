@@ -14,11 +14,11 @@ namespace Ej54_Libreria
     [Serializable]
     public class Centralita : ISerializable
     {
-        private List<Llamada> _listaDeLlamadas;
-        protected string _razonSocial;
+        private List<Llamada> listaDeLlamadas;
+        protected string razonSocial;
         private string ruta;
 
-        #region Propiedades
+        #region Propiedades de la Clase
         /// <summary>
         /// Retorna la lista de llamadas de la central
         /// </summary>
@@ -26,7 +26,7 @@ namespace Ej54_Libreria
         {
             get
             {
-                return this._listaDeLlamadas;
+                return this.listaDeLlamadas;
             }
         }
         /// <summary>
@@ -64,12 +64,12 @@ namespace Ej54_Libreria
         #region Constructores
         public Centralita()
         {
-            this._listaDeLlamadas = new List<Llamada>();
+            this.listaDeLlamadas = new List<Llamada>();
         }
         public Centralita(string nombreEmpresa)
             : this()
         {
-            this._razonSocial = nombreEmpresa;
+            this.razonSocial = nombreEmpresa;
         }
         #endregion
 
@@ -124,7 +124,7 @@ namespace Ej54_Libreria
         {
             float total = 0;
             // Recorro la lista de llamadas.
-            foreach (Llamada l in this._listaDeLlamadas)
+            foreach (Llamada l in this.Llamadas)
             {
                 // Según el tipo de llamada que quiero analizar, opero.
                 switch (tipo)
@@ -132,23 +132,26 @@ namespace Ej54_Libreria
                     case Llamada.TipoLlamada.Local:
                         // Si el TipoLlamada es Local y la clase es del tipo Local...
                         if (l is Local)
-                            total += ((Local)l).CostoLlamada;
+                            total += l.CostoLlamada;
                         break;
                     case Llamada.TipoLlamada.Provincial:
                         // Si el TipoLlamada es Provincial y la clase es del tipo Provincial...
                         if (l is Provincial)
-                            total += ((Provincial)l).CostoLlamada;
+                            total += l.CostoLlamada;
                         break;
                     case Llamada.TipoLlamada.Todas:
                         // Si el TipoLlamada es Todas y verifico el tipo de la llamada para castear.
-                        if (l is Local)
-                            total += ((Local)l).CostoLlamada;
+                        /*if (l is Local)
+                        {
+                            Local llamadaLocal = (Local)l;
+                            total += llamadaLocal.CostoLlamada;
+                        }
                         else if (l is Provincial)
-                            total += ((Provincial)l).CostoLlamada;
+                            total += ((Provincial)l).CostoLlamada;*/
+                        total += l.CostoLlamada;
                         break;
                 }
             }
-
             return total;
         }
         /// <summary>
@@ -159,7 +162,7 @@ namespace Ej54_Libreria
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine("CENTRAL  : " + this._razonSocial);
+            sb.AppendLine("CENTRAL  : " + this.razonSocial);
             sb.AppendLine("*******************************************");
 
             sb.AppendLine("GANANCIAS");
@@ -169,7 +172,7 @@ namespace Ej54_Libreria
 
             sb.AppendLine("*******************************************");
             sb.AppendLine("DETALLE DE LLAMADAS");
-            foreach (Llamada llamada in this._listaDeLlamadas)
+            foreach (Llamada llamada in this.listaDeLlamadas)
             {
                 sb.AppendLine(llamada.ToString());
             }
@@ -184,7 +187,7 @@ namespace Ej54_Libreria
 
         private void AgregarLlamada(Llamada nuevaLlamada)
         {
-            this._listaDeLlamadas.Add(nuevaLlamada);
+            this.listaDeLlamadas.Add(nuevaLlamada);
             try
             {
                 this.GuardarEnArchivo(nuevaLlamada, true);
@@ -261,7 +264,7 @@ namespace Ej54_Libreria
                 myFileStream.Close();
 
                 // Copio los datos
-                this._listaDeLlamadas = c.Llamadas;
+                this.listaDeLlamadas = c.Llamadas;
                 //this._razonSocial = c._razonSocial;
 
                 return true;

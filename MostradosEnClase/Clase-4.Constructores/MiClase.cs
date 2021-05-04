@@ -25,8 +25,8 @@ namespace EntidadesYConstructores
             this.x = x;
         }
 
-        public MiClase(int x, int y)
-            : this(x)
+        public MiClase(int juancarlos, int y)
+            : this(juancarlos)
         {
             this.y = y;
         }
@@ -38,3 +38,6 @@ namespace EntidadesYConstructores
         }
     }
 }
+
+
+

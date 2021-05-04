@@ -14,12 +14,14 @@ namespace Clase3.Constructores
         {
             MiClase.otroatrib = 1000;
             MiClase.atributoStatic = 1;
+
             MiClase a = new MiClase(100);
             MiClase b = new MiClase(10);
             MiClase c = new MiClase(102);
             new MiClase(100);
             MiClase d = new MiClase(100);
             MiClase e = new MiClase(100);
+
             Console.ReadKey();
 
 

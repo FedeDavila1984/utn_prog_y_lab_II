@@ -29,9 +29,10 @@ namespace ManejoDeErrores
             {
                 // throw ex;
                 Console.WriteLine(ex.ToString());
-                throw new MiClaseException("Error al intentar dividir!!!",
-                                           "Class Program.Dividir",
-                                           ex);
+                //throw new MiClaseException("Error al intentar dividir!!!",
+                //                           "Class Program.Dividir",
+                //                           ex);
+                throw new StackOverflowException("El número 0 no es válido para esta operación", ex);
             }
             finally
             {
@@ -52,11 +53,11 @@ namespace ManejoDeErrores
             {
                 double res;
 
-                ArrojarExcepcion(); // Comentar para seguir probando
+                // ArrojarExcepcion(); // Comentar para seguir probando
 
-                res = Dividir(1, 0); // Comentar para seguir probando
+                // res = Dividir(1, 0); // Comentar para seguir probando
 
-                //res = Dividir(1, 5); // Comentar para seguir probando
+                // res = Dividir(1, 5); // Comentar para seguir probando
 
                 res = Dividir(1, 1);
                 Console.WriteLine("Resultado: {0}", res);
@@ -66,12 +67,12 @@ namespace ManejoDeErrores
                 Console.WriteLine(ex.ToString());
                 Console.WriteLine("InnerException: {0}", ex.InnerException);
             }
-            /*catch (Exception ex) //CAPTURO CUALQUIER EXCEPCION
+            catch (Exception ex) //CAPTURO CUALQUIER EXCEPCION
             {
                 Console.WriteLine(ex.Message);
-            }*/
+            }
                             
-            Console.ReadLine();
+            Console.ReadKey();
 
         }
 

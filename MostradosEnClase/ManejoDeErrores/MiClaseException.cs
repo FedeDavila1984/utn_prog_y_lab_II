@@ -22,7 +22,17 @@ namespace ManejoDeErrores
         /// <param name="mensaje">MENSAJE DE ERROR PERSONALIZADO</param>
         public MiClaseException(string mensaje)
             : base(mensaje) 
-        { 
+        {
+        }
+
+        /// <summary>
+        /// PASO EL MENSAJE DE ERROR PERSONALIZADO Y LA EXCEPCION 
+        /// </summary>
+        /// <param name="mensaje">MENSAJE DE ERROR PERSONALIZADO</param>
+        /// <param name="innerException">EXCEPCION</param>
+        public MiClaseException(string mensaje, Exception innerException)
+            : base(mensaje, innerException)
+        {
         }
 
         /// <summary>
@@ -34,16 +44,6 @@ namespace ManejoDeErrores
             : base(mensaje)
         {
             base.Source = origenError;
-        }
-
-        /// <summary>
-        /// PASO EL MENSAJE DE ERROR PERSONALIZADO Y LA EXCEPCION 
-        /// </summary>
-        /// <param name="mensaje">MENSAJE DE ERROR PERSONALIZADO</param>
-        /// <param name="innerException">EXCEPCION</param>
-        public MiClaseException(string mensaje, Exception innerException)
-            : base(mensaje, innerException) 
-        { 
         }
 
         /// <summary>

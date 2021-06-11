@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL", "SQL\SQL.csproj", "{13752C17-AB60-4803-A097-62B226F73820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{AEE4068F-A9DD-4E02-A218-DCAA010EFB6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13752C17-AB60-4803-A097-62B226F73820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13752C17-AB60-4803-A097-62B226F73820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13752C17-AB60-4803-A097-62B226F73820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13752C17-AB60-4803-A097-62B226F73820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE4068F-A9DD-4E02-A218-DCAA010EFB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE4068F-A9DD-4E02-A218-DCAA010EFB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE4068F-A9DD-4E02-A218-DCAA010EFB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE4068F-A9DD-4E02-A218-DCAA010EFB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {186A50DD-A383-462D-83AD-3BE2F7504144}
+	EndGlobalSection
+EndGlobal

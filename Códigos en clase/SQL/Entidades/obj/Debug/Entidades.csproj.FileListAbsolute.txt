@@ -1,0 +1,7 @@
+C:\Users\Darth Vader\source\repos\SQL\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Darth Vader\source\repos\SQL\Entidades\bin\Debug\Entidades.dll
+C:\Users\Darth Vader\source\repos\SQL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Darth Vader\source\repos\SQL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Darth Vader\source\repos\SQL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Darth Vader\source\repos\SQL\Entidades\obj\Debug\Entidades.dll
+C:\Users\Darth Vader\source\repos\SQL\Entidades\obj\Debug\Entidades.pdb

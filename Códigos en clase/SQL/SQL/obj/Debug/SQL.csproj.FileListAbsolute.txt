@@ -1,0 +1,14 @@
+C:\Users\Darth Vader\source\repos\SQL\SQL\bin\Debug\SQL.exe.config
+C:\Users\Darth Vader\source\repos\SQL\SQL\bin\Debug\SQL.exe
+C:\Users\Darth Vader\source\repos\SQL\SQL\bin\Debug\SQL.pdb
+C:\Users\Darth Vader\source\repos\SQL\SQL\bin\Debug\Entidades.dll
+C:\Users\Darth Vader\source\repos\SQL\SQL\bin\Debug\Entidades.pdb
+C:\Users\Darth Vader\source\repos\SQL\SQL\bin\Debug\Entidades.dll.config
+C:\Users\Darth Vader\source\repos\SQL\SQL\obj\Debug\SQL.csproj.AssemblyReference.cache
+C:\Users\Darth Vader\source\repos\SQL\SQL\obj\Debug\SQL.FrmPrueba.resources
+C:\Users\Darth Vader\source\repos\SQL\SQL\obj\Debug\SQL.Properties.Resources.resources
+C:\Users\Darth Vader\source\repos\SQL\SQL\obj\Debug\SQL.csproj.GenerateResource.cache
+C:\Users\Darth Vader\source\repos\SQL\SQL\obj\Debug\SQL.csproj.CoreCompileInputs.cache
+C:\Users\Darth Vader\source\repos\SQL\SQL\obj\Debug\SQL.csproj.CopyComplete
+C:\Users\Darth Vader\source\repos\SQL\SQL\obj\Debug\SQL.exe
+C:\Users\Darth Vader\source\repos\SQL\SQL\obj\Debug\SQL.pdb

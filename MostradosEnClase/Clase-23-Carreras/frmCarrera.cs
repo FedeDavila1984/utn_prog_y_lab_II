@@ -66,6 +66,7 @@ namespace Carreras
             foreach (Animal a in this.carrera)
             {
                 a.AvisoAvance += this.Corren;
+                a.AvisoAvance += this.CorrenMucho;
                 this.carreraHilos.Add(new Thread(a.Correr));
             }
             // Para que no haya supuestas ventajas, inicio todos después
@@ -73,6 +74,11 @@ namespace Carreras
             {
                 t.Start();
             }
+        }
+
+        private void CorrenMucho(int a, int b)
+        {
+            MessageBox.Show("CORREN MUCHO");
         }
 
         private void HayGanador(int carril)

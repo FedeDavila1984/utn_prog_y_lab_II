@@ -1,0 +1,20 @@
+C:\Users\Darth Vader\source\repos\HilosEventos\HilosEventos\bin\Debug\HilosEventos.exe.config
+C:\Users\Darth Vader\source\repos\HilosEventos\HilosEventos\bin\Debug\HilosEventos.exe
+C:\Users\Darth Vader\source\repos\HilosEventos\HilosEventos\bin\Debug\HilosEventos.pdb
+C:\Users\Darth Vader\source\repos\HilosEventos\HilosEventos\obj\Debug\HilosEventos.csproj.AssemblyReference.cache
+C:\Users\Darth Vader\source\repos\HilosEventos\HilosEventos\obj\Debug\HilosEventos.FrmTest.resources
+C:\Users\Darth Vader\source\repos\HilosEventos\HilosEventos\obj\Debug\HilosEventos.Properties.Resources.resources
+C:\Users\Darth Vader\source\repos\HilosEventos\HilosEventos\obj\Debug\HilosEventos.csproj.GenerateResource.cache
+C:\Users\Darth Vader\source\repos\HilosEventos\HilosEventos\obj\Debug\HilosEventos.csproj.CoreCompileInputs.cache
+C:\Users\Darth Vader\source\repos\HilosEventos\HilosEventos\obj\Debug\HilosEventos.exe
+C:\Users\Darth Vader\source\repos\HilosEventos\HilosEventos\obj\Debug\HilosEventos.pdb
+I:\UTN\utn_prog_y_lab_II\Códigos en clase\HilosEventos\HilosEventos\bin\Debug\HilosEventos.exe.config
+I:\UTN\utn_prog_y_lab_II\Códigos en clase\HilosEventos\HilosEventos\bin\Debug\HilosEventos.exe
+I:\UTN\utn_prog_y_lab_II\Códigos en clase\HilosEventos\HilosEventos\bin\Debug\HilosEventos.pdb
+I:\UTN\utn_prog_y_lab_II\Códigos en clase\HilosEventos\HilosEventos\obj\Debug\HilosEventos.csproj.AssemblyReference.cache
+I:\UTN\utn_prog_y_lab_II\Códigos en clase\HilosEventos\HilosEventos\obj\Debug\HilosEventos.FrmTest.resources
+I:\UTN\utn_prog_y_lab_II\Códigos en clase\HilosEventos\HilosEventos\obj\Debug\HilosEventos.Properties.Resources.resources
+I:\UTN\utn_prog_y_lab_II\Códigos en clase\HilosEventos\HilosEventos\obj\Debug\HilosEventos.csproj.GenerateResource.cache
+I:\UTN\utn_prog_y_lab_II\Códigos en clase\HilosEventos\HilosEventos\obj\Debug\HilosEventos.csproj.CoreCompileInputs.cache
+I:\UTN\utn_prog_y_lab_II\Códigos en clase\HilosEventos\HilosEventos\obj\Debug\HilosEventos.exe
+I:\UTN\utn_prog_y_lab_II\Códigos en clase\HilosEventos\HilosEventos\obj\Debug\HilosEventos.pdb

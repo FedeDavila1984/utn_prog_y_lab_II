@@ -7,11 +7,12 @@ using System.Threading.Tasks;
 
 namespace HilosEventos
 {
-    public delegate void Callback(string mensaje);
+    public delegate string Callback(string mensaje);
 
-    internal class Descargador
+    public class Descargador
     {
         public event Callback FinDescarga;
+        //public Callback FinDescarga;
 
         public void DescargarMaterial(object url)
         {
@@ -19,8 +20,10 @@ namespace HilosEventos
 
             // int a = true ? 1 : 2;
             // this.FinDescarga?.Invoke(aux);
-            if (!object.ReferenceEquals(this.FinDescarga, null))
-                this.FinDescarga.Invoke(aux);
+            if (!object.ReferenceEquals(this.FinDescarga, null)) { 
+                string fin = this.FinDescarga.Invoke(aux);
+                Console.WriteLine(fin);
+            }
         }
 
         public string DescargarMaterial(string url)

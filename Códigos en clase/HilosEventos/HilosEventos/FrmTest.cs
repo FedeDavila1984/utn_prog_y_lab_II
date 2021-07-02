@@ -25,7 +25,9 @@ namespace HilosEventos
         {
             Descargador d = new Descargador();
             // Suscribo mi evento
-            d.FinDescarga += this.ImprimirDescarga;
+            //d.FinDescarga += this.ImprimirDescarga;
+            //d.FinDescarga += this.ImprimirDescarga2;
+            //d.FinDescarga += this.ImprimirDescarga3;
 
             if (this.descarga == null || !this.descarga.IsAlive) { 
                 this.descarga = new Thread(new ParameterizedThreadStart(d.DescargarMaterial));
@@ -40,9 +42,19 @@ namespace HilosEventos
             if (this.descarga != null)
                 this.descarga.Abort();
         }
+        public string ImprimirDescarga2(string mensaje)
+        {
+            MessageBox.Show("ImprimirDescarga2");
+            return "2";
+        }
+        public string ImprimirDescarga3(string mensaje)
+        {
+            MessageBox.Show("ImprimirDescarga3");
+            return "3";
+        }
 
         // CREADO EN DESCARGADOR -> public delegate void Callback(string mensaje);
-        public void ImprimirDescarga(string mensaje)
+        public string ImprimirDescarga(string mensaje)
         {
             // if (this.InvokeRequired)
             if (this.rtbArchivo.InvokeRequired)
@@ -56,6 +68,7 @@ namespace HilosEventos
             {
                 this.rtbArchivo.Text = mensaje;
             }
+            return "1";
         }
     }
 }

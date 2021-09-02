@@ -1,0 +1,16 @@
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\bin\Debug\net5.0\Clase 1.exe
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\bin\Debug\net5.0\Clase 1.deps.json
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\bin\Debug\net5.0\Clase 1.runtimeconfig.json
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\bin\Debug\net5.0\Clase 1.runtimeconfig.dev.json
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\bin\Debug\net5.0\Clase 1.dll
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\bin\Debug\net5.0\ref\Clase 1.dll
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\bin\Debug\net5.0\Clase 1.pdb
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\obj\Debug\net5.0\Clase 1.csproj.AssemblyReference.cache
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\obj\Debug\net5.0\Clase 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\obj\Debug\net5.0\Clase 1.AssemblyInfoInputs.cache
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\obj\Debug\net5.0\Clase 1.AssemblyInfo.cs
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\obj\Debug\net5.0\Clase 1.csproj.CoreCompileInputs.cache
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\obj\Debug\net5.0\Clase 1.dll
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\obj\Debug\net5.0\ref\Clase 1.dll
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\obj\Debug\net5.0\Clase 1.pdb
+C:\Users\Darth Vader\source\repos\App Consola\Clase 1\obj\Debug\net5.0\Clase 1.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Darth Vader\source\repos\App Consola\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Darth Vader\source\repos\App Consola\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Darth Vader\source\repos\App Consola\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Darth Vader\source\repos\App Consola\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Darth Vader\source\repos\App Consola\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Darth Vader\source\repos\App Consola\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darth Vader\source\repos\App Consola\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Darth Vader\source\repos\App Consola\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Darth Vader\source\repos\App Consola\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Darth Vader\source\repos\App Consola\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Darth Vader\source\repos\App Consola\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Darth Vader\source\repos\App Consola\Entidades\obj\Debug\net5.0\Entidades.pdb

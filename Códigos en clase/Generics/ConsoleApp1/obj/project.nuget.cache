@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8AVUTnyPLXlrm5pQwXfA/XKsKSS80c6q7fiBT4DwXKIMJnPd02ORa+9jJ9FL8SULE1nr7dy4a88zbXdj4LDgCw==",
+  "success": true,
+  "projectFilePath": "I:\\UTN\\utn_prog_y_lab_II\\Códigos en clase\\Generics\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darth Vader\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

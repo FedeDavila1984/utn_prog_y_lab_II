@@ -32,9 +32,3 @@ I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\bin\Debug\
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\obj\Debug\Clase-25-Extension.csproj.CoreCompileInputs.cache
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\obj\Debug\Clase-25-Extension.exe
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\obj\Debug\Clase-25-Extension.pdb
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\bin\Debug\Clase-25-Extension.exe.config
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\bin\Debug\Clase-25-Extension.exe
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\bin\Debug\Clase-25-Extension.pdb
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\obj\Debug\Clase-25-Extension.csproj.CoreCompileInputs.cache
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\obj\Debug\Clase-25-Extension.exe
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-25-Extension\obj\Debug\Clase-25-Extension.pdb

@@ -14,10 +14,10 @@ namespace JSon
 
         public string Nombre
         {
-            get
-            {
-                return this.nombre;
-            }
+            //get
+            //{
+            //    return this.nombre;
+            //}
             set
             {
                 this.nombre = value;
@@ -50,7 +50,7 @@ namespace JSon
 
         public override string ToString()
         {
-            return string.Format("{0} {1}", this.Nombre, this.Vencimiento);
+            return string.Format("{0} {1}", this.nombre, this.Vencimiento);
         }
     }
 }

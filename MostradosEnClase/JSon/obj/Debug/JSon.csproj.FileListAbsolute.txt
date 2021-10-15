@@ -35,12 +35,3 @@ I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.csproj.Co
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.csproj.CopyComplete
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.exe
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.pdb
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.csproj.AssemblyReference.cache
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.csproj.CoreCompileInputs.cache
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.exe
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\obj\Debug\JSon.pdb
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\JSon.exe.config
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\JSon.exe
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\JSon.pdb
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\Newtonsoft.Json.dll
-I:\UTN\utn_prog_y_lab_II\MostradosEnClase\JSon\bin\Debug\Newtonsoft.Json.xml

@@ -34,6 +34,7 @@ namespace View
             this.label2 = new System.Windows.Forms.Label();
             this.btnConsultar = new System.Windows.Forms.Button();
             this.btnFinalizar = new System.Windows.Forms.Button();
+            this.pgbMovimiento = new System.Windows.Forms.ProgressBar();
             this.SuspendLayout();
             // 
             // label1
@@ -86,11 +87,21 @@ namespace View
             this.btnFinalizar.UseVisualStyleBackColor = true;
             this.btnFinalizar.Click += new System.EventHandler(this.btnFinalizar_Click);
             // 
+            // pgbMovimiento
+            // 
+            this.pgbMovimiento.Location = new System.Drawing.Point(12, 183);
+            this.pgbMovimiento.Maximum = 10;
+            this.pgbMovimiento.Name = "pgbMovimiento";
+            this.pgbMovimiento.Size = new System.Drawing.Size(444, 23);
+            this.pgbMovimiento.Step = 1;
+            this.pgbMovimiento.TabIndex = 5;
+            // 
             // FrmCaminata
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(470, 218);
+            this.Controls.Add(this.pgbMovimiento);
             this.Controls.Add(this.btnFinalizar);
             this.Controls.Add(this.btnConsultar);
             this.Controls.Add(this.label2);
@@ -99,7 +110,6 @@ namespace View
             this.Name = "FrmCaminata";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "La persona caminará 1 paso por segundo hasta finalizar.";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -112,6 +122,7 @@ namespace View
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnConsultar;
         private System.Windows.Forms.Button btnFinalizar;
+        private System.Windows.Forms.ProgressBar pgbMovimiento;
     }
 }
 

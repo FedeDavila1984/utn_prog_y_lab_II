@@ -78,7 +78,7 @@ namespace Carreras
 
         private void CorrenMucho(int a, int b)
         {
-            MessageBox.Show("CORREN MUCHO");
+            //MessageBox.Show("CORREN MUCHO");
         }
 
         private void HayGanador(int carril)

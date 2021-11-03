@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Threading;
-using System.Threading.Tasks;
+﻿using System.Threading;
 
 namespace Entidades
 {
@@ -9,6 +6,8 @@ namespace Entidades
     {
         private string nombre;
         private int pasosDados;
+
+        public event CaminoDelegate EventoCamino;
 
         public Persona(string nombre)
         {
@@ -26,9 +25,14 @@ namespace Entidades
         {
             while(true)
             {
-                pasosDados++;
+                this.pasosDados++;
+
                 if (cancellationToken.IsCancellationRequested)
                     return;
+
+                if (!(this.EventoCamino is null))
+                    this.EventoCamino.Invoke(this.pasosDados);
+
                 Thread.Sleep(1000);
             }
         }

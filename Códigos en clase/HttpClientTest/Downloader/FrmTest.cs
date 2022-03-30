@@ -37,6 +37,7 @@ namespace Downloader
         {
             Descargador d = new Descargador();
             d.FinDescarga += FinDescargaJson;
+            d.ErrorDescarga += FinDescargaJson;
             d.Descargar(url, sender);
         }
 
